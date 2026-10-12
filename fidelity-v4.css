@@ -24,3 +24,5 @@
 #bm .faq-section+.ticker{height:145px}
 @media(max-width:1199px) and (min-width:640px){#bm .desktop-header{padding:0 20px;width:100%;gap:15px}#bm .desktop-header>a{position:static}#bm .desktop-header>a img{width:120px}#bm .desktop-header nav{position:static;display:flex;font-size:12px;gap:12px;flex:1}#bm .desktop-header nav a{position:static;transform:none;width:auto!important}#bm .desktop-header .socials{display:none}}
 @media(max-width:639px){#bm .teacher-section{padding-bottom:0}#bm .events{min-height:650px}#bm .about-video .reviewframe{height:auto!important}#bm .foot{min-height:0}#bm .faq-section+.ticker{height:100px}}
+
+#bm .desktop-header nav{font-family:BMOriginal,Arial,sans-serif}#bm .contact-copy p+p{margin-top:25px}#bm .contact-copy p:last-of-type{font-size:14px;line-height:25px}
