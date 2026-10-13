@@ -1,0 +1,15 @@
+#bm .ticker.motion-ticker{justify-content:flex-start;font-size:18px;overflow:hidden}
+#bm .ticker-track{display:flex;flex:none;width:max-content;animation:bm-ticker var(--ticker-duration) linear infinite;animation-play-state:paused}
+#bm .ticker.motion-active .ticker-track{animation-play-state:running}
+#bm .ticker-item{display:flex;align-items:center;flex:none;white-space:nowrap}
+#bm .ticker-word{padding:0 10px}
+#bm .ticker-dot{width:6px;height:6px;border-radius:50%;background:currentColor;flex:none}
+#s886675297{--motion-x:-1422px;--motion-y:0px}
+#s886675297.motion-active .el{animation:bm-gradient-line 12s linear infinite}
+@keyframes bm-ticker{to{transform:translateX(calc(-1 * var(--ticker-distance)))}}
+@keyframes bm-gradient-line{to{translate:var(--motion-x) var(--motion-y)}}
+@media(max-width:1199px){#s886675297{--motion-x:-1420px}}
+@media(max-width:959px){#s886675297{--motion-x:-1220px}}
+@media(max-width:639px){#s886675297{--motion-x:-840px;--motion-y:1px}}
+@media(max-width:479px){#bm .ticker.motion-ticker{font-size:14px}#s886675297{--motion-x:-660px}}
+@media(prefers-reduced-motion:reduce){#bm .ticker-track,#s886675297.motion-active .el{animation:none}}
