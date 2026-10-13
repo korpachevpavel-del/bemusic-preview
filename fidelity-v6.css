@@ -1,0 +1,14 @@
+#bm .directions-toggle{position:absolute;left:235px;top:50%;transform:translateY(-50%);width:135px;border:0;padding:0;background:none;text-align:left;color:#1e1e1e;font:400 15px/1.1 BMOriginal,Arial,sans-serif;white-space:nowrap}
+#bm .directions-menu{position:absolute;left:202.5px;top:85px;width:200px;background:white;border-radius:15px;box-shadow:0 8px 25px #0002;padding:15px 12px;text-align:center;z-index:102}
+#bm .directions-menu[hidden]{display:none}
+#bm .directions-menu:before{content:'';position:absolute;top:-6px;left:calc(50% - 6px);width:12px;height:12px;transform:rotate(45deg);background:white}
+#bm .desktop-header nav .directions-menu a{position:static;display:block;width:auto!important;transform:none;white-space:normal;font-size:14px;line-height:1.4;padding:8px 0}
+#bm .directions-menu a:hover,#bm .directions-menu a:focus-visible{color:#074ebc}
+#bm .teacher-track{padding-left:0;padding-right:0;overscroll-behavior-x:contain;scroll-snap-type:x mandatory}
+#bm .slider-status{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+#bm .photo-dialog{max-width:1000px;width:calc(100% - 30px)}
+#bm .lightbox-controls{display:flex;justify-content:center;align-items:center;gap:25px;margin-top:15px}
+#bm .lightbox-controls button{border:0;border-radius:50%;width:40px;height:40px;background:#074ebc;color:white;font-size:28px}
+@media(min-width:640px) and (max-width:1199px){#bm .directions-toggle{position:static;transform:none;width:auto;font-size:12px}#bm .directions-menu{left:140px;top:80px}}
+@media(max-width:639px){#bm .mobile-header .directions-toggle{position:static;transform:none;width:auto;font-size:13px}#bm .mobile-header .directions-menu{position:static;width:auto;padding:5px 0;box-shadow:none;text-align:left}#bm .mobile-header .directions-menu:before{display:none}#bm .mobile-header .directions-menu a{font-size:12px;display:block;padding:8px 0;line-height:1.4}#bm .photo-dialog{padding:20px}}
+@media(prefers-reduced-motion:reduce){#bm *{scroll-behavior:auto!important}}
