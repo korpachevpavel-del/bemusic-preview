@@ -1,0 +1,4 @@
+#bm .photo-strip .gallery-slide{flex:0 0 100%;height:100%;scroll-snap-align:start;cursor:default}
+#bm .photo-nav{background:#fff}
+#bm .photo-nav svg{display:block;width:30px;height:30px}
+#bm .photo-prev svg{transform:rotate(180deg)}
