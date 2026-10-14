@@ -1,0 +1,17 @@
+#bm dialog.teacher-dialog[open]{position:fixed;inset:0;display:flex;flex-direction:column;box-sizing:border-box;margin:0;width:100%;height:100%;max-width:100%;max-height:100%;padding:65px 20px;border:0;border-radius:0;overflow:auto;background:rgba(0,0,0,.6);color:#000}
+#bm dialog.teacher-dialog::backdrop{background:transparent}
+#bm .teacher-dialog [data-dialog]{flex:none;width:760px;max-width:100%;margin:auto;box-sizing:border-box;background:#fff;padding:40px 45px;text-align:center}
+#bm .teacher-dialog .teacher-uptitle{font-size:18px;font-weight:600;line-height:normal;margin:0 0 12px}
+#bm .teacher-dialog h3{font-size:24px;font-weight:700;line-height:1.17;margin:0;text-transform:uppercase}
+#bm .teacher-dialog .teacher-bio{font-size:16px;line-height:1.55;font-weight:400;margin:17px 0 0;text-align:center}
+#bm .teacher-dialog .teacher-bio ul{padding:0 0 0 20px;margin:0 0 10px;text-align:left}
+#bm .teacher-dialog .teacher-bio li{padding:0;margin:0;line-height:inherit;text-align:left}
+#bm .teacher-dialog .teacher-bio p{margin:0}
+#bm .teacher-dialog .teacher-bio strong{font-weight:700}
+#bm .teacher-dialog .teacher-action{margin:16px 0 0}
+#bm .teacher-dialog .teacher-action a{display:inline-block;padding:14.5px 44px;max-width:100%;box-sizing:border-box;background:#074ebc;color:#fff;border:0;border-radius:100px;text-decoration:none;font-size:15px;line-height:1.4;font-weight:400}
+#bm .teacher-dialog .close{position:fixed;top:10px;right:25px;left:auto;width:43px;height:43px;padding:0;border:0;background:transparent;border-radius:0;font-size:0;z-index:2}
+#bm .teacher-dialog .close::before,#bm .teacher-dialog .close::after{content:'';position:absolute;left:6.5px;top:20.5px;width:30px;height:2px;background:#074ebc;transform:rotate(45deg)}
+#bm .teacher-dialog .close::after{transform:rotate(-45deg)}
+@media(max-width:1200px){#bm .teacher-dialog [data-dialog]{width:620px}}
+@media(max-width:640px){#bm .teacher-dialog [data-dialog]{width:100%;padding:20px}#bm .teacher-dialog .teacher-uptitle{margin-bottom:6px}#bm .teacher-dialog h3{font-size:18px}#bm .teacher-dialog .teacher-bio{margin-top:8px;line-height:1.45}}
