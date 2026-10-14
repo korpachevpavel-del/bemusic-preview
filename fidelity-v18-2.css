@@ -1,0 +1,34 @@
+/* Original trial form geometry; submission remains deliberately disabled. */
+#bm dialog.order-dialog{width:100%;max-width:none;height:100%;max-height:none;inset:0;margin:0;padding:65px 20px;border-radius:0;background:transparent;overflow:auto;box-sizing:border-box}
+#bm dialog.order-dialog::backdrop{background:rgba(0,0,0,.6)}
+#bm .order-dialog [data-dialog]{width:560px;margin:auto;background:#fff;border-radius:15px;overflow:hidden}
+#bm .order-dialog>.close{position:fixed;right:25px;top:10px;width:43px;height:43px;background:transparent;color:#074ebc;border-radius:0;font-size:36px;font-weight:300}
+#bm .order-logo{margin-top:-1px}
+#bm .order-content{padding:40px 45px}
+#bm .order-content h3{font-size:36px;line-height:1.23;margin:0 0 11px}
+#bm .order-description{font-size:14px;line-height:1.55;margin:0 0 24px}
+#bm .order-form>label:not(.order-consent){font-size:18px;line-height:1.55;margin:0 0 25px}
+#bm .order-form input:not([type=checkbox]):not([type=radio]){display:block;font-size:16px;line-height:1.33;height:60px;padding:0}
+#bm .order-form .order-consent{font-size:13px;line-height:1.2;margin:0 0 20px;padding-top:2.2px;gap:10px}
+#bm .order-consent input{margin-top:-2.2px;appearance:none;border:2px solid #000;opacity:.6;border-radius:0;background:#fff}
+#bm .order-consent input:checked{background:#074ebc;box-shadow:inset 0 0 0 3px #fff}
+#bm .order-submit{height:auto;min-height:0;margin-top:5px;padding:15.8px 60px;font-size:16px;line-height:1.4;border-radius:30px}
+#bm .order-submit:disabled{opacity:1;cursor:default}
+@media(max-width:1200px){#bm .order-dialog [data-dialog]{width:460px}}
+@media(max-width:960px){#bm .order-content{padding:30px}}
+@media(max-width:560px){
+ #bm dialog.order-dialog{padding:0}
+ #bm .order-dialog [data-dialog]{width:100%;min-height:100%;padding-top:50px;box-sizing:border-box}
+ #bm .order-dialog>.close{top:0;right:0;width:100%;height:50px;background:#000;color:#074ebc;text-align:right;padding:7px 20px;font-size:30px}
+ #bm .order-content{padding:20px}
+ #bm .order-content h3{font-size:28px;line-height:1.23;margin-bottom:6px}
+ #bm .order-description{font-size:10px;line-height:1.45;margin-bottom:14px}
+ #bm .order-form>label:not(.order-consent){font-size:14px;line-height:1.45;margin-bottom:20px}
+ #bm .order-form input:not([type=checkbox]):not([type=radio]){height:50px}
+ #bm .order-form .order-consent{font-size:10px;line-height:12px;padding-top:4px}
+ #bm .order-consent input{margin-top:-4px}
+ #bm .order-submit{padding:13.8px 30px}
+}
+
+#bm .order-submit{font-weight:400}
+@media(max-width:560px){#bm .order-dialog [data-dialog]{width:100vw}#bm dialog.order-dialog{overflow-x:hidden}}
