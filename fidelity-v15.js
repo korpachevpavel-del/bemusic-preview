@@ -1,0 +1,1 @@
+(()=>{const run=()=>{const h=document.querySelector('#bm .faq-layout h2');if(h)h.textContent='У нас часто спрашивают';};if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',run);else run();})();

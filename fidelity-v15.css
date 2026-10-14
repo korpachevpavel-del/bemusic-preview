@@ -1,0 +1,14 @@
+/* FAQ geometry measured against the original. */
+#bm .faq-layout{width:1160px;max-width:calc(100% - 40px);display:grid;grid-template-columns:460px 560px;gap:140px;align-items:start}
+#bm .faq{border-bottom:2px solid #074ebc}
+#bm .faq summary{padding:27px 50px 27px 0}
+#bm .faq summary::before{right:9px;width:22px;height:22px;background:linear-gradient(white,white) center/22px 2px no-repeat,linear-gradient(white,white) center/2px 22px no-repeat}
+#bm .faq details[open] summary::before{transform:translateY(-50%) rotate(-45deg)}
+#bm .faq .answer{font-size:16px;line-height:1.55;margin:0;padding:0 0 40px}
+#bm .faq .answer ul{margin:0 0 10px;padding:0 0 0 20px}
+#bm .faq .answer li{margin:0;padding:0;line-height:inherit}
+#bm .faq .answer a{color:#074ebc;text-decoration:none;border-bottom:1px solid #074ebc}
+#bm .faq details:nth-child(4) .answer>strong:first-child,#bm .faq details:nth-child(4) .answer>strong:last-of-type{color:#074ebc}
+@media(min-width:961px) and (max-width:1200px){#bm .faq-layout{width:940px;max-width:calc(100% - 20px);grid-template-columns:380px 460px;gap:100px}}
+@media(max-width:960px){#bm .faq-layout{width:600px;max-width:calc(100% - 40px);grid-template-columns:1fr;gap:45px}}
+@media(max-width:640px){#bm .faq-layout{width:auto;max-width:none;margin:0 20px}#bm .faq summary{padding:15px 50px 14px 0}#bm .faq .answer{line-height:1.45;padding-bottom:25px}}
