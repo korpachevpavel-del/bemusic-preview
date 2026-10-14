@@ -1,0 +1,14 @@
+#bm .order-choice-group{margin-bottom:25px}
+#bm .order-choice-title{font-size:18px;line-height:1.55;padding-right:10px}
+#bm .order-choice-list{padding-top:10px}
+#bm .order-choice{display:flex;align-items:flex-start;gap:10px;height:20px;box-sizing:border-box;padding-top:2.2px;margin:0 0 10px;font-size:13px;line-height:1.2}
+#bm .order-choice:last-child{margin-bottom:0}
+#bm .order-choice input[type=checkbox],#bm .order-choice input[type=radio]{appearance:none;flex:0 0 20px;width:20px;height:20px;margin:-2.2px 0 0;border:2px solid #000;opacity:.6;padding:0;background:#fff}
+#bm .order-choice input[type=checkbox]:checked{background:#074ebc;box-shadow:inset 0 0 0 3px #fff}
+#bm .order-choice input[type=radio]{border-radius:50%}
+#bm .order-choice input[type=radio]:checked{background:#000;box-shadow:inset 0 0 0 3px #fff}
+#bm .order-radio-list{padding-top:5px;padding-bottom:0}
+#bm .order-form .order-choice .order-own-input{flex:1;min-width:0;width:auto;height:20px;margin-top:-2.2px;font-size:13px;line-height:1.2;border-bottom:1px solid #000}
+#bm .order-form .order-own-input[hidden]{display:none}
+@media(min-width:641px) and (max-width:1200px){#bm .order-choice-title{font-size:16px}#bm .order-choice{font-size:12px;padding-top:2.8px}#bm .order-choice input[type=checkbox],#bm .order-choice input[type=radio]{margin-top:-2.8px}#bm .order-form .order-choice .order-own-input{font-size:12px;margin-top:-2.8px}}
+@media(max-width:640px){#bm .order-choice-group{margin-bottom:20px}#bm .order-choice-title{font-size:14px;line-height:1.45}#bm .order-choice{font-size:10px;line-height:12px;padding-top:4px}#bm .order-choice input[type=checkbox],#bm .order-choice input[type=radio]{margin-top:-4px}#bm .order-form .order-choice .order-own-input{font-size:10px;margin-top:-4px}}
