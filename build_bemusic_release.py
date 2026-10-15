@@ -29,6 +29,8 @@ def inline_js(match):
         for quote in ["'", '"']:
             for prefix in ['', './']:
                 text = text.replace(quote + prefix + asset + quote, quote + data + quote)
+    if Path(path).name == 'fidelity-v14-2.js':
+        text = text.replace("img.src='./'+asset", 'img.src=asset')
     if '</script' in text.lower():
         raise RuntimeError(f'Unsafe embedded closing tag: {path}')
     return '<script>\n' + text + '\n</script>'
