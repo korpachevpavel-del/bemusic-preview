@@ -1,0 +1,14 @@
+#bm .quiz-footer-text,#bm .quiz-footer-buttons{display:contents}
+@media(min-width:641px){
+ #bm .quiz .quiz-bottom{gap:40px;left:45px;right:45px;bottom:45px;flex-wrap:nowrap}
+ #bm .quiz .quiz-footer-text{display:flex;align-items:flex-start;gap:15px;max-width:55%;flex:0 1 auto}
+ #bm .quiz .quiz-bottom small{display:block;flex:0 0 auto;font-size:12px;line-height:1.55;opacity:.5;white-space:nowrap;font-variant-numeric:tabular-nums}
+ #bm .quiz .quiz-bottom b{display:block;order:0;flex:0 1 auto;width:auto;margin:0;font-size:12px;line-height:1.55}
+ #bm .quiz .quiz-footer-buttons{display:flex;align-items:center;justify-content:flex-end;gap:8px;flex:1;min-width:0}
+ #bm .quiz .quiz-back{position:static;display:flex;align-items:center;justify-content:center;flex:0 0 52px;width:52px;height:52.390625px;padding:0}
+ #bm .quiz .quiz-footer-buttons .quiz-submit{flex:0 0 auto;width:auto;margin:0}
+ #bm .quiz[data-quiz-step="5"] .quiz-bottom{bottom:0;left:auto;right:auto}
+}
+
+@media(min-width:641px) and (max-width:1200px){#bm .quiz .quiz-bottom small,#bm .quiz .quiz-bottom b{font-size:10px}}
+@media(max-width:640px){#bm .quiz .quiz-bottom small{display:none}}
