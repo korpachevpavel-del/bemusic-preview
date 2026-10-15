@@ -1,0 +1,31 @@
+/* Use the established mobile header at the 640px boundary. */
+@media(min-width:640px) and (max-width:640px){
+#bm .sticky-head{display:none}
+#bm .mobile-header .directions-toggle{position:static;transform:none;width:auto;font-size:13px}
+#bm .mobile-header .directions-menu{position:static;width:auto;padding:5px 0;box-shadow:none;text-align:left}
+#bm .mobile-header .directions-menu:before{display:none}
+#bm .mobile-header .directions-menu a{font-size:12px;display:block;padding:8px 0;line-height:1.4}
+#bm .mobile-header{display:flex;position:fixed;top:12px;left:7.5px;right:7.5px;height:68px;padding:0 12.5px;border-radius:15px;z-index:990;background:transparent;transform:translateY(-100px);transition:transform .15s;align-items:center}
+#bm .mobile-header::before{content:'';position:absolute;inset:0;border-radius:15px;background:#074ebc;opacity:.6;z-index:-1}
+#bm .mobile-header.is-visible{transform:none}
+#bm .mobile-header>img{width:146px;height:34px;object-fit:contain}
+#bm .mobile-header summary{width:50px;height:50px;font-size:0;list-style:none;background-size:contain;background-repeat:no-repeat;background-position:center}
+#bm .mobile-header summary::-webkit-details-marker{display:none}
+#bm .mobile-header details[open] nav{position:fixed;left:0;right:0;top:90px;max-height:calc(100dvh - 90px);overflow:auto;width:100%;padding:40px 20px 65px;background:#1f1f1f;color:white;border-radius:0;text-align:center}
+#bm .mobile-header nav>.mobile-menu-logo{width:234px;height:71px;object-fit:contain;display:block;margin:0 auto 50px}
+#bm .mobile-header nav a,#bm .mobile-header .directions-toggle{color:white;font-size:18px;line-height:1.5;padding:8px 0;display:block;width:100%}
+#bm .mobile-header nav>.mobile-menu-social{display:flex;justify-content:center;gap:16px;margin:35px auto 30px}
+#bm .mobile-header nav>.mobile-menu-social a{width:54px;padding:0}
+#bm .mobile-header nav>.mobile-menu-social img{width:54px;height:54px}
+#bm .mobile-header nav>.mobile-menu-note{font-size:12px;line-height:1.55}
+#bm .mobile-header .directions-menu{background:#074ebc;padding:12px;margin:10px 0}
+#bm .mobile-header .directions-menu a{font-size:14px}
+#bm .mobile-header{top:10px;padding-left:2.5px;padding-right:13px}
+#bm .mobile-header>img{height:auto}
+#bm .mobile-header summary{width:42px;height:42px}
+#bm .mobile-header-social{display:flex;position:absolute;top:16px;right:75px;gap:4px;height:35px}
+#bm .mobile-header-social a,#bm .mobile-header-social img{display:block;width:35px;height:35px;padding:0}
+#bm .mobile-header::before{inset:auto;width:516px;height:73px;left:calc(50% - 258px);top:-3px}
+#bm .mobile-header details{position:absolute;left:calc(50% + 170px);top:13px;margin:0}
+#bm .mobile-header-social{left:calc(50% + 37px);right:auto}
+}
