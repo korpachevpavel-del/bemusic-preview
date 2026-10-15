@@ -1,0 +1,12 @@
+/* Match rounded original mobile text line heights in audited sections. */
+@media(max-width:479px){
+#s886675291 .el[data-design-element="1613636055940"] .paint,
+#s886675291 .el[data-design-element="1736244149670"] .paint,
+#s886675291 .el[data-design-element="1736244180573"] .paint,
+#s886675291 .el[data-design-element="1736244196408"] .paint,
+#s886675291 .el[data-design-element="1736244218346"] .paint,
+#s886675291 .el[data-design-element="1736244243985"] .paint,
+#s999863361 .el[data-design-element="1746165852232"] .paint{line-height:25px}
+#s886675291 .el[data-design-element="1736257463640"] .paint{line-height:23px}
+#s999863361 .el[data-design-element="1736253204749"] .paint{line-height:15px}
+}
