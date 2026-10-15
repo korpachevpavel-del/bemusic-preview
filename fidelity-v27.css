@@ -1,0 +1,4 @@
+/* Keep the children-program gradient inside the heading glyphs. */
+#s886675198 .el.text[data-design-element="1734430140320"]{background:none!important;color:#074ebc}
+#s886675198 .el.text[data-design-element="1734430140320"] .paint{background:none!important;color:inherit}
+#s886675198 .el.text[data-design-element="1734430140320"] h3{background:linear-gradient(90deg,#2277bb 0%,#cf28f5 100%);background-clip:text;-webkit-background-clip:text;color:transparent}
