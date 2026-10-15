@@ -1,0 +1,5 @@
+@media(min-width:640px) and (max-width:640px){
+#bm .quiz .quiz-options{padding:30px 20px 25px}
+#bm .quiz .quiz-options h3{font-size:22px;line-height:1.23}
+#bm .quiz[data-quiz-step="5"] .quiz-options{padding:30px 20px 44px}
+}
