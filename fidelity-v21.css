@@ -1,0 +1,19 @@
+#bm .quiz .quiz-choices:not(.image-choices) label{font-size:16px;line-height:1.2;min-height:20px}
+#bm .quiz .quiz-choices:not(.image-choices) label span{align-items:flex-start}
+#bm .quiz .quiz-choices:not(.image-choices) input,#bm .quiz-consent input{appearance:none;box-sizing:border-box;flex:0 0 20px;width:20px;height:20px;margin:0;border:2px solid #074ebc;border-radius:50%;background:#fff;opacity:.6}
+#bm .quiz .quiz-choices:not(.image-choices) input:checked{background:#074ebc;box-shadow:inset 0 0 0 3px #fff}
+#bm .quiz .quiz-hours label{display:flex;align-items:center;min-height:60px;border:2px solid #074ebc;border-radius:15px;padding:10px 15px;background:#fff}
+#bm .quiz-subtitle{font-size:14px;line-height:1.55;opacity:.7;margin:-15px 0 20px}
+#bm .quiz-final h3{font-size:22px;line-height:1.23;margin:0;padding-bottom:15px}
+#bm .quiz-final-description{font-size:14px;line-height:1.55;margin:0 0 20px}
+#bm .quiz-contact{display:flex;flex-direction:column;gap:20px}
+#bm .quiz-field{display:block;font-size:14px;line-height:1.55}
+#bm .quiz .quiz-field input{display:block;width:100%;height:60px;margin-top:5px;padding:0;border:0;border-bottom:2px solid #074ebc;border-radius:0;background:#fff;color:#000;font:16px/1.33 BMOriginal,Arial,sans-serif}
+#bm .quiz-consent{display:flex;gap:10px;align-items:flex-start;padding-top:.4px;font-size:16px;line-height:1.2}
+#bm .quiz-consent input{border-radius:0;margin-top:-.4px}
+#bm .quiz-consent a{color:#074ebc;text-decoration:none}
+#bm .quiz .quiz-submit{font-size:16px;font-weight:400;line-height:1.4;padding:15px 30px;border-radius:30px;margin:0;opacity:1;cursor:default}
+@media(min-width:640px){#bm .quiz[data-quiz-step="5"] [data-quiz-area]{height:436px;overflow:auto;min-height:0}#bm .quiz[data-quiz-step="5"] .quiz-options{padding:45px 45px 30px}#bm .quiz[data-quiz-step="5"] .quiz-bottom{position:sticky;bottom:0;left:auto;right:auto;margin:0;padding:20px 45px 45px;background:#fff}#bm .quiz[data-quiz-step="5"] .quiz-bottom b{order:0}#bm .quiz[data-quiz-step="5"] .quiz-submit{margin-left:auto}#bm .quiz[data-quiz-step="5"] .quiz-back{display:none}}
+@media(max-width:639px){#bm .quiz-subtitle{font-size:10px;line-height:1.45}#bm .quiz-final h3{font-size:18px;line-height:1.23}#bm .quiz-final-description,#bm .quiz-field{line-height:1.45}#bm .quiz .quiz-submit{width:calc(100% - 60px);margin-left:60px}#bm .quiz[data-quiz-step="5"] .quiz-back{top:12px}}
+
+@media(min-width:1201px){#bm .quiz{width:960px;max-width:960px}}
