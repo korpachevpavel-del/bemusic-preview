@@ -2,7 +2,7 @@ from pathlib import Path
 import re, base64, mimetypes, hashlib, json, shutil, zipfile
 
 root = Path(__file__).resolve().parent
-src = root / 'github-preview'
+src = root / 'github-preview' if (root / 'github-preview').is_dir() else root
 out = root / 'bemusic-release-v31'
 out.mkdir(exist_ok=True)
 html = (src / 'index.html').read_text()
