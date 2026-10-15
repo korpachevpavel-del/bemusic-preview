@@ -1,0 +1,2 @@
+/* Original footer switches to two columns at 480px, including the boundary. */
+@media(min-width:480px) and (max-width:639px){#bm .foot .wrap{width:600px;max-width:calc(100% - 40px)}#bm .footgrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:30px 40px}}
