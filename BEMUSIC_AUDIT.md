@@ -88,3 +88,7 @@
 Уточнение v40: исходный paddingменяется после480px, а размершрифта14pxсохраняетсявключительно640px. Раньше собственные высоты85/100/115 сохранялисьдо639px, и вторая строкаоставалась100pxвместо130pxнаширокихэкранах. Восстановлены явныевысоты100/130/145pxсвыше480px и85/100/115pxдо480pxвключительно, font14pxдо640px. Это исправляет и накопленный вертикальныйсдвиг последующих секций.
 
 Финальноеуточнениеv40-2: действующийbemusic-odi.ruнаширокомэкранеподтвердилline-height1.55(18px/27.9px),вмобильномснимке14px/20.3px=1.45. Установлено1.55свыше640px,1.45до640pxвключительно. Ранее вчерновикеv40 было1.45длявсехширин; этотчерновикнеявляетсяфинальнымпровереннымкомплектом.
+
+## v41 — desktop expanded reviews
+
+The source uses two leading videos and three columns for the nine additional videos above 960px. Restore the additional three-column grid. At 961–1200px the source uses a 940px content width, 20px horizontal gaps and 16px captions; above 1200px retain 1160px, 40px gaps and 18px captions. Mobile and tablet rules remain unchanged. The reveal button disappears after opening in both versions; no collapse control is added. External VK playback remains provider-dependent.
