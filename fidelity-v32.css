@@ -185,10 +185,10 @@
 
 /* Fixed Tilda artboard geometry measured against the original. */
 @media(min-width:640px) and (max-width:959px){
-#s886675198 .el[data-design-element="1613551831814"]{width:576px;left:calc(50% - 293px)}
-#s886675216 .el[data-design-element="1613551831814"]{width:640px;left:calc(50% - 320px)}
+#s886675198 .el[data-design-element="1613551831814"]{width:576px;left:calc(50% - 293px);transform:none}
+#s886675216 .el[data-design-element="1613551831814"]{width:640px;left:calc(50% - 320px);transform:none}
 #s886675249 .el[data-design-element="1613551831814"],
-#s999863361 .el[data-design-element="1613551831814"]{width:576px;left:calc(50% - 290px)}
+#s999863361 .el[data-design-element="1613551831814"]{width:576px;left:calc(50% - 290px);transform:none}
 }
 @media(min-width:960px) and (max-width:1199px){
 #s886675198 .el[data-design-element="1736249655856"]{left:calc(50% - 30px);top:209px}
