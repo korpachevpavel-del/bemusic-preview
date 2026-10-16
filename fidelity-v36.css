@@ -1,2 +1,1 @@
-/* Mobile teacher popups use 20px vertical margins in the original. */
-@media(max-width:640px){#bm dialog.teacher-dialog[open]{padding:20px}}
+/* Inactive audit experiment. Original 65px margins were confirmed on fresh mobile opening; no override is applied. */
