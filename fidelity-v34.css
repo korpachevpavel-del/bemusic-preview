@@ -1,2 +1,2 @@
 /* Imported teacher biographies retain source inline font-family names. */
-#bm .teacher-dialog .teacher-bio [style*="font-family"]{font-family:inherit!important}
+#bm .teacher-dialog [style*="font-family"]{font-family:inherit!important}
