@@ -1,0 +1,4 @@
+/* Tilda explicitly uses 700 for nested strong elements, independent of parent weight. */
+#bm .scene .paint strong{font-weight:700}
+/* Preserve original table-cell baseline metrics in the BE MUSIC ticker. */
+#bm #s886675297 .paint{display:table-cell}
