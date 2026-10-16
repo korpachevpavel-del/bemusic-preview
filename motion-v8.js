@@ -13,14 +13,15 @@ for(const ticker of tickers){
   }
   track.append(item);ticker.replaceChildren(track);
   function measure(){
-    const distance=item.getBoundingClientRect().width;if(!distance)return;
+    const measured=item.getBoundingClientRect().width;if(!measured)return;
+    const distance=Math.floor(measured);if(!distance)return;
     const count=Math.ceil(ticker.clientWidth/distance)+2;
     while(track.children.length<count){const copy=item.cloneNode(true);copy.setAttribute('aria-hidden','true');track.append(copy)}
     while(track.children.length>count)track.lastElementChild.remove();
     track.style.setProperty('--ticker-distance',distance+'px');
     track.style.setProperty('--ticker-duration',(distance/50)+'s');
   }
-  new ResizeObserver(measure).observe(ticker);document.fonts.ready.then(measure);measure();observed.push(ticker);
+  new ResizeObserver(measure).observe(ticker);document.fonts.ready.then(measure);measure();ticker.classList.add('motion-active');
 }
 const gradient=root.querySelector('#s886675297');if(gradient)observed.push(gradient);
 const observer=new IntersectionObserver(entries=>{for(const entry of entries){if(entry.isIntersecting){entry.target.classList.add('motion-active');observer.unobserve(entry.target)}}});
