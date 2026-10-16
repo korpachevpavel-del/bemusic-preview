@@ -1,9 +1,14 @@
-/* Source-matched desktop review grids; mobile rules stay in fidelity-v13-6.css. */
+/* Match source fixed columns and wrapping, including scrollbar-width boundaries. */
 @media(min-width:961px){
- #bm .review-more .reviews{grid-template-columns:repeat(3,minmax(0,1fr))}
+ #bm .review-section .reviews{display:flex;flex-wrap:wrap;gap:0 40px}
+ #bm .review-section .reviewbox{flex:0 0 560px}
+ #bm .review-more .reviewbox{flex-basis:360px}
+ #bm .review-more .reviewbox:nth-child(n+4){margin-top:40px}
 }
 @media(min-width:961px) and (max-width:1200px){
  #bm .review-section .wrap{width:940px;max-width:calc(100% - 20px)}
  #bm .review-section .reviews{column-gap:20px}
+ #bm .review-section .reviewbox{flex-basis:460px}
+ #bm .review-more .reviewbox{flex-basis:300px}
  #bm .review-section .reviewbox p{font-size:16px}
 }

@@ -92,3 +92,5 @@
 ## v41 — desktop expanded reviews
 
 The source uses two leading videos and three columns for the nine additional videos above 960px. Restore the additional three-column grid. At 961–1200px the source uses a 940px content width, 20px horizontal gaps and 16px captions; above 1200px retain 1160px, 40px gaps and 18px captions. Mobile and tablet rules remain unchanged. The reveal button disappears after opening in both versions; no collapse control is added. External VK playback remains provider-dependent.
+
+Follow-up v41-2: use fixed-width flex columns matching source wrapping above960px, rather than fractional grid tracks. Leading videos560px/additional360px above1200px,460px/300px through1200px. Only additional items4–9 have40px top margins; this preserves source wrap behavior at961px/1201px with a scrollbar.
