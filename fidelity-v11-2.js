@@ -15,15 +15,27 @@ const config={"1734532477887":{"style":"fadeinup","duration":2.0,"delay":0.0,"di
 const reduced=matchMedia('(prefers-reduced-motion: reduce)');
 const desktop=matchMedia('(min-width:1200px)');
 const pending=new Map(),running=new Map();
-const style=document.createElement('style');style.dataset.bmReveal='v37';
+const style=document.createElement('style');style.dataset.bmReveal='v38';
 style.textContent='#bm [data-bm-reveal="pending"]{opacity:0}@media(prefers-reduced-motion:reduce){#bm [data-bm-reveal="pending"]{opacity:1}}';root.append(style);
-const observer=new IntersectionObserver(entries=>{for(const entry of entries){if(!entry.isIntersecting)continue;const el=entry.target,c=pending.get(el);if(!c)continue;pending.delete(el);observer.unobserve(el);el.dataset.bmReveal='shown';
-if(reduced.matches||(!c.mobile&&!desktop.matches))continue;
+function reveal(el,c,fromScroll){
+pending.delete(el);observer.unobserve(el);el.dataset.bmReveal='shown';
+if(reduced.matches||(!c.mobile&&!desktop.matches))return;
 const from={opacity:0},to={opacity:1};
 if(c.style==='zoomin'){from.scale=String(c.scale);to.scale='1'}else{from.translate='0 '+c.distance+'px';to.translate='0 0'}
-const a=el.animate([from,to],{duration:c.duration*1000,delay:c.delay*1000,easing:'cubic-bezier(0.19,1,0.22,1)',fill:'backwards'});running.set(el,a);a.finished.then(()=>running.delete(el),()=>running.delete(el));
-}});
-for(const [id,c]of Object.entries(config))for(const el of root.querySelectorAll('[data-design-element="'+id+'"]')){if(reduced.matches||(!c.mobile&&!desktop.matches))continue;el.dataset.bmReveal='pending';pending.set(el,c);observer.observe(el)}
+// Source: initial transition delay; scroll observer waits delay+250ms,
+// then starts the same CSS transition with its own delay.
+const delay=c.delay*1000+(fromScroll?250+c.delay*1000:0);
+const a=el.animate([from,to],{duration:c.duration*1000,delay,easing:'cubic-bezier(0.19,1,0.22,1)',fill:'backwards'});running.set(el,a);a.finished.then(()=>running.delete(el),()=>running.delete(el));
+}
+const observer=new IntersectionObserver(entries=>{for(const entry of entries){if(!entry.isIntersecting)continue;const el=entry.target,c=pending.get(el);if(c)reveal(el,c,true)}});
+for(const [id,c]of Object.entries(config))for(const el of root.querySelectorAll('[data-design-element="'+id+'"]')){if(reduced.matches||(!c.mobile&&!desktop.matches))continue;el.dataset.bmReveal='pending';pending.set(el,c)}
+// Match the source's initial animation setup after 1500ms.
+setTimeout(()=>{for(const [el,c]of [...pending]){
+const top=el.getBoundingClientRect().top;
+if(top<-500){el.dataset.bmReveal='shown';pending.delete(el)}
+else if(top<innerHeight)reveal(el,c,false);
+else observer.observe(el);
+}},1500);
 function showPending(){for(const [el,c]of pending){if(reduced.matches||(!c.mobile&&!desktop.matches)){el.dataset.bmReveal='shown';pending.delete(el);observer.unobserve(el)}}if(reduced.matches){for(const a of running.values())a.cancel();running.clear()}}
 reduced.addEventListener('change',showPending);desktop.addEventListener('change',showPending);
 root.addEventListener('focusin',e=>{for(const [el]of pending)if(el===e.target||el.contains(e.target)){el.dataset.bmReveal='shown';pending.delete(el);observer.unobserve(el)}});
