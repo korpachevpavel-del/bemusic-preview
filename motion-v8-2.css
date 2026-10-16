@@ -16,9 +16,9 @@
 @media(prefers-reduced-motion:reduce){#bm .ticker-track,#s886675297.motion-active .el{animation:none}}
 
 /* Original 70px content strip and separate record spacing. */
-#bm .ticker.motion-ticker{box-sizing:border-box;height:130px;padding:30px 0;line-height:1.45}
+#bm .ticker.motion-ticker{box-sizing:border-box;height:130px;padding:30px 0;line-height:1.55}
 #bm .ticker.first-ticker{height:100px;padding:30px 0 0}
 #bm .faq-section+.ticker{height:145px;padding:75px 0 0}
 #bm .ticker-dot{border-radius:0;clip-path:ellipse(41.6918% 50% at 51.1351% 50%)}
-@media(max-width:640px){#bm .ticker.motion-ticker{font-size:14px}}
+@media(max-width:640px){#bm .ticker.motion-ticker{font-size:14px;line-height:1.45}}
 @media(max-width:480px){#bm .ticker.motion-ticker{height:100px;padding:15px 0}#bm .ticker.first-ticker{height:85px;padding:15px 0 0}#bm .faq-section+.ticker{height:115px;padding:45px 0 0}}
