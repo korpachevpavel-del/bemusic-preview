@@ -34,3 +34,9 @@ body.bm-menu-open #bm .mobile-header>img,body.bm-menu-open #bm .mobile-header su
 #bm .mobile-header nav>.mobile-menu-social{left:calc(var(--bm-menu-center,50vw) - 91px);top:550px;gap:10px;width:181px}
 #bm .mobile-header nav>.mobile-menu-note{left:20px;top:635px;width:560px}
 }
+@media(max-width:640px){
+#bm .mobile-header details[open] nav{box-shadow:none}
+#bm .mobile-header nav>.mobile-menu-logo{height:87.015625px;max-height:none}
+#bm .mobile-header nav>.directions-toggle::after{content:'';display:inline-block;margin-left:8px;vertical-align:middle;border-left:2.5px solid transparent;border-right:2.5px solid transparent;border-top:4px solid currentColor}
+}
+@media(min-width:480px) and (max-width:639px){#bm .mobile-header nav>.mobile-menu-logo{height:86.625px}}
