@@ -40,3 +40,9 @@ body.bm-menu-open #bm .mobile-header>img,body.bm-menu-open #bm .mobile-header su
 #bm .mobile-header nav>.directions-toggle::after{content:'';display:inline-block;margin-left:8px;vertical-align:middle;border-left:2.5px solid transparent;border-right:2.5px solid transparent;border-top:4px solid currentColor}
 }
 @media(min-width:480px) and (max-width:639px){#bm .mobile-header nav>.mobile-menu-logo{height:86.625px}}
+@media(max-width:640px){
+#bm .mobile-header nav>.directions-menu{top:220px;left:calc(var(--bm-menu-center,50vw) - 150px);width:300px;padding:18px 20px}
+#bm .mobile-header nav>.directions-menu:not([hidden]){display:flex;flex-direction:column;gap:12px}
+#bm .mobile-header nav>.directions-menu a{font:400 14px/18.9px BMOriginal,Arial,sans-serif;padding:0;margin:0;color:white;text-align:left}
+}
+@media(min-width:480px) and (max-width:639px){#bm .mobile-header nav>.directions-menu{top:202px}}
