@@ -109,3 +109,5 @@ Added vokal-v-odincovo.html from the recorded 12.10.2026 public source: 11 respo
 The main navigation now points vocal links to the local page. Guitar, piano, kids and loyalty remain on the source domain. Source background shapes use responsive percentage widths and actual center alignment; text line heights and student video heights follow source integer rounding. Shared home-page visuals remain unchanged.
 
 Validation results and limitations are recorded in the project state; full pixel identity and physical Safari/iPhone verification are not claimed.
+
+The v43 ZIP contains editable pages and active dependencies. Self-contained previews are published separately to avoid duplicate embedded resources. The final vocal desktop header retains original dark links.
