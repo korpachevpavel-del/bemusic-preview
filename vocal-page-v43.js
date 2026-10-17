@@ -8,7 +8,7 @@ function sizeNative(){roundTextLines();roundVideoBoxes()}
 sizeNative();document.fonts.ready.then(sizeNative);window.addEventListener('resize',sizeNative,{passive:true});
 // Native links, menus and dialogs reuse the checked home-page components.
 root.querySelectorAll('[data-program]').forEach(a=>{const p=a.dataset.program;a.href=p==='vokal-v-odincovo'?'./vokal-v-odincovo.html':'https://bemusic-odi.ru/'+p;a.removeAttribute('data-program')});
-root.querySelectorAll('a[href="#loyalty"]').forEach(a=>a.href='https://bemusic-odi.ru/programma-loyalnosti-be-music');
+root.querySelectorAll('a[href="#loyalty"],a[href="./index.html#loyalty"]').forEach(a=>a.href='https://bemusic-odi.ru/programma-loyalnosti-be-music');
 const loyalty=root.querySelector('details#loyalty');if(loyalty){const a=document.createElement('a');a.href='https://bemusic-odi.ru/programma-loyalnosti-be-music';a.textContent=loyalty.querySelector('summary').textContent;loyalty.replaceWith(a)}
 root.querySelectorAll('a[href*="#popup:order"]').forEach(a=>{a.href='#trial';a.dataset.order='trial'});
 const footer=root.querySelector('.foot');footer.querySelectorAll('.footgrid>div:nth-child(2)>a').forEach(a=>a.textContent=a.textContent.replace(/^—\s*/,'-'));const copyright=footer.querySelector('.footgrid>div:first-child>p:last-child');if(copyright)copyright.textContent=copyright.textContent.replace('2024–2025','2024-2025');
