@@ -115,3 +115,7 @@ The v43 ZIP contains editable pages and active dependencies. Self-contained prev
 ## v44 — independent guitar page, 17.10.2026
 
 Added original guitar hero, audience section, four FAQ answers, lesson steps, curriculum, concert videos, four student results, shared teachers, certificate, contacts and footer. Native CSS replaces source design-coordinate runtime: 10 compositions, 61 positioned elements; local assets and independent interactions. Source runtime is retained only in the QA fixture. Inline source font declarations are mapped to the local font. Main and vocal links now use the local guitar page; piano, kids and loyalty remain external. Form submission remains disabled. Geometry and functional checks are recorded in project state.
+
+## v45 — independent piano page, 17.10.2026
+
+Added the original piano page: seven responsive compositions and 47 positioned elements; three FAQ answers, trial-lesson steps, curriculum, six student videos, shared ten-teacher slider, piano certificate, contacts and footer. Local CSS and independent JavaScript replace the source runtime. Source inline fonts are mapped to BMOriginal. The source has no concert section here; none is added. Main, vocal and guitar navigation now points to the local piano page. Kids and loyalty remain external. Form submissions stay disabled. The original Tilda runtime appears only in qa-piano-reference.html, excluded from release. Detailed browser comparisons and limitations are recorded in project state.
