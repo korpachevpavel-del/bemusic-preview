@@ -73,7 +73,12 @@ for rid in selected:
  e=clean(orig);bm.append(e)
  if orig.get('data-record-type')=='396':zero.append(e)
 # The teacher slider is shared by the original home and vocal page.
-bm.append(deepcopy(main.get_element_by_id('teacher')))
+teacher=deepcopy(main.get_element_by_id('teacher'))
+labels=source.get_element_by_id('rec1171635366').xpath('.//*[contains(concat(" ",normalize-space(@class)," ")," t-btnflex__text ")]/text()')
+for button,label in zip(teacher.xpath('.//*[@data-bio]'),labels):
+ for child in list(button):button.remove(child)
+ button.text=label.strip()
+bm.append(teacher)
 rid='1130529986';orig=source.get_element_by_id('rec'+rid)
 for st in orig.xpath('.//style'):css.append(urls_in(st.text or '').replace("'mix'",'BMOriginal').replace('"mix"','BMOriginal'))
 e=clean(orig);bm.append(e);zero.append(e)
@@ -96,7 +101,7 @@ for rec in zero:
    props={}; w=val(el,'width',bp) or '0';hu=val(el,'heightunits',bp) or 'px';wu=val(el,'widthunits',bp) or 'px';hh=val(el,'height',bp) or '0';container=val(el,'container',bp) or 'grid'
    props['width']=w+'px' if wu=='px' else (w+'%' if container=='window' else str(float(w)*grid/100)+'px')
    # Autoheight text matches the atom's natural line box, rather than design metadata.
-   if el.get('data-elem-type')!='text':props['height']=hh+hu
+   props['height']=hh+hu if el.get('data-elem-type')!='text' or val(el,'textfit',bp)=='fixedsize' else 'auto'
    left=val(el,'left',bp) or '0';top=val(el,'top',bp) or '0';axis=val(el,'axisx',bp) or 'left';ay=val(el,'axisy',bp) or 'top';lu=val(el,'leftunits',bp) or 'px';tu=val(el,'topunits',bp) or 'px'
    if axis=='center':props['left']=f'calc(50% + {left}{lu})';props['transform']='translateX(-50%)'
    elif axis=='right':props['left']=f'calc(50% + {grid/2}px - {props["width"]} + {left}{lu})' if container=='grid' else f'calc(100% - {props["width"]} + {left}{lu})'
@@ -108,11 +113,20 @@ for rec in zero:
 # Shared header interactions without assumptions about home-only sections.
 base=main.xpath('//script[not(@src)]')[0].text.split('const bios=')[0]+'})();'
 (ROOT/'vocal-base-v43.js').write_text(base)
-scripts=['vocal-base-v43.js','fidelity-v5-7.js?v=42','vocal-common-v43.js','fidelity-v12-4.js','fidelity-v14-2.js','fidelity-v16-3.js?v=42-2','menu-v33.js?v=4','vocal-page-v43.js?v=43-3']
+scripts=['vocal-base-v43.js','fidelity-v5-7.js?v=42','vocal-common-v43.js','vocal-shared-v43.js','fidelity-v11-2.js?v=38','fidelity-v12-4.js','fidelity-v14-2.js','fidelity-v16-3.js?v=42-2','menu-v33.js?v=4','vocal-page-v43.js?v=43-5']
 common=(ROOT/'fidelity-v6-2.js').read_text()
 common=common.replace("root.querySelector('.quiz-section').id='quiz';root.querySelector('.about-video').id='about-video';root.querySelector('.faq-section').id='faq';",'')
 common=common.replace('a[href="#type"]','a[href="#type"],a[href="./index.html#type"]')
 (ROOT/'vocal-common-v43.js').write_text(common)
+
+shared=(ROOT/'quiz-layout-v24.js').read_text()
+start=shared.index("root.querySelector('.ticker').classList.add('first-ticker');")
+end=shared.index("const teacherTrack",start)
+shared=shared[:start]+shared[end:]
+shared=shared.replace("nav.querySelector('a[href=\"'+href+'\"]')","nav.querySelector('a[href=\"'+href+'\"],a[href=\"./index.html'+href+'\"]')")
+shared=shared.replace(".footgrid a[href=\"#sertifikat\"]",".footgrid a[href=\"#sertifikat\"],.footgrid a[href=\"./index.html#sertifikat\"]")
+(ROOT/'vocal-shared-v43.js').write_text(shared)
+
 for name in scripts:etree.SubElement(body,'script',src='./'+name)
 # Restore explicit document links in shared sections; only vocal is local so far.
 for a in bm.xpath('.//a[@href]'):
@@ -121,8 +135,8 @@ for a in bm.xpath('.//a[@href]'):
  elif u.startswith('#') and not u.startswith(('#popup','#trial')) and not a.get('data-bio') and not a.get('data-order') and not u in ['#teacher','#contacts']:a.set('href','./index.html'+u)
  if u in ['https://bemusic-odi.ru/vokal-v-odincovo','/vokal-v-odincovo']:a.set('href','./vokal-v-odincovo.html')
  if a.get('data-program')=='vokal-v-odincovo':a.set('href','./vokal-v-odincovo.html');a.attrib.pop('data-program',None)
-css.append('''#bm .t396 .tn-atom{font-family:BMOriginal,Arial,sans-serif}#bm .t396 h1,#bm .t396 h2,#bm .t396 h3{margin:0}#bm .t396__carrier,#bm .t396__filter{height:100%}#bm .tn-atom__img{height:auto}#bm .r{position:relative}#bm .r .t-btnflex{font-family:BMOriginal,Arial,sans-serif;line-height:1.4}#bm .t396__elem[data-elem-type="text"]{height:auto}#bm .t550__digit:empty::before{content:counter(vocal-step)}#bm .t550{counter-reset:vocal-step}#bm .t550__col{counter-increment:vocal-step}#bm .tn-atom iframe{display:block;width:100%;height:100%;border:0}#bm .t-video-lazyload{aspect-ratio:16/9;width:100%}#bm .t-video-lazyload iframe{width:100%;height:100%;border:0}#bm #rec1130569141{display:none}#bm .vocal-spinning .tn-atom{animation:vocal-spin 5s linear infinite}@keyframes vocal-spin{to{rotate:360deg}}@media(prefers-reduced-motion:reduce){#bm .vocal-spinning .tn-atom{animation:none}}''')
-(ROOT/'vocal-layout-v43.css').write_text(re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal','\n'.join(css)));etree.SubElement(head,'link',rel='stylesheet',href='./vocal-layout-v43.css?v=43-3')
+css.append('''#bm .t396 .tn-atom{font-family:BMOriginal,Arial,sans-serif}#bm .t396 h1,#bm .t396 h2,#bm .t396 h3{margin:0}#bm .t396__carrier,#bm .t396__filter{height:100%}#bm .tn-atom__img{height:auto}#bm .r{position:relative}#bm .r .t-btnflex{font-family:BMOriginal,Arial,sans-serif;line-height:1.4}#bm .t550__digit:empty::before{content:counter(vocal-step)}#bm .t550{counter-reset:vocal-step}#bm .t550__col{counter-increment:vocal-step}#bm .tn-atom iframe{display:block;width:100%;height:100%;border:0}#bm .t-video-lazyload{aspect-ratio:16/9;width:100%}#bm .t-video-lazyload iframe{width:100%;height:100%;border:0}#bm #rec1130569141{display:none}#bm .vocal-spinning .tn-atom{animation:vocal-spin 5s linear infinite}@keyframes vocal-spin{to{rotate:360deg}}@media(prefers-reduced-motion:reduce){#bm .vocal-spinning .tn-atom{animation:none}}''')
+(ROOT/'vocal-layout-v43.css').write_text(re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal','\n'.join(css)));etree.SubElement(head,'link',rel='stylesheet',href='./vocal-layout-v43.css?v=43-5')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
 (ROOT/'vokal-v-odincovo.html').write_text(result)
 print(json.dumps({'assets':len(set(assets.values())),'zero_scenes':len(zero),'zero_elements':sum(len(r.xpath('.//*[@data-elem-id]')) for r in zero),'missing':sorted(missing),'html_bytes':len(result.encode())},ensure_ascii=False))

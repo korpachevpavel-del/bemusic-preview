@@ -100,3 +100,12 @@ Follow-up v41-2: use fixed-width flex columns matching source wrapping above960p
 After a teacher biography changes into a booking form, its prior aria-label named the teacher. Set the form dialog name on every trial/gift open, preserving teacher names in biography dialogs. No visible layout, text, form submission or original production changes. Trial close/reopen/Escape and restored scroll lock verified at320/390/640px; gift choices and focus restoration verified at390px. Mobile pointer activation inside the cloud QA iframe remains inconclusive; keyboard activation works.
 
 v42-2: all ten teacher-to-trial chains verified; focus returns to the corresponding teacher and scroll unlocks. Normalize rendered heading whitespace when naming a biography, so line breaks do not merge Anton Orlov or Maria Deeva. Visible text and geometry unchanged.
+
+
+## v43 — independent vocal page, 17.10.2026
+
+Added vokal-v-odincovo.html from the recorded 12.10.2026 public source: 11 responsive compositions and 71 positioned elements, eight accordion questions, trial-lesson steps, curriculum, five concert/master-class videos, student results with four additional videos, the shared ten-teacher slider, certificate, contacts and footer. Rendering and interactions use local CSS and independent JavaScript; the original Tilda runtime is restricted to qa-vocal-reference.html for comparison. Form submissions remain disabled.
+
+The main navigation now points vocal links to the local page. Guitar, piano, kids and loyalty remain on the source domain. Source background shapes use responsive percentage widths and actual center alignment; text line heights and student video heights follow source integer rounding. Shared home-page visuals remain unchanged.
+
+Validation results and limitations are recorded in the project state; full pixel identity and physical Safari/iPhone verification are not claimed.

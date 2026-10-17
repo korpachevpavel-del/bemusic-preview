@@ -3,13 +3,17 @@ import re, base64, mimetypes, hashlib, json, shutil, zipfile
 
 root = Path(__file__).resolve().parent
 src = root / 'github-preview' if (root / 'github-preview').is_dir() else root
-out = root / 'bemusic-release-v42'
+out = root / 'bemusic-release-v43'
 out.mkdir(exist_ok=True)
 html = (src / 'index.html').read_text()
 css = re.findall(r'<link[^>]+href="([^" ]+\.css(?:\?[^" ]*)?)"[^>]*>', html)
 scripts = re.findall(r'<script[^>]+src="([^"]+)"[^>]*></script>', html)
 assets = ['form-logo.jpg','quiz-icon.png','header-telegram.png','header-vk.png','header-instagram.png']
-files = ['index.html','privacy.html','email.html'] + css + scripts + assets
+vocal_html=(src/'vokal-v-odincovo.html').read_text()
+vocal_css=re.findall(r'<link[^>]+href="([^" ]+\.css(?:\?[^" ]*)?)"[^>]*>',vocal_html)
+vocal_js=re.findall(r'<script[^>]+src="([^"]+)"[^>]*></script>',vocal_html)
+vocal_assets=[p.name for p in src.glob('vocal-*') if p.is_file() and p.suffix not in ['.css','.js']]
+files = ['index.html','privacy.html','email.html','vokal-v-odincovo.html'] + css + scripts + assets + vocal_css + vocal_js + vocal_assets
 files = sorted(set(p.split('?',1)[0].removeprefix('./') for p in files))
 missing = [p for p in files if not (src / p).is_file()]
 if missing:
@@ -19,7 +23,14 @@ for name in files:
 
 def inline_css(match):
     path = re.search(r'href="([^"]+)"', match.group()).group(1).split('?',1)[0]
-    return '<style>\n' + (src / path).read_text() + '\n</style>'
+    text=(src/path).read_text()
+    def embed_asset(m):
+        name=m.group(2).removeprefix('./')
+        file=src/name
+        if not file.is_file():raise RuntimeError('Missing CSS asset: '+name)
+        return 'url("data:'+(mimetypes.guess_type(name)[0] or 'application/octet-stream')+';base64,'+base64.b64encode(file.read_bytes()).decode()+'")'
+    text=re.sub(r'url\(\s*([\'\"]?)(\.?/?vocal-[^)\'\"]+)\1\s*\)',embed_asset,text)
+    return '<style>\n' + text + '\n</style>'
 
 def inline_js(match):
     path = re.search(r'src="([^"]+)"', match.group()).group(1).split('?',1)[0]
@@ -41,11 +52,21 @@ assert not re.search(r'<script[^>]+src=', standalone)
 assert not re.search(r'<link[^>]+href="[^" ]+\.css(?:\?[^" ]*)?"', standalone)
 assert not re.search(r'(?:static|js|fonts)\.tildacdn\.', standalone)
 (out / 'BEMUSIC_STANDALONE.html').write_text(standalone)
+
+vocal_standalone=re.sub(r'<link[^>]+href="[^" ]+\.css(?:\?[^" ]*)?"[^>]*>',inline_css,vocal_html)
+vocal_standalone=re.sub(r'<script[^>]+src="[^"]+"[^>]*></script>',inline_js,vocal_standalone)
+for name in vocal_assets:
+    data='data:'+(mimetypes.guess_type(name)[0] or 'application/octet-stream')+';base64,'+base64.b64encode((src/name).read_bytes()).decode()
+    vocal_standalone=vocal_standalone.replace('./'+name,data)
+assert not re.search(r'<script[^>]+src=',vocal_standalone)
+assert not re.search(r'(?:static|js|fonts)\.tildacdn\.',vocal_standalone)
+(out/'VOCAL_STANDALONE.html').write_text(vocal_standalone)
+
 shutil.copyfile(root / 'BEMUSIC_AUDIT.md', out / 'BEMUSIC_AUDIT.md')
-(out / 'README.md').write_text('''# BE MUSIC — автономный комплект v42\n\nОткройте BEMUSIC_STANDALONE.html в браузере. CSS, JavaScript, изображения и шрифты встроены в этот файл. Политики privacy.html и email.html лежат рядом.\n\nДля редактирования используйте index.html и его отдельные файлы. Комплект содержит только активные зависимости, без старых редакций и исходного Tilda runtime.\n\nИнтернет нужен для встроенных видео VK, карты Яндекса и внешних ссылок. Страницы направлений и лояльности пока открываются на bemusic-odi.ru. Отправка заявок отключена. Это не полная офлайн-копия внешних сервисов или внутренних страниц.\n\nПроверено в облачном Chrome. Проверка на физическом iPhone/Safari не проводилась. Полная попиксельная идентичность не заявляется. Подробнее — BEMUSIC_AUDIT.md.\n''')
+(out / 'README.md').write_text('''# BE MUSIC — автономный комплект v43\n\nОткройте BEMUSIC_STANDALONE.html в браузере. CSS, JavaScript, изображения и шрифты встроены в этот файл. Политики privacy.html и email.html лежат рядом.\n\nДля редактирования используйте index.html и его отдельные файлы. Комплект содержит только активные зависимости, без старых редакций и исходного Tilda runtime.\n\nИнтернет нужен для встроенных видео VK, карты Яндекса и внешних ссылок. Страница вокала перенесена в vokal-v-odincovo.html, её отдельный автономный просмотр — VOCAL_STANDALONE.html. Остальные четыре страницы пока открываются на bemusic-odi.ru. Отправка заявок отключена. Это не полная офлайн-копия внешних сервисов или внутренних страниц.\n\nПроверено в облачном Chrome. Проверка на физическом iPhone/Safari не проводилась. Полная попиксельная идентичность не заявляется. Подробнее — BEMUSIC_AUDIT.md.\n''')
 manifest = {p.name: {'bytes': p.stat().st_size, 'sha256': hashlib.sha256(p.read_bytes()).hexdigest()} for p in sorted(out.iterdir()) if p.is_file() and p.name != 'MANIFEST.json'}
 (out / 'MANIFEST.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2))
-archive = root / 'BEMUSIC_RELEASE_v42.zip'
+archive = root / 'BEMUSIC_RELEASE_v43.zip'
 with zipfile.ZipFile(archive, 'w', zipfile.ZIP_DEFLATED) as z:
     for path in sorted(out.iterdir()):
         z.write(path, path.name)
