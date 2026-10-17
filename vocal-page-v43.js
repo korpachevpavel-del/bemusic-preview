@@ -1,11 +1,11 @@
 (()=>{'use strict';
 const root=document.getElementById('bm');
 // Native links, menus and dialogs reuse the checked home-page components.
-root.querySelectorAll('.directions-menu [data-program]').forEach(a=>{const p=a.dataset.program;a.href=p==='vokal-v-odincovo'?'./vokal-v-odincovo.html':'https://bemusic-odi.ru/'+p;a.removeAttribute('data-program')});
+root.querySelectorAll('[data-program]').forEach(a=>{const p=a.dataset.program;a.href=p==='vokal-v-odincovo'?'./vokal-v-odincovo.html':'https://bemusic-odi.ru/'+p;a.removeAttribute('data-program')});
 root.querySelectorAll('a[href="#loyalty"]').forEach(a=>a.href='https://bemusic-odi.ru/programma-loyalnosti-be-music');
 root.querySelectorAll('a[href*="#popup:order"]').forEach(a=>{a.href='#trial';a.dataset.order='trial'});
 const gift=root.querySelector('#rec1130529986 [data-order]');if(gift)gift.dataset.order='gift';
-root.querySelectorAll('.t1119__trigger-button').forEach(button=>{const panel=document.getElementById(button.getAttribute('aria-controls'));button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')==='true';button.setAttribute('aria-expanded',String(!open));panel.hidden=open;button.closest('.t1119__accordion').classList.toggle('t1119__opened',!open)})});
+root.querySelectorAll('.t1119__trigger-button').forEach(button=>{const panel=document.getElementById(button.getAttribute('aria-controls'));button.addEventListener('click',()=>{const open=button.getAttribute('aria-expanded')==='true';button.setAttribute('aria-expanded',String(!open));panel.hidden=open;panel.style.display=open?'none':'block';button.closest('.t1119__accordion').classList.toggle('t1119__opened',!open)})});
 const more=root.querySelector('#rec1130573096 button,#rec1130573096 a');if(more)more.addEventListener('click',e=>{e.preventDefault();root.querySelector('#rec1130569141').style.display='block';root.querySelector('#rec1130573096').hidden=true});
 root.querySelectorAll('.tn-atom__videoiframe[data-vkvideoid],.t-video-lazyload').forEach(box=>{
  const value=box.dataset.vkvideoid||box.dataset.videolazyId||'',match=value.match(/(-?\d+)_(\d+)/);if(!match)return;

@@ -122,7 +122,7 @@ for a in bm.xpath('.//a[@href]'):
  if u in ['https://bemusic-odi.ru/vokal-v-odincovo','/vokal-v-odincovo']:a.set('href','./vokal-v-odincovo.html')
  if a.get('data-program')=='vokal-v-odincovo':a.set('href','./vokal-v-odincovo.html');a.attrib.pop('data-program',None)
 css.append('''#bm .t396 .tn-atom{font-family:BMOriginal,Arial,sans-serif}#bm .t396 h1,#bm .t396 h2,#bm .t396 h3{margin:0}#bm .t396__carrier,#bm .t396__filter{height:100%}#bm .tn-atom__img{height:auto}#bm .r{position:relative}#bm .t396__elem[data-elem-type="text"]{height:auto}#bm .t550__digit:empty::before{content:counter(vocal-step)}#bm .t550{counter-reset:vocal-step}#bm .t550__col{counter-increment:vocal-step}#bm .tn-atom iframe{display:block;width:100%;height:100%;border:0}#bm .t-video-lazyload{aspect-ratio:16/9;width:100%}#bm .t-video-lazyload iframe{width:100%;height:100%;border:0}#bm #rec1130569141{display:none}#bm .vocal-spinning .tn-atom{animation:vocal-spin 5s linear infinite}@keyframes vocal-spin{to{rotate:360deg}}@media(prefers-reduced-motion:reduce){#bm .vocal-spinning .tn-atom{animation:none}}''')
-(ROOT/'vocal-layout-v43.css').write_text('\n'.join(css));etree.SubElement(head,'link',rel='stylesheet',href='./vocal-layout-v43.css')
+(ROOT/'vocal-layout-v43.css').write_text('\n'.join(css).replace('font-family:mix','font-family:BMOriginal'));etree.SubElement(head,'link',rel='stylesheet',href='./vocal-layout-v43.css')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
 (ROOT/'vokal-v-odincovo.html').write_text(result)
 print(json.dumps({'assets':len(set(assets.values())),'zero_scenes':len(zero),'zero_elements':sum(len(r.xpath('.//*[@data-elem-id]')) for r in zero),'missing':sorted(missing),'html_bytes':len(result.encode())},ensure_ascii=False))
