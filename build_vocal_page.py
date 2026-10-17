@@ -102,13 +102,13 @@ for rec in zero:
    elif axis=='right':props['left']=f'calc(50% + {grid/2}px - {props["width"]} + {left}{lu})' if container=='grid' else f'calc(100% - {props["width"]} + {left}{lu})'
    else:props['left']=f'calc(50% - {grid/2}px + {left}{lu})' if container=='grid' else left+lu
    props['top']=top+tu if ay=='top' else f'calc({float(h)/2 if ay=="center" else float(h)}px - {float(hh)/2 if ay=="center" else float(hh)}px + {top}{tu})'
-   rules.append('#'+rec.get('id')+' [data-elem-id="'+el.get('data-elem-id')+'"]{'+''.join(k+':'+v+';' for k,v in props.items())+'}')
+   rules.append('#'+rec.get('id')+' .tn-elem[data-elem-id="'+el.get('data-elem-id')+'"]{'+''.join(k+':'+v+';' for k,v in props.items())+'}')
   text='\n'.join(rules)
   css.append(text if bp==1200 else '@media(max-width:'+str({960:1199,640:959,480:639,320:479}[bp])+'px){'+text+'}')
 # Shared header interactions without assumptions about home-only sections.
 base=main.xpath('//script[not(@src)]')[0].text.split('const bios=')[0]+'})();'
 (ROOT/'vocal-base-v43.js').write_text(base)
-scripts=['vocal-base-v43.js','fidelity-v5-7.js?v=42','vocal-common-v43.js','fidelity-v12-4.js','fidelity-v14-2.js','fidelity-v16-3.js?v=42-2','menu-v33.js?v=4','vocal-page-v43.js']
+scripts=['vocal-base-v43.js','fidelity-v5-7.js?v=42','vocal-common-v43.js','fidelity-v12-4.js','fidelity-v14-2.js','fidelity-v16-3.js?v=42-2','menu-v33.js?v=4','vocal-page-v43.js?v=43-3']
 common=(ROOT/'fidelity-v6-2.js').read_text()
 common=common.replace("root.querySelector('.quiz-section').id='quiz';root.querySelector('.about-video').id='about-video';root.querySelector('.faq-section').id='faq';",'')
 common=common.replace('a[href="#type"]','a[href="#type"],a[href="./index.html#type"]')
@@ -121,8 +121,8 @@ for a in bm.xpath('.//a[@href]'):
  elif u.startswith('#') and not u.startswith(('#popup','#trial')) and not a.get('data-bio') and not a.get('data-order') and not u in ['#teacher','#contacts']:a.set('href','./index.html'+u)
  if u in ['https://bemusic-odi.ru/vokal-v-odincovo','/vokal-v-odincovo']:a.set('href','./vokal-v-odincovo.html')
  if a.get('data-program')=='vokal-v-odincovo':a.set('href','./vokal-v-odincovo.html');a.attrib.pop('data-program',None)
-css.append('''#bm .t396 .tn-atom{font-family:BMOriginal,Arial,sans-serif}#bm .t396 h1,#bm .t396 h2,#bm .t396 h3{margin:0}#bm .t396__carrier,#bm .t396__filter{height:100%}#bm .tn-atom__img{height:auto}#bm .r{position:relative}#bm .t396__elem[data-elem-type="text"]{height:auto}#bm .t550__digit:empty::before{content:counter(vocal-step)}#bm .t550{counter-reset:vocal-step}#bm .t550__col{counter-increment:vocal-step}#bm .tn-atom iframe{display:block;width:100%;height:100%;border:0}#bm .t-video-lazyload{aspect-ratio:16/9;width:100%}#bm .t-video-lazyload iframe{width:100%;height:100%;border:0}#bm #rec1130569141{display:none}#bm .vocal-spinning .tn-atom{animation:vocal-spin 5s linear infinite}@keyframes vocal-spin{to{rotate:360deg}}@media(prefers-reduced-motion:reduce){#bm .vocal-spinning .tn-atom{animation:none}}''')
-(ROOT/'vocal-layout-v43.css').write_text('\n'.join(css).replace('font-family:mix','font-family:BMOriginal'));etree.SubElement(head,'link',rel='stylesheet',href='./vocal-layout-v43.css')
+css.append('''#bm .t396 .tn-atom{font-family:BMOriginal,Arial,sans-serif}#bm .t396 h1,#bm .t396 h2,#bm .t396 h3{margin:0}#bm .t396__carrier,#bm .t396__filter{height:100%}#bm .tn-atom__img{height:auto}#bm .r{position:relative}#bm .r .t-btnflex{font-family:BMOriginal,Arial,sans-serif;line-height:1.4}#bm .t396__elem[data-elem-type="text"]{height:auto}#bm .t550__digit:empty::before{content:counter(vocal-step)}#bm .t550{counter-reset:vocal-step}#bm .t550__col{counter-increment:vocal-step}#bm .tn-atom iframe{display:block;width:100%;height:100%;border:0}#bm .t-video-lazyload{aspect-ratio:16/9;width:100%}#bm .t-video-lazyload iframe{width:100%;height:100%;border:0}#bm #rec1130569141{display:none}#bm .vocal-spinning .tn-atom{animation:vocal-spin 5s linear infinite}@keyframes vocal-spin{to{rotate:360deg}}@media(prefers-reduced-motion:reduce){#bm .vocal-spinning .tn-atom{animation:none}}''')
+(ROOT/'vocal-layout-v43.css').write_text(re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal','\n'.join(css)));etree.SubElement(head,'link',rel='stylesheet',href='./vocal-layout-v43.css?v=43-3')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
 (ROOT/'vokal-v-odincovo.html').write_text(result)
 print(json.dumps({'assets':len(set(assets.values())),'zero_scenes':len(zero),'zero_elements':sum(len(r.xpath('.//*[@data-elem-id]')) for r in zero),'missing':sorted(missing),'html_bytes':len(result.encode())},ensure_ascii=False))
