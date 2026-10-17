@@ -42,7 +42,7 @@ def clean(e):
         for a in ['src','data-original']:
             u=x.get(a)
             if u and ('tildacdn.' in u or 'tilda.ws/img' in u):x.set(a,local_url(u))
-        if x.get('style'):x.set('style',urls_in(x.get('style')))
+        if x.get('style'):x.set('style',re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal',urls_in(x.get('style'))))
         if x.tag=='a':
             u=x.get('href','')
             if '#popup:order' in u:x.set('href','#trial');x.set('data-order','gift' if 'order2' in u and 'ПОДАР' in x.text_content().upper() else 'trial')
@@ -113,7 +113,7 @@ for rec in zero:
 # Shared header interactions without assumptions about home-only sections.
 base=main.xpath('//script[not(@src)]')[0].text.split('const bios=')[0]+'})();'
 
-scripts=['vocal-base-v43.js','fidelity-v5-7.js?v=42','vocal-common-v43.js','vocal-shared-v43.js','fidelity-v11-2.js?v=38','fidelity-v12-4.js','fidelity-v14-2.js','fidelity-v16-3.js?v=42-2','menu-v33.js?v=4','guitar-page-v44.js?v=44-1']
+scripts=['vocal-base-v43.js','fidelity-v5-7.js?v=42','vocal-common-v43.js','vocal-shared-v43.js','fidelity-v11-2.js?v=38','fidelity-v12-4.js','fidelity-v14-2.js','fidelity-v16-3.js?v=42-2','menu-v33.js?v=4','guitar-page-v44.js?v=44-2']
 common=(ROOT/'fidelity-v6-2.js').read_text()
 common=common.replace("root.querySelector('.quiz-section').id='quiz';root.querySelector('.about-video').id='about-video';root.querySelector('.faq-section').id='faq';",'')
 common=common.replace('a[href="#type"]','a[href="#type"],a[href="./index.html#type"]')
@@ -136,7 +136,7 @@ for a in bm.xpath('.//a[@href]'):
  if u in ['https://bemusic-odi.ru/vokal-v-odincovo','/vokal-v-odincovo']:a.set('href','./vokal-v-odincovo.html')
  if a.get('data-program')=='igra-na-gitare-v-odincovo':a.set('href','./igra-na-gitare-v-odincovo.html');a.attrib.pop('data-program',None)
 css.append('''#bm .desktop-header nav>a{color:#1f1f1f}#bm .t396 .tn-atom{font-family:BMOriginal,Arial,sans-serif}#bm .t396 h1,#bm .t396 h2,#bm .t396 h3{margin:0}#bm .t396__carrier,#bm .t396__filter{height:100%}#bm .tn-atom__img{height:auto}#bm .r{position:relative}#bm .r .t-btnflex{font-family:BMOriginal,Arial,sans-serif;line-height:1.4}#bm .t550__digit:empty::before{content:counter(vocal-step)}#bm .t550{counter-reset:vocal-step}#bm .t550__col{counter-increment:vocal-step}#bm .tn-atom iframe{display:block;width:100%;height:100%;border:0}#bm .t-video-lazyload{aspect-ratio:16/9;width:100%}#bm .t-video-lazyload iframe{width:100%;height:100%;border:0}#bm #rec1130569141{display:none}#bm .vocal-spinning .tn-atom{animation:vocal-spin 5s linear infinite}@keyframes vocal-spin{to{rotate:360deg}}@media(prefers-reduced-motion:reduce){#bm .vocal-spinning .tn-atom{animation:none}}''')
-(ROOT/'guitar-layout-v44.css').write_text(re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal','\n'.join(css)));etree.SubElement(head,'link',rel='stylesheet',href='./guitar-layout-v44.css?v=44-1')
+(ROOT/'guitar-layout-v44.css').write_text(re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal','\n'.join(css)));etree.SubElement(head,'link',rel='stylesheet',href='./guitar-layout-v44.css?v=44-2')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
 (ROOT/'igra-na-gitare-v-odincovo.html').write_text(result)
 print(json.dumps({'assets':len(set(assets.values())),'zero_scenes':len(zero),'zero_elements':sum(len(r.xpath('.//*[@data-elem-id]')) for r in zero),'missing':sorted(missing),'html_bytes':len(result.encode())},ensure_ascii=False))

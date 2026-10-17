@@ -111,3 +111,7 @@ The main navigation now points vocal links to the local page. Guitar, piano, kid
 Validation results and limitations are recorded in the project state; full pixel identity and physical Safari/iPhone verification are not claimed.
 
 The v43 ZIP contains editable pages and active dependencies. Self-contained previews are published separately to avoid duplicate embedded resources. The final vocal desktop header retains original dark links.
+
+## v44 — independent guitar page, 17.10.2026
+
+Added original guitar hero, audience section, four FAQ answers, lesson steps, curriculum, concert videos, four student results, shared teachers, certificate, contacts and footer. Native CSS replaces source design-coordinate runtime: 10 compositions, 61 positioned elements; local assets and independent interactions. Source runtime is retained only in the QA fixture. Inline source font declarations are mapped to the local font. Main and vocal links now use the local guitar page; piano, kids and loyalty remain external. Form submission remains disabled. Geometry and functional checks are recorded in project state.
