@@ -2580,7 +2580,7 @@ function roundVideoBoxes(){root.querySelectorAll('.t-video-lazyload').forEach(el
 function sizeNative(){roundTextLines();roundVideoBoxes()}
 sizeNative();document.fonts.ready.then(sizeNative);window.addEventListener('resize',sizeNative,{passive:true});
 // Native links, menus and dialogs reuse the checked home-page components.
-root.querySelectorAll('[data-program]').forEach(a=>{const p=a.dataset.program;a.href=['vokal-v-odincovo','igra-na-gitare-v-odincovo'].includes(p)?'./'+p+'.html':'https://bemusic-odi.ru/'+p;a.removeAttribute('data-program')});
+root.querySelectorAll('[data-program]').forEach(a=>{const p=a.dataset.program;a.href=['vokal-v-odincovo','igra-na-gitare-v-odincovo','igra-na-fortepiano-v-odincovo'].includes(p)?'./'+p+'.html':'https://bemusic-odi.ru/'+p;a.removeAttribute('data-program')});
 root.querySelectorAll('a[href="#loyalty"],a[href="./index.html#loyalty"]').forEach(a=>a.href='https://bemusic-odi.ru/programma-loyalnosti-be-music');
 const loyalty=root.querySelector('details#loyalty');if(loyalty){const a=document.createElement('a');a.href='https://bemusic-odi.ru/programma-loyalnosti-be-music';a.textContent=loyalty.querySelector('summary').textContent;loyalty.replaceWith(a)}
 root.querySelectorAll('a[href*="#popup:order"]').forEach(a=>{a.href='#trial';a.dataset.order='trial'});
