@@ -98,3 +98,5 @@ Follow-up v41-2: use fixed-width flex columns matching source wrapping above960p
 ## v42 — accessible dialog names, 17.10.2026
 
 After a teacher biography changes into a booking form, its prior aria-label named the teacher. Set the form dialog name on every trial/gift open, preserving teacher names in biography dialogs. No visible layout, text, form submission or original production changes. Trial close/reopen/Escape and restored scroll lock verified at320/390/640px; gift choices and focus restoration verified at390px. Mobile pointer activation inside the cloud QA iframe remains inconclusive; keyboard activation works.
+
+v42-2: all ten teacher-to-trial chains verified; focus returns to the corresponding teacher and scroll unlocks. Normalize rendered heading whitespace when naming a biography, so line breaks do not merge Anton Orlov or Maria Deeva. Visible text and geometry unchanged.
