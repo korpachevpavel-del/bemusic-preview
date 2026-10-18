@@ -13,7 +13,7 @@ page=html.Element('html',lang='ru');head=etree.SubElement(page,'head')
 etree.SubElement(head,'meta',charset='utf-8');etree.SubElement(head,'meta',name='viewport',content='width=device-width,initial-scale=1');etree.SubElement(head,'meta',name='robots',content='noindex,nofollow');etree.SubElement(head,'title').text='Программа лояльности'
 etree.SubElement(head,'link',rel='stylesheet',href='./bemusic-shared-v43.css')
 for link in main.xpath('//head/link[@rel="stylesheet"]'):head.append(deepcopy(link))
-etree.SubElement(head,'link',rel='stylesheet',href='./loyalty-layout-v47.css?v=47-1')
+etree.SubElement(head,'link',rel='stylesheet',href='./loyalty-layout-v47.css?v=47-2')
 body=etree.SubElement(page,'body');bm=etree.SubElement(body,'div',id='bm',attrib={'class':'loyalty-page'})
 bm.append(html.fromstring(shell['header']))
 bm.append(deepcopy(main.get_element_by_id('s887169985')))
