@@ -15,7 +15,15 @@ etree.SubElement(head,'link',rel='stylesheet',href='./bemusic-shared-v43.css')
 for link in main.xpath('//head/link[@rel="stylesheet"]'):head.append(deepcopy(link))
 etree.SubElement(head,'link',rel='stylesheet',href='./loyalty-layout-v47.css?v=47-3')
 body=etree.SubElement(page,'body');bm=etree.SubElement(body,'div',id='bm',attrib={'class':'loyalty-page'})
-bm.append(html.fromstring(shell['header']))
+header=html.fromstring(shell['header'])
+nav=header.xpath('.//*[contains(@class,"mobile-header")]//nav')[0]
+nav.getparent().replace(nav,html.fromstring(shell['mobile_nav']))
+mobile=header.xpath('.//*[contains(@class,"mobile-header")]')[0]
+if not mobile.xpath('.//*[contains(@class,"mobile-header-social")]'):
+ social=etree.SubElement(mobile,'div',attrib={'class':'mobile-header-social','role':'group','aria-label':'Социальные сети BE MUSIC'})
+ for label,url,asset in [('Telegram','https://t.me/bemusic_odi','header-telegram.png'),('ВКонтакте','https://vk.ru/bemusic_odi','header-vk.png'),('Instagram','https://www.instagram.com/bemusic_odi','header-instagram.png')]:
+  a=etree.SubElement(social,'a',href=url,target='_blank',rel='noopener noreferrer',attrib={'aria-label':label});etree.SubElement(a,'img',src='./'+asset,alt='',width='35',height='35')
+bm.append(header)
 bm.append(deepcopy(main.get_element_by_id('s887169985')))
 bm.append(html.fromstring(shell['footer']))
 for a in bm.xpath('.//a[@href]'):
