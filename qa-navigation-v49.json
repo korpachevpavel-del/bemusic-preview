@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-18",
+  "method": "HTML links checked against local files and anchor IDs; data-order dialog triggers excluded from anchor failures",
+  "pages": [
+    {
+      "page": "index.html",
+      "localLinks": 38,
+      "dialogTriggers": 0,
+      "brokenUnhandled": []
+    },
+    {
+      "page": "vokal-v-odincovo.html",
+      "localLinks": 33,
+      "dialogTriggers": 9,
+      "brokenUnhandled": []
+    },
+    {
+      "page": "igra-na-gitare-v-odincovo.html",
+      "localLinks": 31,
+      "dialogTriggers": 7,
+      "brokenUnhandled": []
+    },
+    {
+      "page": "igra-na-fortepiano-v-odincovo.html",
+      "localLinks": 31,
+      "dialogTriggers": 7,
+      "brokenUnhandled": []
+    },
+    {
+      "page": "kids.html",
+      "localLinks": 37,
+      "dialogTriggers": 8,
+      "brokenUnhandled": []
+    },
+    {
+      "page": "programma-loyalnosti-be-music.html",
+      "localLinks": 34,
+      "dialogTriggers": 0,
+      "brokenUnhandled": []
+    },
+    {
+      "page": "privacy.html",
+      "localLinks": 34,
+      "dialogTriggers": 0,
+      "brokenUnhandled": []
+    },
+    {
+      "page": "email.html",
+      "localLinks": 34,
+      "dialogTriggers": 0,
+      "brokenUnhandled": []
+    }
+  ]
+}

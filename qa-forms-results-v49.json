@@ -1,0 +1,554 @@
+{
+  "date": "2026-10-18",
+  "flows": [
+    {
+      "page": "vocal",
+      "type": "trial",
+      "name": "Запись на пробное занятие",
+      "disabled": true
+    },
+    {
+      "page": "vocal",
+      "type": "gift",
+      "name": "Заказ подарочного сертификата",
+      "disabled": true
+    },
+    {
+      "page": "guitar",
+      "type": "trial",
+      "name": "Запись на пробное занятие",
+      "disabled": true
+    },
+    {
+      "page": "guitar",
+      "type": "gift",
+      "name": "Заказ подарочного сертификата",
+      "disabled": true
+    },
+    {
+      "page": "piano",
+      "type": "trial",
+      "name": "Запись на пробное занятие",
+      "disabled": true
+    },
+    {
+      "page": "piano",
+      "type": "gift",
+      "name": "Заказ подарочного сертификата",
+      "disabled": true
+    },
+    {
+      "page": "kids",
+      "type": "trial",
+      "name": "Запись на пробное занятие",
+      "disabled": true
+    },
+    {
+      "page": "kids",
+      "type": "gift",
+      "name": "Заказ подарочного сертификата",
+      "disabled": true
+    }
+  ],
+  "layoutAndAccents": [
+    {
+      "type": "kids-intake",
+      "width": 320,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "265px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "265px"
+      },
+      "choiceHeight": {
+        "source": "140.297px",
+        "own": "140.297px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "kids-intake",
+      "width": 390,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "335px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "335px"
+      },
+      "choiceHeight": {
+        "source": "140.297px",
+        "own": "140.297px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "kids-intake",
+      "width": 480,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "425px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "425px"
+      },
+      "choiceHeight": {
+        "source": "140.297px",
+        "own": "140.297px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "kids-intake",
+      "width": 640,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "420px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "420px"
+      },
+      "choiceHeight": {
+        "source": "140.297px",
+        "own": "140.297px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "kids-intake",
+      "width": 1024,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "choiceHeight": {
+        "source": "144.797px",
+        "own": "144.797px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "kids-intake",
+      "width": 1280,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "470px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "470px"
+      },
+      "choiceHeight": {
+        "source": "147.891px",
+        "own": "147.891px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "kids-intake",
+      "width": 960,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "choiceHeight": {
+        "source": "144.797px",
+        "own": "144.797px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "kids-intake",
+      "width": 768,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "choiceHeight": {
+        "source": "144.797px",
+        "own": "144.797px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "gift",
+      "width": 320,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "265px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "265px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "gift",
+      "width": 390,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "335px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "335px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "gift",
+      "width": 480,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "425px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "425px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "gift",
+      "width": 640,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "420px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "49.9844px",
+        "line": "22.4px",
+        "w": "420px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "gift",
+      "width": 768,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "gift",
+      "width": 960,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "gift",
+      "width": 1024,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "370px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    },
+    {
+      "type": "gift",
+      "width": 1280,
+      "source": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "470px"
+      },
+      "own": {
+        "bg": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "color": "rgb(255, 255, 255)",
+        "font": "16px",
+        "h": "53.9844px",
+        "line": "22.4px",
+        "w": "470px"
+      },
+      "close": {
+        "source": "rgb(39, 176, 246)",
+        "own": "rgb(39, 176, 246)"
+      },
+      "equal": true
+    }
+  ],
+  "sourceButtonColors": [
+    {
+      "button": "ЗАПИСАТЬСЯ НА БЕСПЛАТНЫЙ УРОК",
+      "sourceColor": "#cf28f5",
+      "actualColor": "rgb(207, 40, 245)",
+      "ageFields": 0,
+      "equal": true
+    },
+    {
+      "button": "ХОЧУ НА ПРОБНОЕ ЗАНЯТИЕ",
+      "sourceColor": "#cf28f5",
+      "actualColor": "rgb(207, 40, 245)",
+      "ageFields": 0,
+      "equal": true
+    },
+    {
+      "button": "ОСТАВИТЬ ЗАЯВКУ",
+      "sourceColor": "#cf28f5",
+      "actualColor": "rgb(207, 40, 245)",
+      "ageFields": 0,
+      "equal": true
+    },
+    {
+      "button": "ПОПРОБОВАТЬ БЕСПЛАТНО",
+      "sourceColor": "#27b0f6",
+      "actualColor": "rgb(39, 176, 246)",
+      "ageFields": 0,
+      "equal": true
+    },
+    {
+      "button": "ЗАПИСАТЬСЯ НА УРОК",
+      "sourceColor": "#cf28f5",
+      "actualColor": "rgb(207, 40, 245)",
+      "ageFields": 0,
+      "equal": true
+    },
+    {
+      "button": "ЗАПИСАТЬСЯ",
+      "sourceColor": "#27b0f6",
+      "actualColor": "rgb(39, 176, 246)",
+      "ageFields": 1,
+      "equal": true
+    },
+    {
+      "button": "Оставьте заявку на пробное занятие,",
+      "sourceColor": "#cf28f5",
+      "actualColor": "rgb(207, 40, 245)",
+      "ageFields": 0,
+      "equal": true
+    },
+    {
+      "button": "ЗАКАЗАТЬ",
+      "sourceColor": "#27b0f6",
+      "actualColor": "rgb(39, 176, 246)",
+      "ageFields": 0,
+      "equal": true
+    }
+  ],
+  "intakeLifecycle": {
+    "reopenAgeFields": 1,
+    "reopenChoiceGroups": 1,
+    "ageEntryTested": true,
+    "guitarSelectionTested": true,
+    "submitDisabled": true
+  },
+  "mobileMenuClickVerified": true,
+  "measurement": "computed layout sizes after original responsive recalculation; hidden popup measurements excluded"
+}
