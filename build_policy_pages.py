@@ -32,7 +32,7 @@ for name,ids in [('privacy',['rec886479424','rec886479427']),('email',['rec88647
     if k.startswith('on'):del e.attrib[k]
   separator.addprevious(rec)
   assert ''.join(source.get_element_by_id(rid).itertext())==''.join(rec.itertext()),rid
- etree.SubElement(page.find('head'),'link',rel='stylesheet',href='./policy-layout-v48.css?v=48-1')
+ etree.SubElement(page.find('head'),'link',rel='stylesheet',href='./policy-layout-v48.css?v=48-2')
  (root/(name+'.html')).write_text(html.tostring(page,encoding='unicode',doctype='<!doctype html>'))
  if name=='privacy':
   for link in source.xpath('//head/link[@rel="stylesheet"]'):
@@ -41,5 +41,6 @@ for name,ids in [('privacy',['rec886479424','rec886479427']),('email',['rec88647
    b=raw_url(u);b=gzip.decompress(b) if b[:2]==b'\x1f\x8b' else b
    css.append(css_urls(b.decode()).replace('#allrecords','#bm'))
 text='\n'.join(css);text=re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal',text)
+text+='\n@media(min-width:961px){#bm.policy-page .t017 .t-col,#bm.policy-page .t004 .t-col{box-sizing:content-box}}\n'
 (root/'policy-layout-v48.css').write_text(text)
 print(json.dumps({'text_preserved':True,'assets':sorted(assets),'css_bytes':len(text.encode())}))
