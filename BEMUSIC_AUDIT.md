@@ -119,3 +119,12 @@ Added original guitar hero, audience section, four FAQ answers, lesson steps, cu
 ## v45 — independent piano page, 17.10.2026
 
 Added the original piano page: seven responsive compositions and 47 positioned elements; three FAQ answers, trial-lesson steps, curriculum, six student videos, shared ten-teacher slider, piano certificate, contacts and footer. Local CSS and independent JavaScript replace the source runtime. Source inline fonts are mapped to BMOriginal. The source has no concert section here; none is added. Main, vocal and guitar navigation now points to the local piano page. Kids and loyalty remain external. Form submissions stay disabled. The original Tilda runtime appears only in qa-piano-reference.html, excluded from release. Detailed browser comparisons and limitations are recorded in project state.
+
+
+## v46 — детская страница, 18.10.2026
+
+Перенесена kids.html: 11 адаптивных композиций, 90 позиционированных элементов, три подробные программы, восемь вопросов, две группы раскрываемых видео и галерея из 30 исходных фотографий. Все четыре направления теперь имеют локальные переходы. Программа лояльности остаётся внешней.
+
+В предыдущем сеансе сверены координаты 90 элементов на ширинах 320/390/480/640/768/960/1280 без отклонений более 1 px; проверен полный цикл галереи на 1280 px. После сброса сессии восстановлен опубликованный кандидат 7855371. Повторно исправлено ошибочное отключение двух кнопок «Посмотреть ещё»: disabled применяется только внутри форм. Телефонный селектор использует 205 исходных стран и масок, локальный спрайт флагов и собственный JavaScript; внешний геосервис Tilda не вызывается. Начальное значение US соответствует облачному эталону, ручной выбор сохраняется локально. Отправка заявки отключена.
+
+Комплект v46 содержит только активные зависимости. Одинаковые ресурсы vocal/guitar/piano/kids объединены после сравнения байтов, без перекодирования изображений. Исторические файлы сохранены в репозитории. QA-страницы и исходный Tilda runtime не входят в релиз. Полная пиксельная идентичность и проверка на физическом iPhone/Safari не заявляются.

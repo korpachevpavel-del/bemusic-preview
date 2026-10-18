@@ -25,6 +25,10 @@ def local_url(url):
         missing.add(url);return url
     data=z.read(key);suffix=Path(urlsplit(url).path).suffix or '.bin'
     name='piano-'+hashlib.sha256(data).hexdigest()[:16]+suffix
+    for prefix in ['vocal','guitar','piano']:
+        candidate=ROOT/(prefix+'-'+name.split('-',1)[1])
+        if candidate.name!=name and candidate.is_file() and candidate.read_bytes()==data:
+            assets[url]=candidate.name;return './'+candidate.name
     (ROOT/name).parent.mkdir(exist_ok=True);(ROOT/name).write_bytes(data);assets[url]=name
     return './'+name
 
