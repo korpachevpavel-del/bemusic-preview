@@ -3,7 +3,7 @@ const root=document.getElementById('bm');
 const pages=new Set(['vokal-v-odincovo','igra-na-gitare-v-odincovo','igra-na-fortepiano-v-odincovo','kids']);
 root.querySelectorAll('[data-program]').forEach(link=>{
  const page=link.dataset.program;if(!pages.has(page))return;
- link.href=['vokal-v-odincovo','igra-na-gitare-v-odincovo','igra-na-fortepiano-v-odincovo'].includes(page)?'./'+page+'.html':'https://bemusic-odi.ru/'+page;
+ link.href=['vokal-v-odincovo','igra-na-gitare-v-odincovo','igra-na-fortepiano-v-odincovo','kids'].includes(page)?'./'+page+'.html':'https://bemusic-odi.ru/'+page;
  link.removeAttribute('data-program');
 });
 const loyaltyUrl='https://bemusic-odi.ru/programma-loyalnosti-be-music';
