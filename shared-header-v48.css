@@ -1,0 +1,64 @@
+/* Source header geometry. Shared desktop header; mobile/640px retained. */
+@media(min-width:1200px){
+#bm .sticky-head,#bm .desktop-header{height:70px}
+#bm .desktop-header{display:block;position:relative;width:100%;max-width:none;padding:0;margin:0}
+#bm .desktop-header nav,#bm .desktop-header .socials{position:static;display:block;transform:none;margin:0;padding:0}
+#bm .desktop-header nav>a,#bm .desktop-header nav>.directions-toggle{position:absolute;display:block;align-content:center;text-align:center;margin:0;padding:0;transform:none;border:0;color:#1f1f1f;background:none;font:400 15px/15px BMOriginal,Arial,sans-serif}
+#bm .desktop-header nav>.directions-toggle{left:calc(50% - 600px + 235px);top:25.5px;width:135px!important;height:19px}
+#bm .desktop-header nav>a[href="./index.html#sertifikat"],#bm .desktop-header nav>a[href="#sertifikat"]{left:calc(50% - 600px + 624px);top:20px;width:135px!important;height:32px}
+#bm .desktop-header nav>a[href="./programma-loyalnosti-be-music.html"]{left:calc(50% - 600px + 774px);top:20px;width:135px!important;height:32px}
+#bm .desktop-header nav>a[href="./index.html#teacher"],#bm .desktop-header nav>a[href="#teacher"]{left:calc(50% - 600px + 390px);top:25.5px;width:122px!important;height:19px}
+#bm .desktop-header nav>a[href="./index.html#otzyvy"],#bm .desktop-header nav>a[href="#otzyvy"]{left:calc(50% - 600px + 531px);top:25.5px;width:78px!important;height:19px}
+#bm .desktop-header nav>a[href="./index.html#contacts"],#bm .desktop-header nav>a[href="#contacts"]{left:calc(50% - 600px + 933px);top:25.5px;width:98px!important;height:19px}
+#bm .desktop-header>a{position:absolute;left:120px;top:35px;width:146px;height:auto;transform:translateY(-50%);margin:0}
+#bm .desktop-header>a>img{width:100%;height:auto;display:block}
+#bm .desktop-header .socials>a[aria-label="Instagram"]{position:absolute;left:calc(50% - 600px + 1148px);top:17px;width:35px;height:35px;margin:0}
+#bm .desktop-header .socials>a[aria-label="Instagram"]>img{width:35px;height:35px}
+#bm .desktop-header .socials>a[aria-label="ВКонтакте"]{position:absolute;left:calc(50% - 600px + 1109px);top:17px;width:35px;height:35px;margin:0}
+#bm .desktop-header .socials>a[aria-label="ВКонтакте"]>img{width:35px;height:35px}
+#bm .desktop-header .socials>a[aria-label="Telegram"]{position:absolute;left:calc(50% - 600px + 1070px);top:17px;width:35px;height:35px;margin:0}
+#bm .desktop-header .socials>a[aria-label="Telegram"]>img{width:35px;height:35px}
+#bm .desktop-header .directions-menu{left:calc(50% - 600.0px + 235px);top:70px}
+}
+@media(min-width:960px) and (max-width:1199px){
+#bm .sticky-head,#bm .desktop-header{height:90px}
+#bm .desktop-header{display:block;position:relative;width:100%;max-width:none;padding:0;margin:0}
+#bm .desktop-header nav,#bm .desktop-header .socials{position:static;display:block;transform:none;margin:0;padding:0}
+#bm .desktop-header nav>a,#bm .desktop-header nav>.directions-toggle{position:absolute;display:block;align-content:center;text-align:center;margin:0;padding:0;transform:none;border:0;color:#1f1f1f;background:none;font:400 15px/15px BMOriginal,Arial,sans-serif}
+#bm .desktop-header nav>.directions-toggle{left:calc(50% - 480px + 205px);top:30.5px;width:135px!important;height:19px}
+#bm .desktop-header nav>a[href="./index.html#sertifikat"],#bm .desktop-header nav>a[href="#sertifikat"]{left:calc(50% - 480px + 564px);top:56px;width:135px!important;height:32px}
+#bm .desktop-header nav>a[href="./programma-loyalnosti-be-music.html"]{left:calc(50% - 480px + 396px);top:58px;width:135px!important;height:32px}
+#bm .desktop-header nav>a[href="./index.html#teacher"],#bm .desktop-header nav>a[href="#teacher"]{left:calc(50% - 480px + 389px);top:30.5px;width:122px!important;height:19px}
+#bm .desktop-header nav>a[href="./index.html#otzyvy"],#bm .desktop-header nav>a[href="#otzyvy"]{left:calc(50% - 480px + 558px);top:30.5px;width:78px!important;height:19px}
+#bm .desktop-header nav>a[href="./index.html#contacts"],#bm .desktop-header nav>a[href="#contacts"]{left:calc(50% - 480px + 677px);top:30.5px;width:98px!important;height:19px}
+#bm .desktop-header>a{position:absolute;left:10px;top:45px;width:146px;height:auto;transform:translateY(-50%);margin:0}
+#bm .desktop-header>a>img{width:100%;height:auto;display:block}
+#bm .desktop-header .socials>a[aria-label="Instagram"]{position:absolute;left:calc(50% - 480px + 912px);top:17px;width:35px;height:35px;margin:0}
+#bm .desktop-header .socials>a[aria-label="Instagram"]>img{width:35px;height:35px}
+#bm .desktop-header .socials>a[aria-label="ВКонтакте"]{position:absolute;left:calc(50% - 480px + 873px);top:17px;width:35px;height:35px;margin:0}
+#bm .desktop-header .socials>a[aria-label="ВКонтакте"]>img{width:35px;height:35px}
+#bm .desktop-header .socials>a[aria-label="Telegram"]{position:absolute;left:calc(50% - 480px + 834px);top:17px;width:35px;height:35px;margin:0}
+#bm .desktop-header .socials>a[aria-label="Telegram"]>img{width:35px;height:35px}
+#bm .desktop-header .directions-menu{left:calc(50% - 480.0px + 205px);top:90px}
+}
+@media(min-width:641px) and (max-width:959px){
+#bm .sticky-head,#bm .desktop-header{height:130px}
+#bm .desktop-header{display:block;position:relative;width:100%;max-width:none;padding:0;margin:0}
+#bm .desktop-header nav,#bm .desktop-header .socials{position:static;display:block;transform:none;margin:0;padding:0}
+#bm .desktop-header nav>a,#bm .desktop-header nav>.directions-toggle{position:absolute;display:block;align-content:center;text-align:center;margin:0;padding:0;transform:none;border:0;color:#1f1f1f;background:none;font:400 15px/15px BMOriginal,Arial,sans-serif}
+#bm .desktop-header nav>.directions-toggle{left:calc(50% - 320px + 186px);top:8.5px;width:135px!important;height:19px}
+#bm .desktop-header nav>a[href="./index.html#sertifikat"],#bm .desktop-header nav>a[href="#sertifikat"]{left:calc(50% - 320px + 510px);top:78px;width:135px!important;height:32px}
+#bm .desktop-header nav>a[href="./programma-loyalnosti-be-music.html"]{left:calc(50% - 320px + 511px);top:38px;width:135px!important;height:32px}
+#bm .desktop-header nav>a[href="./index.html#teacher"],#bm .desktop-header nav>a[href="#teacher"]{left:calc(50% - 320px + 346px);top:8.5px;width:122px!important;height:19px}
+#bm .desktop-header nav>a[href="./index.html#otzyvy"],#bm .desktop-header nav>a[href="#otzyvy"]{left:calc(50% - 320px + 506px);top:8.5px;width:78px!important;height:19px}
+#bm .desktop-header nav>a[href="./index.html#contacts"],#bm .desktop-header nav>a[href="#contacts"]{left:calc(50% - 320px + 346px);top:37.5px;width:98px!important;height:19px}
+#bm .desktop-header>a{position:absolute;left:10px;top:29px;width:141px;height:auto;transform:translateY(-50%);margin:0}
+#bm .desktop-header>a>img{width:100%;height:auto;display:block}
+#bm .desktop-header .socials>a[aria-label="Instagram"]{position:absolute;left:calc(50% - 320px + 100px);top:80px;width:35px;height:35px;margin:0}
+#bm .desktop-header .socials>a[aria-label="Instagram"]>img{width:35px;height:35px}
+#bm .desktop-header .socials>a[aria-label="ВКонтакте"]{position:absolute;left:calc(50% - 320px + 61px);top:80px;width:35px;height:35px;margin:0}
+#bm .desktop-header .socials>a[aria-label="ВКонтакте"]>img{width:35px;height:35px}
+#bm .desktop-header .socials>a[aria-label="Telegram"]{position:absolute;left:calc(50% - 320px + 22px);top:80px;width:35px;height:35px;margin:0}
+#bm .desktop-header .socials>a[aria-label="Telegram"]>img{width:35px;height:35px}
+#bm .desktop-header .directions-menu{left:calc(50% - 320.0px + 186px);top:130px}
+}
