@@ -17,7 +17,7 @@ for bp,minw,maxw,height in [(1200,1200,None,70),(960,960,1199,90),(640,641,959,1
  rules=[f'#bm .sticky-head,#bm .desktop-header{{height:{height}px}}', '#bm .desktop-header{display:block;position:relative;width:100%;max-width:none;padding:0;margin:0}', '#bm .desktop-header nav,#bm .desktop-header .socials{position:static;display:block;transform:none;margin:0;padding:0}', '#bm .desktop-header nav>a,#bm .desktop-header nav>.directions-toggle{position:absolute;display:block;align-content:center;text-align:center;margin:0;padding:0;transform:none;border:0;color:#1f1f1f;background:none;font:400 15px/15px BMOriginal,Arial,sans-serif}']
  for el,selector in zip(buttons,selectors):
   left=val(el,'left',bp);top=float(val(el,'top',bp));w=val(el,'width',bp);h=float(val(el,'height',bp))
-  rules.append(f'#bm .desktop-header nav>{selector}'+'{'+f'left:calc(50% - {bp/2:g}px + {left}px);top:{height/2-h/2+top:g}px;width:{w}px;height:{h:g}px'+'}')
+  rules.append(f'#bm .desktop-header nav>{selector}'+'{'+f'left:calc(50% - {bp/2:g}px + {left}px);top:{height/2-h/2+top:g}px;width:{w}px!important;height:{h:g}px'+'}')
  lw=val(logo,'width',bp);lx=val(logo,'left',bp);ly=float(val(logo,'top',bp))
  rules.append(f'#bm .desktop-header>a'+'{'+f'position:absolute;left:{lx}px;top:{height/2+ly:g}px;width:{lw}px;height:auto;transform:translateY(-50%);margin:0'+'}')
  rules.append('#bm .desktop-header>a>img{width:100%;height:auto;display:block}')
