@@ -3,7 +3,9 @@
 const root=document.querySelector('#bm.kids-page');if(!root)return;
 let intakeRequested=false;
 window.addEventListener('click',event=>{
- if(event.target.closest('[data-order]'))intakeRequested=!!event.target.closest('[data-kids-intake]');
+ const trigger=event.target.closest('[data-order]');if(!trigger)return;
+ intakeRequested=trigger.hasAttribute('data-kids-intake');
+ root.querySelector('#dialog').style.setProperty('--kids-close-color',trigger.getAttribute('data-kids-close')||'#074ebc');
 },true);
 new MutationObserver(()=>{
   if(!intakeRequested)return;
