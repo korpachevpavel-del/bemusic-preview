@@ -1,0 +1,5 @@
+/* Restore source kids form accents without changing the shared form geometry. */
+#bm.kids-page #dialog.order-dialog .order-submit{background-image:linear-gradient(0.25turn,rgba(39,176,246,1) 0%,rgba(207,40,245,1) 100%)}
+#bm.kids-page #dialog.order-dialog [data-close]{color:#27b0f6}
+#bm.kids-page #dialog.order-dialog [data-close]::before,
+#bm.kids-page #dialog.order-dialog [data-close]::after{background:#27b0f6}
