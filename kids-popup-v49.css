@@ -4,6 +4,7 @@
 #bm.kids-page #dialog.order-dialog [data-close]::before,
 #bm.kids-page #dialog.order-dialog [data-close]::after{background:#27b0f6}
 @media(max-width:560px){
+#bm.kids-page #dialog.order-dialog [data-dialog]{width:100%}
 #bm.kids-page #dialog.order-dialog{scrollbar-width:auto}
 #bm.kids-page #dialog.order-dialog::-webkit-scrollbar{display:block;width:15px;background:#fff}
 #bm.kids-page #dialog.order-dialog::-webkit-scrollbar-thumb{background:#909090;border:3px solid #fff;border-radius:10px}

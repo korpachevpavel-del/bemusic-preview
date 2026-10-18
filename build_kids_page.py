@@ -64,7 +64,7 @@ etree.SubElement(head,'title').text=source.xpath('//title')[0].text
 
 etree.SubElement(head,'link',rel='stylesheet',href='./bemusic-shared-v43.css')
 for link in main.xpath('//head/link[@rel="stylesheet"]'):head.append(deepcopy(link))
-etree.SubElement(head,'link',rel='stylesheet',href='./kids-popup-v49.css?v=49-3')
+etree.SubElement(head,'link',rel='stylesheet',href='./kids-popup-v49.css?v=49-4')
 css=[]
 for link in source.xpath('//head/link[@rel="stylesheet"]'):
  u=link.get('href')
