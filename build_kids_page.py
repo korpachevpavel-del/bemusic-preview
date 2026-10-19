@@ -160,7 +160,7 @@ css.append('''#bm #rec1198996651,#bm #rec1198996721{display:none}#bm .desktop-he
 (ROOT/'kids-layout-v46.css').write_text(re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal','\n'.join(css)));etree.SubElement(head,'link',rel='stylesheet',href='./kids-layout-v46.css?v=46-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./kids-phone-v46.css?v=46-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./kids-dialog-v51.css?v=51-1')
-etree.SubElement(head,'link',rel='stylesheet',href='./kids-interactions-v52.css?v=52-2')
+etree.SubElement(head,'link',rel='stylesheet',href='./kids-interactions-v52.css?v=52-3')
 etree.SubElement(body,'script',src='./kids-popup-v49.js?v=49-5')
 etree.SubElement(body,'script',src='./kids-teacher-forms-v50.js?v=50-1')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')

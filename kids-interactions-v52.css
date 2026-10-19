@@ -1,2 +1,2 @@
-/* Preserve the source content width beside the FAQ prefix padding. */
-#bm.kids-page #rec1198996666 .t-col{box-sizing:content-box}
+/* Source desktop columns use content-box; <=960px uses padded border-box. */
+@media(min-width:961px){#bm.kids-page #rec1198996666 .t-col{box-sizing:content-box}}
