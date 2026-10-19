@@ -132,7 +132,7 @@ for rec in zero:
 # Shared header interactions without assumptions about home-only sections.
 base=main.xpath('//script[not(@src)]')[0].text.split('const bios=')[0]+'})();'
 
-scripts=['vocal-base-v43.js','fidelity-v5-7.js?v=42','vocal-common-v43.js','vocal-shared-v43.js','fidelity-v11-2.js?v=38','fidelity-v12-4.js','fidelity-v14-2.js','fidelity-v16-3.js?v=42-2','menu-v33.js?v=4','kids-page-v46.js?v=52-1','kids-phone-v46.js?v=46-1']
+scripts=['vocal-base-v43.js','fidelity-v5-7.js?v=42','vocal-common-v43.js','vocal-shared-v43.js','fidelity-v11-2.js?v=38','fidelity-v12-4.js','fidelity-v14-2.js','fidelity-v16-3.js?v=42-2','menu-v33.js?v=4','kids-page-v46.js?v=52-2','kids-phone-v46.js?v=46-1']
 common=(ROOT/'fidelity-v6-2.js').read_text()
 common=common.replace("root.querySelector('.quiz-section').id='quiz';root.querySelector('.about-video').id='about-video';root.querySelector('.faq-section').id='faq';",'')
 common=common.replace('a[href="#type"]','a[href="#type"],a[href="./index.html#type"]')
@@ -160,6 +160,7 @@ css.append('''#bm #rec1198996651,#bm #rec1198996721{display:none}#bm .desktop-he
 (ROOT/'kids-layout-v46.css').write_text(re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal','\n'.join(css)));etree.SubElement(head,'link',rel='stylesheet',href='./kids-layout-v46.css?v=46-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./kids-phone-v46.css?v=46-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./kids-dialog-v51.css?v=51-1')
+etree.SubElement(head,'link',rel='stylesheet',href='./kids-interactions-v52.css?v=52-2')
 etree.SubElement(body,'script',src='./kids-popup-v49.js?v=49-5')
 etree.SubElement(body,'script',src='./kids-teacher-forms-v50.js?v=50-1')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
