@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-19",
+  "phase": "awaiting_published_geometry_check",
+  "behavior": [
+    {
+      "page": "vocal",
+      "own": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        },
+        {
+          "i": 3,
+          "visible": false
+        },
+        {
+          "i": 4,
+          "visible": false
+        },
+        {
+          "i": 5,
+          "visible": false
+        },
+        {
+          "i": 6,
+          "visible": false
+        },
+        {
+          "i": 7,
+          "visible": false
+        }
+      ],
+      "source": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        },
+        {
+          "i": 3,
+          "visible": false
+        },
+        {
+          "i": 4,
+          "visible": false
+        },
+        {
+          "i": 5,
+          "visible": false
+        },
+        {
+          "i": 6,
+          "visible": false
+        },
+        {
+          "i": 7,
+          "visible": false
+        }
+      ]
+    },
+    {
+      "page": "guitar",
+      "own": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        },
+        {
+          "i": 3,
+          "visible": false
+        }
+      ],
+      "source": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        },
+        {
+          "i": 3,
+          "visible": false
+        }
+      ]
+    },
+    {
+      "page": "piano",
+      "own": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        }
+      ],
+      "source": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Cloud Chrome; physical Safari/iPhone not tested."
+  ]
+}
