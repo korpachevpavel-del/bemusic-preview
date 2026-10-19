@@ -1,0 +1,4 @@
+/* Source desktop FAQ columns include prefix padding outside the content width. */
+@media(min-width:961px){
+#bm #rec1130461571 .t-col,#bm #rec998836256 .t-col,#bm #rec1123692381 .t-col{box-sizing:content-box}
+}
