@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-19",
+  "browser": "cloud Chrome",
+  "gallery": [
+    {
+      "case": "390 mouse drag",
+      "own": {
+        "current": 2,
+        "scroll": 315
+      },
+      "source": {
+        "current": 2,
+        "scroll": 315
+      }
+    },
+    {
+      "case": "1280 next after drag",
+      "own": {
+        "current": 3,
+        "scroll": 1964
+      },
+      "source": {
+        "current": 3,
+        "scroll": 1964
+      }
+    },
+    {
+      "case": "1280 previous",
+      "own": {
+        "current": 2,
+        "scroll": 1192
+      },
+      "source": {
+        "current": 2,
+        "scroll": 1192
+      }
+    }
+  ],
+  "faqWidths": [
+    {
+      "width": 320,
+      "own": {
+        "height": 1032.0625,
+        "width": 265
+      },
+      "source": {
+        "height": 1032.0625,
+        "width": 265
+      }
+    },
+    {
+      "width": 390,
+      "own": {
+        "height": 846.5625,
+        "width": 335
+      },
+      "source": {
+        "height": 846.5625,
+        "width": 335
+      }
+    },
+    {
+      "width": 480,
+      "own": {
+        "height": 684.25,
+        "width": 425
+      },
+      "source": {
+        "height": 684.25,
+        "width": 425
+      }
+    },
+    {
+      "width": 640,
+      "own": {
+        "height": 545.125,
+        "width": 585
+      },
+      "source": {
+        "height": 545.125,
+        "width": 585
+      }
+    },
+    {
+      "width": 768,
+      "own": {
+        "height": 570.734375,
+        "width": 600
+      },
+      "source": {
+        "height": 570.734375,
+        "width": 600
+      }
+    },
+    {
+      "width": 960,
+      "own": {
+        "height": 570.734375,
+        "width": 600
+      },
+      "source": {
+        "height": 570.734375,
+        "width": 600
+      }
+    },
+    {
+      "width": 1024,
+      "own": {
+        "height": 669.921875,
+        "width": 460
+      },
+      "source": {
+        "height": 669.921875,
+        "width": 460
+      }
+    },
+    {
+      "width": 1280,
+      "own": {
+        "height": 595.53125,
+        "width": 560
+      },
+      "source": {
+        "height": 595.53125,
+        "width": 560
+      }
+    }
+  ],
+  "finalVisiblePanels": {
+    "own": [
+      {
+        "display": "none",
+        "height": 0,
+        "i": 0
+      },
+      {
+        "display": "block",
+        "height": 127.75,
+        "i": 1
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 2
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 3
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 4
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 5
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 6
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 7
+      }
+    ],
+    "source": [
+      {
+        "display": "none",
+        "height": 0,
+        "i": 0
+      },
+      {
+        "display": "block",
+        "height": 127.75,
+        "i": 1
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 2
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 3
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 4
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 5
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 6
+      },
+      {
+        "display": "none",
+        "height": 0,
+        "i": 7
+      }
+    ]
+  },
+  "revealed": [
+    {
+      "section": "rec1198996651",
+      "own": {
+        "display": "block",
+        "height": "391.594px"
+      },
+      "source": {
+        "display": "block",
+        "height": "271.594px"
+      },
+      "ownRect": {
+        "height": 391.59375
+      },
+      "sourceRect": {
+        "height": 391.59375
+      }
+    },
+    {
+      "section": "rec1198996721",
+      "own": {
+        "display": "block",
+        "height": "465px"
+      },
+      "source": {
+        "display": "block",
+        "height": "315px"
+      },
+      "ownRect": {
+        "height": 465
+      },
+      "sourceRect": {
+        "height": 465
+      }
+    }
+  ],
+  "correction": "Source aria-expanded can stay true on hidden panels. Intermediate multiple-panel behavior was reverted; final clone keeps the source single visible panel behavior. Verify display and physical height, not ARIA count alone.",
+  "limits": [
+    "Mobile-width iframe and mouse drag; no physical touch/Safari check.",
+    "FAQ transition phases not synchronized; compare settled geometry."
+  ]
+}
