@@ -68,7 +68,7 @@ etree.SubElement(head,'title').text=source.xpath('//title')[0].text
 
 etree.SubElement(head,'link',rel='stylesheet',href='./bemusic-shared-v43.css')
 for link in main.xpath('//head/link[@rel="stylesheet"]'):head.append(deepcopy(link))
-etree.SubElement(head,'link',rel='stylesheet',href='./kids-popup-v49.css?v=49-5')
+etree.SubElement(head,'link',rel='stylesheet',href='./kids-popup-v49.css?v=50-1')
 css=[]
 for link in source.xpath('//head/link[@rel="stylesheet"]'):
  u=link.get('href')
@@ -160,6 +160,7 @@ css.append('''#bm #rec1198996651,#bm #rec1198996721{display:none}#bm .desktop-he
 (ROOT/'kids-layout-v46.css').write_text(re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal','\n'.join(css)));etree.SubElement(head,'link',rel='stylesheet',href='./kids-layout-v46.css?v=46-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./kids-phone-v46.css?v=46-1')
 etree.SubElement(body,'script',src='./kids-popup-v49.js?v=49-5')
+etree.SubElement(body,'script',src='./kids-teacher-forms-v50.js?v=50-1')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
 (ROOT/'kids.html').write_text(result)
 print(json.dumps({'assets':len(set(assets.values())),'zero_scenes':len(zero),'zero_elements':sum(len(r.xpath('.//*[@data-elem-id]')) for r in zero),'missing':sorted(missing),'html_bytes':len(result.encode())},ensure_ascii=False))
