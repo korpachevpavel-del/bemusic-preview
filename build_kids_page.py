@@ -159,6 +159,7 @@ for a in bm.xpath('.//a[@href]'):
 css.append('''#bm #rec1198996651,#bm #rec1198996721{display:none}#bm .desktop-header nav>a{color:#1f1f1f}#bm .t396 .tn-atom{font-family:BMOriginal,Arial,sans-serif}#bm .t396 h1,#bm .t396 h2,#bm .t396 h3{margin:0}#bm .t396__carrier,#bm .t396__filter{height:100%}#bm .tn-atom__img{height:auto}#bm .r{position:relative}#bm .r .t-btnflex{font-family:BMOriginal,Arial,sans-serif;line-height:1.4}#bm .t550__digit:empty::before{content:counter(vocal-step)}#bm .t550{counter-reset:vocal-step}#bm .t550__col{counter-increment:vocal-step}#bm .tn-atom iframe{display:block;width:100%;height:100%;border:0}#bm .t-video-lazyload{aspect-ratio:16/9;width:100%}#bm .t-video-lazyload iframe{width:100%;height:100%;border:0}#bm #rec1130569141{display:none}#bm .vocal-spinning .tn-atom{animation:vocal-spin 5s linear infinite}@keyframes vocal-spin{to{rotate:360deg}}@media(prefers-reduced-motion:reduce){#bm .vocal-spinning .tn-atom{animation:none}}''')
 (ROOT/'kids-layout-v46.css').write_text(re.sub(r'(?<![-\w])mix(?![-\w])','BMOriginal','\n'.join(css)));etree.SubElement(head,'link',rel='stylesheet',href='./kids-layout-v46.css?v=46-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./kids-phone-v46.css?v=46-1')
+etree.SubElement(head,'link',rel='stylesheet',href='./kids-dialog-v51.css?v=51-1')
 etree.SubElement(body,'script',src='./kids-popup-v49.js?v=49-5')
 etree.SubElement(body,'script',src='./kids-teacher-forms-v50.js?v=50-1')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
