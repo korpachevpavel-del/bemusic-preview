@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-19",
+  "browser": "cloud Chrome",
+  "viewport": "mobile-width iframe; not physical phone",
+  "before": [
+    {
+      "w": 320,
+      "source": {
+        "h": 16,
+        "w": 16,
+        "x": 269,
+        "y": 17
+      },
+      "bar": {
+        "h": 50,
+        "w": 305,
+        "x": 0,
+        "y": 0
+      },
+      "own": {
+        "h": 50,
+        "left": "280.5px",
+        "line": "30px",
+        "thickness": "2px",
+        "w": 320,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "w": 390,
+      "source": {
+        "h": 16,
+        "w": 16,
+        "x": 339,
+        "y": 17
+      },
+      "bar": {
+        "h": 50,
+        "w": 375,
+        "x": 0,
+        "y": 0
+      },
+      "own": {
+        "h": 50,
+        "left": "350.5px",
+        "line": "30px",
+        "thickness": "2px",
+        "w": 390,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "w": 480,
+      "source": {
+        "h": 16,
+        "w": 16,
+        "x": 429,
+        "y": 17
+      },
+      "bar": {
+        "h": 50,
+        "w": 465,
+        "x": 0,
+        "y": 0
+      },
+      "own": {
+        "h": 50,
+        "left": "440.5px",
+        "line": "30px",
+        "thickness": "2px",
+        "w": 480,
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "w": 640,
+      "source": {
+        "h": 23,
+        "w": 23,
+        "x": 15,
+        "y": 20
+      },
+      "bar": {
+        "h": 43,
+        "w": 625,
+        "x": 5,
+        "y": 10
+      },
+      "own": {
+        "h": 43,
+        "left": "21.5px",
+        "line": "30px",
+        "thickness": "2px",
+        "w": 43,
+        "x": 572,
+        "y": 10
+      }
+    },
+    {
+      "w": 1280,
+      "source": {
+        "h": 23,
+        "w": 23,
+        "x": 15,
+        "y": 20
+      },
+      "bar": {
+        "h": 43,
+        "w": 1265,
+        "x": 5,
+        "y": 10
+      },
+      "own": {
+        "h": 43,
+        "left": "21.5px",
+        "line": "30px",
+        "thickness": "2px",
+        "w": 43,
+        "x": 1212,
+        "y": 10
+      }
+    }
+  ],
+  "afterMobile": [
+    {
+      "w": 320,
+      "source": {
+        "h": 16,
+        "w": 16,
+        "x": 269,
+        "y": 17
+      },
+      "own": {
+        "barWidth": 305,
+        "h": 16,
+        "mask": "url(\"https://korpachevpavel-del.github.io/bemusic-preview/kids-close-v51.svg\")",
+        "w": 16,
+        "x": 269,
+        "y": 17
+      }
+    },
+    {
+      "w": 390,
+      "source": {
+        "h": 16,
+        "w": 16,
+        "x": 339,
+        "y": 17
+      },
+      "own": {
+        "barWidth": 375,
+        "h": 16,
+        "mask": "url(\"https://korpachevpavel-del.github.io/bemusic-preview/kids-close-v51.svg\")",
+        "w": 16,
+        "x": 339,
+        "y": 17
+      }
+    },
+    {
+      "w": 480,
+      "source": {
+        "h": 16,
+        "w": 16,
+        "x": 429,
+        "y": 17
+      },
+      "own": {
+        "barWidth": 465,
+        "h": 16,
+        "mask": "url(\"https://korpachevpavel-del.github.io/bemusic-preview/kids-close-v51.svg\")",
+        "w": 16,
+        "x": 429,
+        "y": 17
+      }
+    }
+  ],
+  "sourceDesktopFresh": {
+    "width": 1280,
+    "x": 1222,
+    "y": 20,
+    "w": 23,
+    "h": 23
+  },
+  "focusChecks": [
+    {
+      "flow": "bio → Escape",
+      "state": {
+        "focus": "0",
+        "open": false,
+        "overflow": ""
+      }
+    },
+    {
+      "flow": "bio → order → Escape",
+      "state": {
+        "focus": "0",
+        "open": false,
+        "overflow": ""
+      }
+    },
+    {
+      "flow": "hero → Escape",
+      "state": {
+        "focusRecord": "rec1198996536",
+        "open": false,
+        "overflow": ""
+      }
+    },
+    {
+      "flow": "gift → Escape",
+      "state": {
+        "focusRecord": "rec1198996831",
+        "open": false,
+        "overflow": ""
+      }
+    }
+  ],
+  "clickClose390": {
+    "focus": "0",
+    "open": false,
+    "overflow": ""
+  },
+  "limits": [
+    "Sticky QA navigation can cover close bar after locator auto-scroll; actual coordinate click tested with close bar visible.",
+    "Tilda resize leaves mobile inline width at desktop; desktop reference reopened on fresh page."
+  ],
+  "ownDesktop": {
+    "h": "23px",
+    "w": "23px",
+    "x": 1222,
+    "y": 20
+  }
+}
