@@ -1,0 +1,289 @@
+{
+  "date": "2026-10-19",
+  "browser": "cloud Chrome",
+  "teacherFlows1280": [
+    {
+      "teacher": 0,
+      "width": 1280,
+      "submit": [
+        {
+          "background": "rgb(7, 78, 188)",
+          "color": "rgb(255, 255, 255)",
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "none",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(7, 78, 188)"
+      ],
+      "fields": [
+        {
+          "name": "Name",
+          "type": "text"
+        },
+        {
+          "name": "Email",
+          "type": "email"
+        },
+        {
+          "name": "Phone",
+          "type": "tel"
+        },
+        {
+          "name": "marketing",
+          "type": "checkbox"
+        },
+        {
+          "name": "privacy",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "teacher": 1,
+      "width": 1280,
+      "submit": [
+        {
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(207, 40, 245)"
+      ],
+      "inputs": 5
+    },
+    {
+      "teacher": 2,
+      "width": 1280,
+      "submit": [
+        {
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(39, 176, 246)"
+      ],
+      "inputs": 5
+    },
+    {
+      "teacher": 3,
+      "width": 1280,
+      "submit": [
+        {
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(39, 176, 246)"
+      ],
+      "inputs": 5
+    },
+    {
+      "teacher": 4,
+      "width": 1280,
+      "submit": [
+        {
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(39, 176, 246)"
+      ],
+      "inputs": 5
+    },
+    {
+      "teacher": 5,
+      "width": 1280,
+      "submit": [
+        {
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(7, 78, 188)"
+      ],
+      "inputs": 5
+    },
+    {
+      "teacher": 6,
+      "width": 1280,
+      "submit": [
+        {
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(39, 176, 246)"
+      ],
+      "inputs": 5
+    },
+    {
+      "teacher": 7,
+      "width": 1280,
+      "submit": [
+        {
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(207, 40, 245)"
+      ],
+      "inputs": 5
+    },
+    {
+      "teacher": 8,
+      "width": 1280,
+      "submit": [
+        {
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(7, 78, 188)"
+      ],
+      "inputs": 5
+    },
+    {
+      "teacher": 9,
+      "width": 1280,
+      "submit": [
+        {
+          "disabled": true,
+          "fontSize": "16px",
+          "height": "53.9844px",
+          "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+          "lineHeight": "22.4px",
+          "width": "470px"
+        }
+      ],
+      "close": [
+        "rgb(207, 40, 245)"
+      ],
+      "inputs": 5
+    }
+  ],
+  "sourceAnton1280": [
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "fontSize": "16px",
+      "height": "53.9844px",
+      "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+      "lineHeight": "22.4px",
+      "width": "470px"
+    }
+  ],
+  "mobileNikolay": {
+    "width": 390,
+    "source": [
+      {
+        "background": "rgb(7, 78, 188)",
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "16px",
+        "height": "49.9844px",
+        "image": "none",
+        "lineHeight": "22.4px",
+        "width": "350px"
+      }
+    ],
+    "own": [
+      {
+        "background": "rgb(7, 78, 188)",
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "16px",
+        "height": "49.9844px",
+        "image": "none",
+        "lineHeight": "22.4px",
+        "width": "350px"
+      }
+    ]
+  },
+  "mobileAnton": {
+    "width": 390,
+    "source": [
+      {
+        "fontSize": "16px",
+        "height": "49.9844px",
+        "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "lineHeight": "22.4px",
+        "width": "350px"
+      }
+    ],
+    "own": [
+      {
+        "fontSize": "16px",
+        "height": "49.9844px",
+        "image": "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)",
+        "lineHeight": "22.4px",
+        "width": "350px"
+      }
+    ]
+  },
+  "resets": [
+    {
+      "flow": "Nikolay → Escape → gift",
+      "gradient": [
+        "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)"
+      ],
+      "text": "×\nОСТАВЬТЕ ВАШИ КОНТАКТЫ\n\nУкажите все пожелания - мы с Вами свяжемся!\n\nВаше имя и фамилия\nEmail\nТелефон\nКакое направление для Вас наиболее интересно\nВокал\nФортепиано\nГитара\nПока не определился\nВаш вариант\nУкажите какое количество занятий рассматриваете?\n4 занятия\n8 занятий\n12 занятий\nПока не определился\nЯ даю своё Согласие на получение рекламной и ",
+      "age": 0
+    },
+    {
+      "flow": "gift → Escape → intake",
+      "gradient": [
+        "linear-gradient(90deg, rgb(39, 176, 246) 0%, rgb(207, 40, 245) 100%)"
+      ],
+      "age": 1,
+      "choices": 4
+    }
+  ],
+  "limitations": [
+    "Source Artem CTA not verified; source Maria Deeva target missing. Existing working fallbacks retained.",
+    "At 390px comparison harness close icon was outside visible iframe area; sequential tests repeated using Escape. Earlier gift/intake reads were stale Nikolay dialog and are excluded.",
+    "No physical Safari/iPhone test; no claim of full pixel identity."
+  ]
+}

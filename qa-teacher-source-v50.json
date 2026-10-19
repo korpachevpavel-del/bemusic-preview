@@ -1,0 +1,137 @@
+{
+  "source": "BEMUSIC_SITE_SNAPSHOT_2026-10-12.zip/bemusic-odi.ru/kids",
+  "mapped_profiles": [
+    {
+      "index": 0,
+      "bio": "#popup:teacher3",
+      "order": "#popup:order8",
+      "verified_link": true,
+      "close_color": "#074ebc",
+      "submit_css": "#rec1198996731 .t-btnflex.t-btnflex_type_submit {color:#ffffff;background-color:#074ebc;border-style:none !important;border-radius:30px;box-shadow:none !important;font-family:mix;font-weight:400;text-transform:uppercase;transition-duration:0.2s;transition-property:background-color,color,border-color,box-shadow,opacity,transform;transition-timing-function:ease-in-out;}",
+      "has_gradient": false,
+      "input_names": [
+        "Name",
+        "Email",
+        "Phone",
+        "Checkbox",
+        "Checkbox_2"
+      ]
+    },
+    {
+      "index": 1,
+      "bio": "#popup:teacher1",
+      "order": "#popup:order9",
+      "verified_link": true,
+      "close_color": "#cf28f5",
+      "submit_css": "#rec1198996736 .t-btnflex.t-btnflex_type_submit {color:#ffffff;background-image:linear-gradient(0.25turn,rgba(39,176,246,1) 0%,rgba(207,40,245,1) 100%);border-style:none !important;border-radius:30px;box-shadow:none !important;font-family:mix;font-weight:400;text-transform:uppercase;transition-duration:0.2s;transition-property:background-color,color,border-color,box-shadow,opacity,transform;transition-timing-function:ease-in-out;position:relative;overflow:hidden;z-index:1;}",
+      "has_gradient": true,
+      "input_names": [
+        "Name",
+        "Email",
+        "Phone",
+        "Checkbox",
+        "Checkbox_2"
+      ]
+    },
+    {
+      "index": 2,
+      "bio": "#popup:teacher8",
+      "order": "#popup:order10",
+      "verified_link": true,
+      "close_color": "#27b0f6",
+      "submit_css": "#rec1198996741 .t-btnflex.t-btnflex_type_submit {color:#ffffff;background-image:linear-gradient(0.25turn,rgba(39,176,246,1) 0%,rgba(207,40,245,1) 100%);border-style:none !important;border-radius:30px;box-shadow:none !important;font-family:mix;font-weight:400;text-transform:uppercase;transition-duration:0.2s;transition-property:background-color,color,border-color,box-shadow,opacity,transform;transition-timing-function:ease-in-out;position:relative;overflow:hidden;z-index:1;}",
+      "has_gradient": true,
+      "input_names": [
+        "Name",
+        "Email",
+        "Phone",
+        "Checkbox",
+        "Checkbox_2"
+      ]
+    },
+    {
+      "index": 3,
+      "bio": "#popup:teacher2",
+      "order": "#popup:order11",
+      "verified_link": true,
+      "close_color": "#27b0f6",
+      "submit_css": "#rec1198996746 .t-btnflex.t-btnflex_type_submit {color:#ffffff;background-image:linear-gradient(0.25turn,rgba(39,176,246,1) 0%,rgba(207,40,245,1) 100%);border-style:none !important;border-radius:30px;box-shadow:none !important;font-family:mix;font-weight:400;text-transform:uppercase;transition-duration:0.2s;transition-property:background-color,color,border-color,box-shadow,opacity,transform;transition-timing-function:ease-in-out;position:relative;overflow:hidden;z-index:1;}",
+      "has_gradient": true,
+      "input_names": [
+        "Name",
+        "Email",
+        "Phone",
+        "Checkbox",
+        "Checkbox_2"
+      ]
+    },
+    {
+      "index": 4,
+      "bio": "#popup:teacher5",
+      "order": "#popup:order12",
+      "verified_link": true,
+      "close_color": "#27b0f6",
+      "submit_css": "#rec1198996751 .t-btnflex.t-btnflex_type_submit {color:#ffffff;background-image:linear-gradient(0.25turn,rgba(39,176,246,1) 0%,rgba(207,40,245,1) 100%);border-style:none !important;border-radius:30px;box-shadow:none !important;font-family:mix;font-weight:400;text-transform:uppercase;transition-duration:0.2s;transition-property:background-color,color,border-color,box-shadow,opacity,transform;transition-timing-function:ease-in-out;position:relative;overflow:hidden;z-index:1;}",
+      "has_gradient": true,
+      "input_names": [
+        "Name",
+        "Email",
+        "Phone",
+        "Checkbox",
+        "Checkbox_2"
+      ]
+    },
+    {
+      "index": 6,
+      "bio": "#popup:teacher6",
+      "order": "#popup:order14",
+      "verified_link": true,
+      "close_color": "#27b0f6",
+      "submit_css": "#rec1198996761 .t-btnflex.t-btnflex_type_submit {color:#ffffff;background-image:linear-gradient(0.25turn,rgba(39,176,246,1) 0%,rgba(207,40,245,1) 100%);border-style:none !important;border-radius:30px;box-shadow:none !important;font-family:mix;font-weight:400;text-transform:uppercase;transition-duration:0.2s;transition-property:background-color,color,border-color,box-shadow,opacity,transform;transition-timing-function:ease-in-out;position:relative;overflow:hidden;z-index:1;}",
+      "has_gradient": true,
+      "input_names": [
+        "Name",
+        "Email",
+        "Phone",
+        "Checkbox",
+        "Checkbox_2"
+      ]
+    },
+    {
+      "index": 7,
+      "bio": "#popup:teacher7",
+      "order": "#popup:order15",
+      "verified_link": true,
+      "close_color": "#cf28f5",
+      "submit_css": "#rec1198996766 .t-btnflex.t-btnflex_type_submit {color:#ffffff;background-image:linear-gradient(0.25turn,rgba(39,176,246,1) 0%,rgba(207,40,245,1) 100%);border-style:none !important;border-radius:30px;box-shadow:none !important;font-family:mix;font-weight:400;text-transform:uppercase;transition-duration:0.2s;transition-property:background-color,color,border-color,box-shadow,opacity,transform;transition-timing-function:ease-in-out;position:relative;overflow:hidden;z-index:1;}",
+      "has_gradient": true,
+      "input_names": [
+        "Name",
+        "Email",
+        "Phone",
+        "Checkbox",
+        "Checkbox_2"
+      ]
+    },
+    {
+      "index": 9,
+      "bio": "#popup:teacher10",
+      "order": "#popup:order17",
+      "verified_link": true,
+      "close_color": "#cf28f5",
+      "submit_css": "#rec1198996776 .t-btnflex.t-btnflex_type_submit {color:#ffffff;background-image:linear-gradient(0.25turn,rgba(39,176,246,1) 0%,rgba(207,40,245,1) 100%);border-style:none !important;border-radius:30px;box-shadow:none !important;font-family:mix;font-weight:400;text-transform:uppercase;transition-duration:0.2s;transition-property:background-color,color,border-color,box-shadow,opacity,transform;transition-timing-function:ease-in-out;position:relative;overflow:hidden;z-index:1;}",
+      "has_gradient": true,
+      "input_names": [
+        "Name",
+        "Email",
+        "Phone",
+        "Checkbox",
+        "Checkbox_2"
+      ]
+    }
+  ],
+  "fallbacks": {
+    "5": "No verified source biography CTA",
+    "8": "Source target #popup:order missing; accepted working fallback retained"
+  }
+}
