@@ -1,0 +1,58 @@
+{
+  "html": [
+    {
+      "file": "email.html",
+      "missing": [],
+      "duplicateIds": []
+    },
+    {
+      "file": "BEMUSIC_STANDALONE.html",
+      "missing": [],
+      "duplicateIds": []
+    },
+    {
+      "file": "privacy.html",
+      "missing": [],
+      "duplicateIds": []
+    },
+    {
+      "file": "index.html",
+      "missing": [],
+      "duplicateIds": []
+    },
+    {
+      "file": "igra-na-gitare-v-odincovo.html",
+      "missing": [],
+      "duplicateIds": []
+    },
+    {
+      "file": "VOCAL_STANDALONE.html",
+      "missing": [],
+      "duplicateIds": []
+    },
+    {
+      "file": "igra-na-fortepiano-v-odincovo.html",
+      "missing": [],
+      "duplicateIds": []
+    },
+    {
+      "file": "kids.html",
+      "missing": [],
+      "duplicateIds": []
+    },
+    {
+      "file": "vokal-v-odincovo.html",
+      "missing": [],
+      "duplicateIds": []
+    },
+    {
+      "file": "programma-loyalnosti-be-music.html",
+      "missing": [],
+      "duplicateIds": []
+    }
+  ],
+  "manifestHashes": 161,
+  "zipEntries": 162,
+  "archiveBytes": 23948033,
+  "archiveSha256": "03a056e10fcbce7db0bb58e46e4d3c1ace78d0fd62a9dcfac722fbe6a0238843"
+}
