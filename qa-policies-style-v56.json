@@ -1,0 +1,130 @@
+[
+  {
+    "page": "privacy",
+    "width": 320,
+    "sourceCount": 32,
+    "previewCount": 32,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "privacy",
+    "width": 390,
+    "sourceCount": 32,
+    "previewCount": 32,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "privacy",
+    "width": 480,
+    "sourceCount": 32,
+    "previewCount": 32,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "privacy",
+    "width": 640,
+    "sourceCount": 32,
+    "previewCount": 32,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "privacy",
+    "width": 768,
+    "sourceCount": 32,
+    "previewCount": 32,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "privacy",
+    "width": 960,
+    "sourceCount": 32,
+    "previewCount": 32,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "privacy",
+    "width": 1024,
+    "sourceCount": 32,
+    "previewCount": 32,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "privacy",
+    "width": 1280,
+    "sourceCount": 32,
+    "previewCount": 32,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "email",
+    "width": 320,
+    "sourceCount": 6,
+    "previewCount": 6,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "email",
+    "width": 390,
+    "sourceCount": 6,
+    "previewCount": 6,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "email",
+    "width": 480,
+    "sourceCount": 6,
+    "previewCount": 6,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "email",
+    "width": 640,
+    "sourceCount": 6,
+    "previewCount": 6,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "email",
+    "width": 768,
+    "sourceCount": 6,
+    "previewCount": 6,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "email",
+    "width": 960,
+    "sourceCount": 6,
+    "previewCount": 6,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "email",
+    "width": 1024,
+    "sourceCount": 6,
+    "previewCount": 6,
+    "textEqual": true,
+    "diffs": []
+  },
+  {
+    "page": "email",
+    "width": 1280,
+    "sourceCount": 6,
+    "previewCount": 6,
+    "textEqual": true,
+    "diffs": []
+  }
+]

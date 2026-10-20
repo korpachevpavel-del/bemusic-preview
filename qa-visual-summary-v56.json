@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-20",
+  "typographyCases": 40,
+  "typographyFindings": 0,
+  "paintCases": 40,
+  "footerCases": 64,
+  "policyCases": 16,
+  "confirmedFixes": [
+    "gallery mask radius 20 -> 25px",
+    "17 VK placeholder backgrounds transparent -> black",
+    "footer description weight 400 -> 300",
+    "footer links on six inner pages blue -> white",
+    "original inline telephone link restored"
+  ],
+  "limits": [
+    "Cloud Chrome only",
+    "first text run per positioned element",
+    "no certification of all nested spans or animation frames",
+    "forms disabled",
+    "external playback not exhaustively verified"
+  ],
+  "footerAfterCases": 64,
+  "footerAfterFindings": 0,
+  "footerHeightDifferencesOver1px": 0,
+  "galleryAndStandaloneAfterCases": 24,
+  "galleryAndStandaloneAfterFindings": 0,
+  "archiveSha256": "03a056e10fcbce7db0bb58e46e4d3c1ace78d0fd62a9dcfac722fbe6a0238843",
+  "finalSourceCommit": "cdba6fd8b79a4eb9e2dbdf03526827b5bdee6e6d",
+  "pagesRun": {
+    "number": 176,
+    "status": "Success",
+    "duration": "2m47s",
+    "url": "https://github.com/korpachevpavel-del/bemusic-preview/actions/runs/39472187780"
+  }
+}
