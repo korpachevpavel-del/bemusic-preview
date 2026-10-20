@@ -145,7 +145,7 @@ etree.SubElement(head,'link',rel='stylesheet',href='./direction-faq-v53.css?v=53
 etree.SubElement(head,'link',rel='stylesheet',href='./direction-trial-v54.css?v=54-2')
 etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v55.css?v=55-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v56.css?v=56-3')
-etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v57.css?v=57-1')
+etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v57.css?v=57-2')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
 (ROOT/'igra-na-fortepiano-v-odincovo.html').write_text(result)
 print(json.dumps({'assets':len(set(assets.values())),'zero_scenes':len(zero),'zero_elements':sum(len(r.xpath('.//*[@data-elem-id]')) for r in zero),'missing':sorted(missing),'html_bytes':len(result.encode())},ensure_ascii=False))
