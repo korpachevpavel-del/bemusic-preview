@@ -1,0 +1,3162 @@
+[
+  {
+    "page": "home",
+    "case": "mobile menu",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      },
+      {
+        "href": "#teacher",
+        "text": "НАСТАВНИКИ"
+      },
+      {
+        "href": "#otzyvy",
+        "text": "ОТЗЫВЫ"
+      },
+      {
+        "href": "#director",
+        "text": "О РУКОВОДИТЕЛЕ СТУДИИ"
+      },
+      {
+        "href": "#sertifikat",
+        "text": "ПОДАРОЧНЫЙ СЕРТИФИКАТ"
+      },
+      {
+        "href": "./programma-loyalnosti-be-music.html",
+        "text": "ПРОГРАММА ЛОЯЛЬНОСТИ"
+      },
+      {
+        "href": "#contacts",
+        "text": "КОНТАКТЫ"
+      },
+      {
+        "href": "#blog",
+        "text": "СОБЫТИЯ В BE MUSIC"
+      },
+      {
+        "href": "https://www.instagram.com/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://vk.ru/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://t.me/bemusic_odi",
+        "text": ""
+      }
+    ],
+    "open": false,
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 0",
+    "expected": "Николай Мультюков",
+    "bio": 731,
+    "label": "НИКОЛАЙ МУЛЬТЮКОВ",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 1",
+    "expected": "АНТОНОРЛОВ",
+    "bio": 277,
+    "label": "АНТОН ОРЛОВ",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 2",
+    "expected": "Катерина Илич",
+    "bio": 591,
+    "label": "КАТЕРИНА ИЛИЧ",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 3",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 3",
+    "expected": "Светлана Бадалян",
+    "bio": 778,
+    "label": "СВЕТЛАНА БАДАЛЯН",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 4",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 4",
+    "expected": "Мария Епифанова",
+    "bio": 730,
+    "label": "МАРИЯ ЕПИФАНОВА",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 5",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 5",
+    "expected": "Артём Акчурин",
+    "bio": 264,
+    "label": "АРТЁМ АКЧУРИН",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 6",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 6",
+    "expected": "Дарья Дубовицкая",
+    "bio": 385,
+    "label": "ДАРЬЯ ДУБОВИЦКАЯ",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 7",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 7",
+    "expected": "Анна Майкоглуян",
+    "bio": 515,
+    "label": "АННА МАЙКОГЛУЯН",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 8",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 8",
+    "expected": "МАРИЯДЕЕВА",
+    "bio": 594,
+    "label": "МАРИЯ ДЕЕВА",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher form 9",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "home",
+    "case": "teacher 9",
+    "expected": "Елена Боченкова",
+    "bio": 997,
+    "label": "ЕЛЕНА БОЧЕНКОВА",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "mobile menu",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      },
+      {
+        "href": "./index.html#teacher",
+        "text": "НАСТАВНИКИ"
+      },
+      {
+        "href": "./index.html#otzyvy",
+        "text": "ОТЗЫВЫ"
+      },
+      {
+        "href": "./index.html#director",
+        "text": "О РУКОВОДИТЕЛЕ СТУДИИ"
+      },
+      {
+        "href": "./index.html#sertifikat",
+        "text": "ПОДАРОЧНЫЙ СЕРТИФИКАТ"
+      },
+      {
+        "href": "./programma-loyalnosti-be-music.html",
+        "text": "ПРОГРАММА ЛОЯЛЬНОСТИ"
+      },
+      {
+        "href": "#contacts",
+        "text": "КОНТАКТЫ"
+      },
+      {
+        "href": "./index.html#blog",
+        "text": "СОБЫТИЯ В BE MUSIC"
+      },
+      {
+        "href": "https://www.instagram.com/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://vk.ru/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://t.me/bemusic_odi",
+        "text": ""
+      }
+    ],
+    "open": false,
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 0",
+    "expected": "Николай Мультюков",
+    "bio": 731,
+    "label": "НИКОЛАЙ МУЛЬТЮКОВ",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 1",
+    "expected": "АНТОНОРЛОВ",
+    "bio": 277,
+    "label": "АНТОН ОРЛОВ",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 2",
+    "expected": "Катерина Илич",
+    "bio": 591,
+    "label": "КАТЕРИНА ИЛИЧ",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 3",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 3",
+    "expected": "Светлана Бадалян",
+    "bio": 778,
+    "label": "СВЕТЛАНА БАДАЛЯН",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 4",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 4",
+    "expected": "Мария Епифанова",
+    "bio": 730,
+    "label": "МАРИЯ ЕПИФАНОВА",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 5",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 5",
+    "expected": "Артём Акчурин",
+    "bio": 264,
+    "label": "АРТЁМ АКЧУРИН",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 6",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 6",
+    "expected": "Дарья Дубовицкая",
+    "bio": 385,
+    "label": "ДАРЬЯ ДУБОВИЦКАЯ",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 7",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 7",
+    "expected": "Анна Майкоглуян",
+    "bio": 515,
+    "label": "АННА МАЙКОГЛУЯН",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 8",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 8",
+    "expected": "МАРИЯДЕЕВА",
+    "bio": 594,
+    "label": "МАРИЯ ДЕЕВА",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 9",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "vocal",
+    "case": "teacher 9",
+    "expected": "Елена Боченкова",
+    "bio": 997,
+    "label": "ЕЛЕНА БОЧЕНКОВА",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "mobile menu",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      },
+      {
+        "href": "./index.html#teacher",
+        "text": "НАСТАВНИКИ"
+      },
+      {
+        "href": "./index.html#otzyvy",
+        "text": "ОТЗЫВЫ"
+      },
+      {
+        "href": "./index.html#director",
+        "text": "О РУКОВОДИТЕЛЕ СТУДИИ"
+      },
+      {
+        "href": "./index.html#sertifikat",
+        "text": "ПОДАРОЧНЫЙ СЕРТИФИКАТ"
+      },
+      {
+        "href": "./programma-loyalnosti-be-music.html",
+        "text": "ПРОГРАММА ЛОЯЛЬНОСТИ"
+      },
+      {
+        "href": "#contacts",
+        "text": "КОНТАКТЫ"
+      },
+      {
+        "href": "./index.html#blog",
+        "text": "СОБЫТИЯ В BE MUSIC"
+      },
+      {
+        "href": "https://www.instagram.com/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://vk.ru/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://t.me/bemusic_odi",
+        "text": ""
+      }
+    ],
+    "open": false,
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 0",
+    "expected": "Николай Мультюков",
+    "bio": 731,
+    "label": "НИКОЛАЙ МУЛЬТЮКОВ",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 1",
+    "expected": "АНТОНОРЛОВ",
+    "bio": 277,
+    "label": "АНТОН ОРЛОВ",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 2",
+    "expected": "Катерина Илич",
+    "bio": 591,
+    "label": "КАТЕРИНА ИЛИЧ",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 3",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 3",
+    "expected": "Светлана Бадалян",
+    "bio": 778,
+    "label": "СВЕТЛАНА БАДАЛЯН",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 4",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 4",
+    "expected": "Мария Епифанова",
+    "bio": 730,
+    "label": "МАРИЯ ЕПИФАНОВА",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 5",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 5",
+    "expected": "Артём Акчурин",
+    "bio": 264,
+    "label": "АРТЁМ АКЧУРИН",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 6",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 6",
+    "expected": "Дарья Дубовицкая",
+    "bio": 385,
+    "label": "ДАРЬЯ ДУБОВИЦКАЯ",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 7",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 7",
+    "expected": "Анна Майкоглуян",
+    "bio": 515,
+    "label": "АННА МАЙКОГЛУЯН",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 8",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 8",
+    "expected": "МАРИЯДЕЕВА",
+    "bio": 594,
+    "label": "МАРИЯ ДЕЕВА",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "teacher form 9",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "guitar",
+    "case": "teacher 9",
+    "expected": "Елена Боченкова",
+    "bio": 997,
+    "label": "ЕЛЕНА БОЧЕНКОВА",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "mobile menu",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      },
+      {
+        "href": "./index.html#teacher",
+        "text": "НАСТАВНИКИ"
+      },
+      {
+        "href": "./index.html#otzyvy",
+        "text": "ОТЗЫВЫ"
+      },
+      {
+        "href": "./index.html#director",
+        "text": "О РУКОВОДИТЕЛЕ СТУДИИ"
+      },
+      {
+        "href": "./index.html#sertifikat",
+        "text": "ПОДАРОЧНЫЙ СЕРТИФИКАТ"
+      },
+      {
+        "href": "./programma-loyalnosti-be-music.html",
+        "text": "ПРОГРАММА ЛОЯЛЬНОСТИ"
+      },
+      {
+        "href": "#contacts",
+        "text": "КОНТАКТЫ"
+      },
+      {
+        "href": "./index.html#blog",
+        "text": "СОБЫТИЯ В BE MUSIC"
+      },
+      {
+        "href": "https://www.instagram.com/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://vk.ru/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://t.me/bemusic_odi",
+        "text": ""
+      }
+    ],
+    "open": false,
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 0",
+    "expected": "Николай Мультюков",
+    "bio": 731,
+    "label": "НИКОЛАЙ МУЛЬТЮКОВ",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 1",
+    "expected": "АНТОНОРЛОВ",
+    "bio": 277,
+    "label": "АНТОН ОРЛОВ",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 2",
+    "expected": "Катерина Илич",
+    "bio": 591,
+    "label": "КАТЕРИНА ИЛИЧ",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 3",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 3",
+    "expected": "Светлана Бадалян",
+    "bio": 778,
+    "label": "СВЕТЛАНА БАДАЛЯН",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 4",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 4",
+    "expected": "Мария Епифанова",
+    "bio": 730,
+    "label": "МАРИЯ ЕПИФАНОВА",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 5",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 5",
+    "expected": "Артём Акчурин",
+    "bio": 264,
+    "label": "АРТЁМ АКЧУРИН",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 6",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 6",
+    "expected": "Дарья Дубовицкая",
+    "bio": 385,
+    "label": "ДАРЬЯ ДУБОВИЦКАЯ",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 7",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 7",
+    "expected": "Анна Майкоглуян",
+    "bio": 515,
+    "label": "АННА МАЙКОГЛУЯН",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 8",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 8",
+    "expected": "МАРИЯДЕЕВА",
+    "bio": 594,
+    "label": "МАРИЯ ДЕЕВА",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "teacher form 9",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "piano",
+    "case": "teacher 9",
+    "expected": "Елена Боченкова",
+    "bio": 997,
+    "label": "ЕЛЕНА БОЧЕНКОВА",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "mobile menu",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      },
+      {
+        "href": "./index.html#teacher",
+        "text": "НАСТАВНИКИ"
+      },
+      {
+        "href": "./index.html#otzyvy",
+        "text": "ОТЗЫВЫ"
+      },
+      {
+        "href": "./index.html#director",
+        "text": "О РУКОВОДИТЕЛЕ СТУДИИ"
+      },
+      {
+        "href": "./index.html#sertifikat",
+        "text": "ПОДАРОЧНЫЙ СЕРТИФИКАТ"
+      },
+      {
+        "href": "./programma-loyalnosti-be-music.html",
+        "text": "ПРОГРАММА ЛОЯЛЬНОСТИ"
+      },
+      {
+        "href": "#contacts",
+        "text": "КОНТАКТЫ"
+      },
+      {
+        "href": "./index.html#blog",
+        "text": "СОБЫТИЯ В BE MUSIC"
+      },
+      {
+        "href": "https://www.instagram.com/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://vk.ru/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://t.me/bemusic_odi",
+        "text": ""
+      }
+    ],
+    "open": false,
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 0",
+    "expected": "Николай Мультюков",
+    "bio": 731,
+    "label": "НИКОЛАЙ МУЛЬТЮКОВ",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 1",
+    "expected": "АНТОНОРЛОВ",
+    "bio": 277,
+    "label": "АНТОН ОРЛОВ",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 2",
+    "expected": "Катерина Илич",
+    "bio": 591,
+    "label": "КАТЕРИНА ИЛИЧ",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 3",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 3",
+    "expected": "Светлана Бадалян",
+    "bio": 778,
+    "label": "СВЕТЛАНА БАДАЛЯН",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 4",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 4",
+    "expected": "Мария Епифанова",
+    "bio": 730,
+    "label": "МАРИЯ ЕПИФАНОВА",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 5",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 5",
+    "expected": "Артём Акчурин",
+    "bio": 264,
+    "label": "АРТЁМ АКЧУРИН",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 6",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 6",
+    "expected": "Дарья Дубовицкая",
+    "bio": 385,
+    "label": "ДАРЬЯ ДУБОВИЦКАЯ",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 7",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 7",
+    "expected": "Анна Майкоглуян",
+    "bio": 515,
+    "label": "АННА МАЙКОГЛУЯН",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 8",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 8",
+    "expected": "МАРИЯДЕЕВА",
+    "bio": 594,
+    "label": "МАРИЯ ДЕЕВА",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "teacher form 9",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "kids",
+    "case": "teacher 9",
+    "expected": "Елена Боченкова",
+    "bio": 997,
+    "label": "ЕЛЕНА БОЧЕНКОВА",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "teacher form 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1
+  },
+  {
+    "page": "loyalty",
+    "case": "mobile menu",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      },
+      {
+        "href": "./index.html#teacher",
+        "text": "НАСТАВНИКИ"
+      },
+      {
+        "href": "./index.html#otzyvy",
+        "text": "ОТЗЫВЫ"
+      },
+      {
+        "href": "./index.html#director",
+        "text": "О РУКОВОДИТЕЛЕ СТУДИИ"
+      },
+      {
+        "href": "./index.html#sertifikat",
+        "text": "ПОДАРОЧНЫЙ СЕРТИФИКАТ"
+      },
+      {
+        "href": "./programma-loyalnosti-be-music.html",
+        "text": "ПРОГРАММА ЛОЯЛЬНОСТИ"
+      },
+      {
+        "href": "./index.html#contacts",
+        "text": "КОНТАКТЫ"
+      },
+      {
+        "href": "./index.html#blog",
+        "text": "СОБЫТИЯ В BE MUSIC"
+      },
+      {
+        "href": "https://www.instagram.com/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://vk.ru/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://t.me/bemusic_odi",
+        "text": ""
+      }
+    ],
+    "open": false,
+    "closed": true
+  },
+  {
+    "page": "privacy",
+    "case": "mobile menu",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      },
+      {
+        "href": "./index.html#teacher",
+        "text": "НАСТАВНИКИ"
+      },
+      {
+        "href": "./index.html#otzyvy",
+        "text": "ОТЗЫВЫ"
+      },
+      {
+        "href": "./index.html#director",
+        "text": "О РУКОВОДИТЕЛЕ СТУДИИ"
+      },
+      {
+        "href": "./index.html#sertifikat",
+        "text": "ПОДАРОЧНЫЙ СЕРТИФИКАТ"
+      },
+      {
+        "href": "./programma-loyalnosti-be-music.html",
+        "text": "ПРОГРАММА ЛОЯЛЬНОСТИ"
+      },
+      {
+        "href": "./index.html#contacts",
+        "text": "КОНТАКТЫ"
+      },
+      {
+        "href": "./index.html#blog",
+        "text": "СОБЫТИЯ В BE MUSIC"
+      },
+      {
+        "href": "https://www.instagram.com/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://vk.ru/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://t.me/bemusic_odi",
+        "text": ""
+      }
+    ],
+    "open": false,
+    "closed": true
+  },
+  {
+    "page": "email",
+    "case": "mobile menu",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      },
+      {
+        "href": "./index.html#teacher",
+        "text": "НАСТАВНИКИ"
+      },
+      {
+        "href": "./index.html#otzyvy",
+        "text": "ОТЗЫВЫ"
+      },
+      {
+        "href": "./index.html#director",
+        "text": "О РУКОВОДИТЕЛЕ СТУДИИ"
+      },
+      {
+        "href": "./index.html#sertifikat",
+        "text": "ПОДАРОЧНЫЙ СЕРТИФИКАТ"
+      },
+      {
+        "href": "./programma-loyalnosti-be-music.html",
+        "text": "ПРОГРАММА ЛОЯЛЬНОСТИ"
+      },
+      {
+        "href": "./index.html#contacts",
+        "text": "КОНТАКТЫ"
+      },
+      {
+        "href": "./index.html#blog",
+        "text": "СОБЫТИЯ В BE MUSIC"
+      },
+      {
+        "href": "https://www.instagram.com/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://vk.ru/bemusic_odi",
+        "text": ""
+      },
+      {
+        "href": "https://t.me/bemusic_odi",
+        "text": ""
+      }
+    ],
+    "open": false,
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 390/0",
+    "source": {
+      "scrollHeight": 187,
+      "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учеников есть те, кто никогда не пел и только мечтал, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 187,
+      "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учеников есть те, кто никогда не пел и только мечтал, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 390/1",
+    "source": {
+      "scrollHeight": 396,
+      "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от Вашего желания, целей и возможности по времени.Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагаем пройти бесплатное пробное занятие. На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, сможете оценить свои музыкальные/вокальные данные и другие моменты. Заполните заявку и запишитесь на пробное занятие прямо сейчас!",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 396,
+      "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от Вашего желания, целей и возможности по времени.Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагаем пройти бесплатное пробное занятие. На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, сможете оценить свои музыкальные/вокальные данные и другие моменты. Заполните заявку и запишитесь на пробное занятие прямо сейчас!",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 390/2",
+    "source": {
+      "scrollHeight": 350,
+      "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных, уровня подготовки, регулярности занятий и желания уделять этому время.Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные концерты, отчётные концерты и мастер-классы (участие в них по желанию). В целом всё это помогает отработать важные для музыканта/артиста навыки, повысить уверенность в себе. Вдохновляет и мотивирует.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 350,
+      "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных, уровня подготовки, регулярности занятий и желания уделять этому время.Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные концерты, отчётные концерты и мастер-классы (участие в них по желанию). В целом всё это помогает отработать важные для музыканта/артиста навыки, повысить уверенность в себе. Вдохновляет и мотивирует.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 390/3",
+    "source": {
+      "scrollHeight": 800,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: 30 минут.Пробное занятие проходит следующим образом:Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить. При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%. Оставьте заявку на пробное занятие,и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 800,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: 30 минут.Пробное занятие проходит следующим образом:Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить. При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%. Оставьте заявку на пробное занятие,и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 390/4",
+    "source": {
+      "scrollHeight": 313,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий: 4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 313,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий: 4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 390/5",
+    "source": {
+      "scrollHeight": 257,
+      "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного времени и графика педагога, которого Вы выбрали. Наша студия открыта с 10-00 до 20-00 с понедельника по воскресенье каждый день.Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 257,
+      "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного времени и графика педагога, которого Вы выбрали. Наша студия открыта с 10-00 до 20-00 с понедельника по воскресенье каждый день.Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 390/6",
+    "source": {
+      "scrollHeight": 615,
+      "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут остановиться. В нашей студии активная творческая жизнь для каждого ученика всех направлений.BE MUSIC организует:учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разными уровнями подготовки;регулярные концерты классов отдельных педагогов;грандиозные отчётные концерты два раза в год;мастер-классы по сценическим движениям, речи, актёрскому мастерству.Всё это не только по вокалу, но и по инструментальному направлению.Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это больше, чем просто посещение музыкальных занятий.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 615,
+      "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут остановиться. В нашей студии активная творческая жизнь для каждого ученика всех направлений.BE MUSIC организует:учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разными уровнями подготовки;регулярные концерты классов отдельных педагогов;грандиозные отчётные концерты два раза в год;мастер-классы по сценическим движениям, речи, актёрскому мастерству.Всё это не только по вокалу, но и по инструментальному направлению.Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это больше, чем просто посещение музыкальных занятий.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 390/7",
+    "source": {
+      "scrollHeight": 360,
+      "text": "Да, за Вами сохранится занятие, если Вы:Успели отменить занятие за сутки.Заболели и предоставляете справку от врача (можно предоставить фотографию справки).Попали в форс-мажорные обстоятельства и можете документально это подтвердить.В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш педагог очень ждал Вас именно в этот день и это время и, возможно, ему пришлось отказать другому желающему прийти на занятие.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 360,
+      "text": "Да, за Вами сохранится занятие, если Вы:Успели отменить занятие за сутки.Заболели и предоставляете справку от врача (можно предоставить фотографию справки).Попали в форс-мажорные обстоятельства и можете документально это подтвердить.В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш педагог очень ждал Вас именно в этот день и это время и, возможно, ему пришлось отказать другому желающему прийти на занятие.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "guitar",
+    "case": "FAQ 390/0",
+    "source": {
+      "scrollHeight": 442,
+      "text": "Собственная гитара, конечно, желательна для эффективных тренировок дома. На первых занятиях Вы можете заниматься на наших инструментах. Если у Вас уже есть гитара, берите её с собой — педагог поможет Вам ее настроить и научит делать это самостоятельно.А если Вы ещё не приобрели инструмент, не волнуйтесь! Наш преподаватель подскажет, какую гитару выбрать именно для Вас, учитывая ваши цели и бюджет. Без собственной гитары сложно полноценно отрабатывать упражнения и репетировать дома, поэтому со временем её покупка станет необходимой для вашего прогресса.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 442,
+      "text": "Собственная гитара, конечно, желательна для эффективных тренировок дома. На первых занятиях Вы можете заниматься на наших инструментах. Если у Вас уже есть гитара, берите её с собой — педагог поможет Вам ее настроить и научит делать это самостоятельно.А если Вы ещё не приобрели инструмент, не волнуйтесь! Наш преподаватель подскажет, какую гитару выбрать именно для Вас, учитывая ваши цели и бюджет. Без собственной гитары сложно полноценно отрабатывать упражнения и репетировать дома, поэтому со временем её покупка станет необходимой для вашего прогресса.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "guitar",
+    "case": "FAQ 390/1",
+    "source": {
+      "scrollHeight": 396,
+      "text": "Наши двери открыты для всех, кто хочет научиться играть на гитаре и получать от этого удовольствие! Наши опытные педагоги успешно работают как с детьми, делающими первые шаги в музыке, так и со взрослыми учениками.Мы с удовольствием обучим Вас игре на гитаре с самого нуля, а также поможем совершенствовать навыки музыкантам среднего, продвинутого и опытного уровней. Независимо от Вашего текущего уровня, мы подберём индивидуальную программу обучения, которая позволит Вам с удовольствием осваивать любимые мелодии и песни!",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 396,
+      "text": "Наши двери открыты для всех, кто хочет научиться играть на гитаре и получать от этого удовольствие! Наши опытные педагоги успешно работают как с детьми, делающими первые шаги в музыке, так и со взрослыми учениками.Мы с удовольствием обучим Вас игре на гитаре с самого нуля, а также поможем совершенствовать навыки музыкантам среднего, продвинутого и опытного уровней. Независимо от Вашего текущего уровня, мы подберём индивидуальную программу обучения, которая позволит Вам с удовольствием осваивать любимые мелодии и песни!",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "guitar",
+    "case": "FAQ 390/2",
+    "source": {
+      "scrollHeight": 582,
+      "text": "Скорость Вашего обучения зависит от многих факторов, но мы можем дать вам ориентир! Первым делом, мы работаем над правильной посадкой и постановкой рук — это занимает от 2 недель до 1.5 месяцев, в зависимости от Вашей подготовки и усердия.Затем мы переходим к освоению простейших аккордов и основ музыкальной теории, что обычно занимает 1−1.5 месяца. Уже через 4−6 месяцев Вы сможете достаточно свободно играть простые песни! Но важно помнить: если Вы регулярно выполняете домашние задания и посещаете студию хотя бы раз в неделю, прогресс будет быстрее.Если дома заниматься не получается, рекомендуем посещать студию минимум 2 раза в неделю для достижения видимых результатов. Главное — регулярность и желание!",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 582,
+      "text": "Скорость Вашего обучения зависит от многих факторов, но мы можем дать вам ориентир! Первым делом, мы работаем над правильной посадкой и постановкой рук — это занимает от 2 недель до 1.5 месяцев, в зависимости от Вашей подготовки и усердия.Затем мы переходим к освоению простейших аккордов и основ музыкальной теории, что обычно занимает 1−1.5 месяца. Уже через 4−6 месяцев Вы сможете достаточно свободно играть простые песни! Но важно помнить: если Вы регулярно выполняете домашние задания и посещаете студию хотя бы раз в неделю, прогресс будет быстрее.Если дома заниматься не получается, рекомендуем посещать студию минимум 2 раза в неделю для достижения видимых результатов. Главное — регулярность и желание!",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "guitar",
+    "case": "FAQ 390/3",
+    "source": {
+      "scrollHeight": 280,
+      "text": "Да, это возможно! В нашей студии мы предлагаем занятия «дуэт», которые отлично подходят для родителей с детьми, братьев и сестер или двух друзей, желающих вместе осваивать гитару.Длительность одного занятия в формате «дуэт» составляет 1,5 часа. Это весело, интересно и позволяет поддерживать друг друга в процессе обучения!",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 280,
+      "text": "Да, это возможно! В нашей студии мы предлагаем занятия «дуэт», которые отлично подходят для родителей с детьми, братьев и сестер или двух друзей, желающих вместе осваивать гитару.Длительность одного занятия в формате «дуэт» составляет 1,5 часа. Это весело, интересно и позволяет поддерживать друг друга в процессе обучения!",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 390/0",
+    "source": {
+      "scrollHeight": 187,
+      "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учеников есть те, кто никогда не пел и только мечтал, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 187,
+      "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учеников есть те, кто никогда не пел и только мечтал, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 390/1",
+    "source": {
+      "scrollHeight": 396,
+      "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от Вашего желания, целей и возможности по времени.Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагаем пройти бесплатное пробное занятие. На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, сможете оценить свои музыкальные/вокальные данные и другие моменты. Заполните заявку и запишитесь на пробное занятие прямо сейчас!",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 396,
+      "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от Вашего желания, целей и возможности по времени. Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагаем пройти бесплатное пробное занятие. На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, сможете оценить свои музыкальные/вокальные данные и другие моменты. Заполните заявку и запишитесь на пробное занятие прямо сейчас!",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 390/2",
+    "source": {
+      "scrollHeight": 350,
+      "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных, уровня подготовки, регулярности занятий и желания уделять этому время.Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные концерты, отчётные концерты и мастер-классы (участие в них по желанию). В целом всё это помогает отработать важные для музыканта/артиста навыки, повысить уверенность в себе. Вдохновляет и мотивирует.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 350,
+      "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных, уровня подготовки, регулярности занятий и желания уделять этому время. Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные концерты, отчётные концерты и мастер-классы (участие в них по желанию). В целом всё это помогает отработать важные для музыканта/артиста навыки, повысить уверенность в себе. Вдохновляет и мотивирует.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 390/3",
+    "source": {
+      "scrollHeight": 800,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: 30 минут.Пробное занятие проходит следующим образом:Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить. При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%. Оставьте заявку на пробное занятие,и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 800,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: 30 минут. Пробное занятие проходит следующим образом: Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить. При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%. Оставьте заявку на пробное занятие,и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 390/4",
+    "source": {
+      "scrollHeight": 313,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий: 4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 313,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий: 4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю. Актуальную стоимость абонементов можно узнать у наших администраторов. Позвонить прямо сейчас",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 390/5",
+    "source": {
+      "scrollHeight": 257,
+      "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного времени и графика педагога, которого Вы выбрали. Наша студия открыта с 10-00 до 20-00 с понедельника по воскресенье каждый день.Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 257,
+      "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного времени и графика педагога, которого Вы выбрали. Наша студия открыта с 10-00 до 20-00 с понедельника по воскресенье каждый день. Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 390/6",
+    "source": {
+      "scrollHeight": 615,
+      "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут остановиться. В нашей студии активная творческая жизнь для каждого ученика всех направлений.BE MUSIC организует:учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разными уровнями подготовки;регулярные концерты классов отдельных педагогов;грандиозные отчётные концерты два раза в год;мастер-классы по сценическим движениям, речи, актёрскому мастерству.Всё это не только по вокалу, но и по инструментальному направлению.Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это больше, чем просто посещение музыкальных занятий.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 615,
+      "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут остановиться. В нашей студии активная творческая жизнь для каждого ученика всех направлений. BE MUSIC организует: учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разными уровнями подготовки;регулярные концерты классов отдельных педагогов;грандиозные отчётные концерты два раза в год;мастер-классы по сценическим движениям, речи, актёрскому мастерству.Всё это не только по вокалу, но и по инструментальному направлению. Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это больше, чем просто посещение музыкальных занятий.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 390/7",
+    "source": {
+      "scrollHeight": 360,
+      "text": "Да, за Вами сохранится занятие, если Вы:Успели отменить занятие за сутки.Заболели и предоставляете справку от врача (можно предоставить фотографию справки).Попали в форс-мажорные обстоятельства и можете документально это подтвердить.В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш педагог очень ждал Вас именно в этот день и это время и, возможно, ему пришлось отказать другому желающему прийти на занятие.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 360,
+      "text": "Да, за Вами сохранится занятие, если Вы: Успели отменить занятие за сутки.Заболели и предоставляете справку от врача (можно предоставить фотографию справки).Попали в форс-мажорные обстоятельства и можете документально это подтвердить.В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш педагог очень ждал Вас именно в этот день и это время и, возможно, ему пришлось отказать другому желающему прийти на занятие.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "piano",
+    "case": "FAQ 390/0",
+    "source": {
+      "scrollHeight": 466,
+      "text": "Это индивидуально! Зависит от Ваших целей, опыта, частоты занятий. При регулярных занятиях (2−3 раза в неделю по 60 минут) первые результаты (сыграть простые мелодии) можно увидеть уже через 1−3 месяца. Для уверенной игры потребуется от 6 месяцев до 1 года.Не забывайте о самостоятельной практике дома для закрепления материала и развития мышечной памяти.Главное — получать удовольствие от процесса! Не сравнивайте себя с другими, идите своим темпом и радуйтесь каждому успеху. Помните, что музыка требует времени и терпения, а мы в нашей студии поможем сделать ваш путь к мастерству интересным и эффективным!",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 466,
+      "text": "Это индивидуально! Зависит от Ваших целей, опыта, частоты занятий. При регулярных занятиях (2−3 раза в неделю по 60 минут) первые результаты (сыграть простые мелодии) можно увидеть уже через 1−3 месяца. Для уверенной игры потребуется от 6 месяцев до 1 года.Не забывайте о самостоятельной практике дома для закрепления материала и развития мышечной памяти.Главное — получать удовольствие от процесса! Не сравнивайте себя с другими, идите своим темпом и радуйтесь каждому успеху. Помните, что музыка требует времени и терпения, а мы в нашей студии поможем сделать ваш путь к мастерству интересным и эффективным!",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "piano",
+    "case": "FAQ 390/1",
+    "source": {
+      "scrollHeight": 280,
+      "text": "Для быстрого прогресса в фортепиано важны домашние упражнения, включающие повторение пройденного, технику, разбор нового и немного творчества.Наш педагог по фортепиано поможет подобрать индивидуальный комплекс упражнений, учитывая Ваши особенности и цели, и объяснит, как тренироваться дома.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 280,
+      "text": "Для быстрого прогресса в фортепиано важны домашние упражнения, включающие повторение пройденного, технику, разбор нового и немного творчества.Наш педагог по фортепиано поможет подобрать индивидуальный комплекс упражнений, учитывая Ваши особенности и цели, и объяснит, как тренироваться дома.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "piano",
+    "case": "FAQ 390/2",
+    "source": {
+      "scrollHeight": 303,
+      "text": "Однозначно, инструмент для домашних занятий необходим. С регулярными занятиями дома по 15−30 минут в день Вы сможете быстрее получить прогресс, развить мышечную память и насладиться полноценным обучением.Наши преподаватели с удовольствием расскажут о различных видах фортепиано и помогут подобрать подходящий инструмент для Ваших домашних занятий!",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 303,
+      "text": "Однозначно, инструмент для домашних занятий необходим. С регулярными занятиями дома по 15−30 минут в день Вы сможете быстрее получить прогресс, развить мышечную память и насладиться полноценным обучением.Наши преподаватели с удовольствием расскажут о различных видах фортепиано и помогут подобрать подходящий инструмент для Ваших домашних занятий!",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 390/0",
+    "source": {
+      "scrollHeight": 234,
+      "text": "Занятия по вокалу для детей от 3 до 10 лет проходят в малых группах до 7 человек. Индивидуальные занятия рассчитаны для детей от 9-10 лет.Занятия по гитаре для детей от 6-ти лет могут проходить индивидуально или в паре (“дуэт”).Занятия по фортепиано для детей от 6-ти лет проходят индивидуально.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 234,
+      "text": "Занятия по вокалу для детей от 3 до 10 лет проходят в малых группах до 7 человек. Индивидуальные занятия рассчитаны для детей от 9-10 лет.Занятия по гитаре для детей от 6-ти лет могут проходить индивидуально или в паре (“дуэт”).Занятия по фортепиано для детей от 6-ти лет проходят индивидуально.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 390/1",
+    "source": {
+      "scrollHeight": 128,
+      "text": "Длительность занятий:Занятие по вокалу в группе - 45 мин. Индивидуальное занятие - 55 мин. Занятие “дуэт” - 85 мин.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 128,
+      "text": "Длительность занятий:Занятие по вокалу в группе - 45 мин. Индивидуальное занятие - 55 мин. Занятие “дуэт” - 85 мин.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 390/2",
+    "source": {
+      "scrollHeight": 211,
+      "text": "В нашу студию приходят дети и подростки с разными уровнями подготовки: среди наших учеников есть те, кто никогда не пел и не играл на инструментах и только мечтает об этом, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 211,
+      "text": "В нашу студию приходят дети и подростки с разными уровнями подготовки: среди наших учеников есть те, кто никогда не пел и не играл на инструментах и только мечтает об этом, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 390/3",
+    "source": {
+      "scrollHeight": 164,
+      "text": "Занятия по вокалу в группе для детей проходят 1 или 2 раза в неделю. Индивидуальные занятия проходят 1,2 или 3 раза в неделю в соответствии с выбранным абонементом и Вашими целями.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 164,
+      "text": "Занятия по вокалу в группе для детей проходят 1 или 2 раза в неделю. Индивидуальные занятия проходят 1,2 или 3 раза в неделю в соответствии с выбранным абонементом и Вашими целями.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 390/4",
+    "source": {
+      "scrollHeight": 406,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий:4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят от 1 раза в неделю.Абонемент для детских групповых занятий приобретается на 1 календарный месяц, в нём 4 или 8 занятий.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 406,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий:4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят от 1 раза в неделю.Абонемент для детских групповых занятий приобретается на 1 календарный месяц, в нём 4 или 8 занятий.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 390/5",
+    "source": {
+      "scrollHeight": 744,
+      "text": "Конечно, мы никого не заставляем участвовать в концертах! Для нас самое главное, чтобы каждый ребёнок и подросток приходил на занятия с удовольствием и желанием развиваться.Учебные и отчётные концерты в нашей студии — это, прежде всего, прекрасная практика для начинающего артиста. Многие наши ученики с нетерпением ждут этих дней, ведь подготовка к выступлению становится для них настоящим праздником: выбор образа, отработка движений под песню, совместные репетиции с друзьями — всё это вдохновляет и мотивирует на дальнейшее развитие.Мы уважаем индивидуальный темп каждого ребёнка. Если Вы с ребёнком решите принять участие в наших концертах, это поможет ему в будущем уверенно выступать в детском саду, школе, на различных конкурсах и площадках — без стресса и с радостью. Но если сейчас Вашему ребёнку нужно время для адаптации и обретения уверенности, мы полностью поддерживаем этот выбор и будем ждать его на сцене тогда, когда он сам будет к этому готов.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 744,
+      "text": "Конечно, мы никого не заставляем участвовать в концертах! Для нас самое главное, чтобы каждый ребёнок и подросток приходил на занятия с удовольствием и желанием развиваться.Учебные и отчётные концерты в нашей студии — это, прежде всего, прекрасная практика для начинающего артиста. Многие наши ученики с нетерпением ждут этих дней, ведь подготовка к выступлению становится для них настоящим праздником: выбор образа, отработка движений под песню, совместные репетиции с друзьями — всё это вдохновляет и мотивирует на дальнейшее развитие.Мы уважаем индивидуальный темп каждого ребёнка. Если Вы с ребёнком решите принять участие в наших концертах, это поможет ему в будущем уверенно выступать в детском саду, школе, на различных конкурсах и площадках — без стресса и с радостью. Но если сейчас Вашему ребёнку нужно время для адаптации и обретения уверенности, мы полностью поддерживаем этот выбор и будем ждать его на сцене тогда, когда он сам будет к этому готов.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 390/6",
+    "source": {
+      "scrollHeight": 847,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: для групповых занятий - 45 минут, для индивидуальных - 30 минут.Пробное занятие проходит следующим образом:Вы приходите по предварительной записи, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 /45 минут педагог изучает уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить.При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%.Оставьте заявку на пробное занятие, и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 847,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: для групповых занятий - 45 минут, для индивидуальных - 30 минут.Пробное занятие проходит следующим образом:Вы приходите по предварительной записи, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 /45 минут педагог изучает уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить.При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%.Оставьте заявку на пробное занятие, и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 390/7",
+    "source": {
+      "scrollHeight": 466,
+      "text": "В мире музыки у каждого ребёнка свой особенный путь: всё зависит от его уникальных способностей, текущего уровня подготовки, регулярности занятий и увлечённости музыкой.Для ваших детей мы подготовили не только индивидуальные занятия с опытным педагогом, но и веселые учебные концерты, яркие отчётные концерты и интересные мастер-классы (участие в них по вашему желанию). Все эти мероприятия помогают Вашему ребёнку развивать артистизм, чувствовать себя увереннее на сцене и регулярность занятий Вашего ребёнка станет залогом его удивительных музыкальных достижений!",
+      "visible": true,
+      "width": 335
+    },
+    "preview": {
+      "scrollHeight": 466,
+      "text": "В мире музыки у каждого ребёнка свой особенный путь: всё зависит от его уникальных способностей, текущего уровня подготовки, регулярности занятий и увлечённости музыкой.Для ваших детей мы подготовили не только индивидуальные занятия с опытным педагогом, но и веселые учебные концерты, яркие отчётные концерты и интересные мастер-классы (участие в них по вашему желанию). Все эти мероприятия помогают Вашему ребёнку развивать артистизм, чувствовать себя увереннее на сцене и регулярность занятий Вашего ребёнка станет залогом его удивительных музыкальных достижений!",
+      "visible": true,
+      "width": 335
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 1280/0",
+    "source": {
+      "scrollHeight": 139,
+      "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учеников есть те, кто никогда не пел и только мечтал, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 139,
+      "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учеников есть те, кто никогда не пел и только мечтал, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 1280/1",
+    "source": {
+      "scrollHeight": 288,
+      "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от Вашего желания, целей и возможности по времени.Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагаем пройти бесплатное пробное занятие. На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, сможете оценить свои музыкальные/вокальные данные и другие моменты. Заполните заявку и запишитесь на пробное занятие прямо сейчас!",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 288,
+      "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от Вашего желания, целей и возможности по времени. Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагаем пройти бесплатное пробное занятие. На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, сможете оценить свои музыкальные/вокальные данные и другие моменты. Заполните заявку и запишитесь на пробное занятие прямо сейчас!",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 1280/2",
+    "source": {
+      "scrollHeight": 263,
+      "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных, уровня подготовки, регулярности занятий и желания уделять этому время.Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные концерты, отчётные концерты и мастер-классы (участие в них по желанию). В целом всё это помогает отработать важные для музыканта/артиста навыки, повысить уверенность в себе. Вдохновляет и мотивирует.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 263,
+      "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных, уровня подготовки, регулярности занятий и желания уделять этому время. Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные концерты, отчётные концерты и мастер-классы (участие в них по желанию). В целом всё это помогает отработать важные для музыканта/артиста навыки, повысить уверенность в себе. Вдохновляет и мотивирует.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 1280/3",
+    "source": {
+      "scrollHeight": 596,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: 30 минут.Пробное занятие проходит следующим образом:Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить. При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%. Оставьте заявку на пробное занятие,и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 596,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: 30 минут. Пробное занятие проходит следующим образом: Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить. При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%. Оставьте заявку на пробное занятие,и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 1280/4",
+    "source": {
+      "scrollHeight": 248,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий: 4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 248,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий: 4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю. Актуальную стоимость абонементов можно узнать у наших администраторов. Позвонить прямо сейчас",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 1280/5",
+    "source": {
+      "scrollHeight": 214,
+      "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного времени и графика педагога, которого Вы выбрали. Наша студия открыта с 10-00 до 20-00 с понедельника по воскресенье каждый день.Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 214,
+      "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного времени и графика педагога, которого Вы выбрали. Наша студия открыта с 10-00 до 20-00 с понедельника по воскресенье каждый день. Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 1280/6",
+    "source": {
+      "scrollHeight": 472,
+      "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут остановиться. В нашей студии активная творческая жизнь для каждого ученика всех направлений.BE MUSIC организует:учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разными уровнями подготовки;регулярные концерты классов отдельных педагогов;грандиозные отчётные концерты два раза в год;мастер-классы по сценическим движениям, речи, актёрскому мастерству.Всё это не только по вокалу, но и по инструментальному направлению.Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это больше, чем просто посещение музыкальных занятий.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 472,
+      "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут остановиться. В нашей студии активная творческая жизнь для каждого ученика всех направлений. BE MUSIC организует: учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разными уровнями подготовки;регулярные концерты классов отдельных педагогов;грандиозные отчётные концерты два раза в год;мастер-классы по сценическим движениям, речи, актёрскому мастерству.Всё это не только по вокалу, но и по инструментальному направлению. Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это больше, чем просто посещение музыкальных занятий.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "FAQ 1280/7",
+    "source": {
+      "scrollHeight": 298,
+      "text": "Да, за Вами сохранится занятие, если Вы:Успели отменить занятие за сутки.Заболели и предоставляете справку от врача (можно предоставить фотографию справки).Попали в форс-мажорные обстоятельства и можете документально это подтвердить.В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш педагог очень ждал Вас именно в этот день и это время и, возможно, ему пришлось отказать другому желающему прийти на занятие.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 298,
+      "text": "Да, за Вами сохранится занятие, если Вы: Успели отменить занятие за сутки.Заболели и предоставляете справку от врача (можно предоставить фотографию справки).Попали в форс-мажорные обстоятельства и можете документально это подтвердить.В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш педагог очень ждал Вас именно в этот день и это время и, возможно, ему пришлось отказать другому желающему прийти на занятие.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": false,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 1280/0",
+    "source": {
+      "scrollHeight": 139,
+      "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учеников есть те, кто никогда не пел и только мечтал, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 560.0000610351562
+    },
+    "preview": {
+      "scrollHeight": 139,
+      "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учеников есть те, кто никогда не пел и только мечтал, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 1280/1",
+    "source": {
+      "scrollHeight": 288,
+      "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от Вашего желания, целей и возможности по времени.Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагаем пройти бесплатное пробное занятие. На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, сможете оценить свои музыкальные/вокальные данные и другие моменты. Заполните заявку и запишитесь на пробное занятие прямо сейчас!",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 288,
+      "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от Вашего желания, целей и возможности по времени.Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагаем пройти бесплатное пробное занятие. На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, сможете оценить свои музыкальные/вокальные данные и другие моменты. Заполните заявку и запишитесь на пробное занятие прямо сейчас!",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 1280/2",
+    "source": {
+      "scrollHeight": 263,
+      "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных, уровня подготовки, регулярности занятий и желания уделять этому время.Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные концерты, отчётные концерты и мастер-классы (участие в них по желанию). В целом всё это помогает отработать важные для музыканта/артиста навыки, повысить уверенность в себе. Вдохновляет и мотивирует.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 263,
+      "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных, уровня подготовки, регулярности занятий и желания уделять этому время.Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные концерты, отчётные концерты и мастер-классы (участие в них по желанию). В целом всё это помогает отработать важные для музыканта/артиста навыки, повысить уверенность в себе. Вдохновляет и мотивирует.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 1280/3",
+    "source": {
+      "scrollHeight": 596,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: 30 минут.Пробное занятие проходит следующим образом:Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить. При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%. Оставьте заявку на пробное занятие,и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 596,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: 30 минут.Пробное занятие проходит следующим образом:Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить. При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%. Оставьте заявку на пробное занятие,и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 1280/4",
+    "source": {
+      "scrollHeight": 248,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий: 4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 248,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий: 4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 1280/5",
+    "source": {
+      "scrollHeight": 214,
+      "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного времени и графика педагога, которого Вы выбрали. Наша студия открыта с 10-00 до 20-00 с понедельника по воскресенье каждый день.Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 214,
+      "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного времени и графика педагога, которого Вы выбрали. Наша студия открыта с 10-00 до 20-00 с понедельника по воскресенье каждый день.Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 1280/6",
+    "source": {
+      "scrollHeight": 472,
+      "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут остановиться. В нашей студии активная творческая жизнь для каждого ученика всех направлений.BE MUSIC организует:учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разными уровнями подготовки;регулярные концерты классов отдельных педагогов;грандиозные отчётные концерты два раза в год;мастер-классы по сценическим движениям, речи, актёрскому мастерству.Всё это не только по вокалу, но и по инструментальному направлению.Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это больше, чем просто посещение музыкальных занятий.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 472,
+      "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут остановиться. В нашей студии активная творческая жизнь для каждого ученика всех направлений.BE MUSIC организует:учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разными уровнями подготовки;регулярные концерты классов отдельных педагогов;грандиозные отчётные концерты два раза в год;мастер-классы по сценическим движениям, речи, актёрскому мастерству.Всё это не только по вокалу, но и по инструментальному направлению.Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это больше, чем просто посещение музыкальных занятий.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "vocal",
+    "case": "FAQ 1280/7",
+    "source": {
+      "scrollHeight": 298,
+      "text": "Да, за Вами сохранится занятие, если Вы:Успели отменить занятие за сутки.Заболели и предоставляете справку от врача (можно предоставить фотографию справки).Попали в форс-мажорные обстоятельства и можете документально это подтвердить.В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш педагог очень ждал Вас именно в этот день и это время и, возможно, ему пришлось отказать другому желающему прийти на занятие.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 298,
+      "text": "Да, за Вами сохранится занятие, если Вы:Успели отменить занятие за сутки.Заболели и предоставляете справку от врача (можно предоставить фотографию справки).Попали в форс-мажорные обстоятельства и можете документально это подтвердить.В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш педагог очень ждал Вас именно в этот день и это время и, возможно, ему пришлось отказать другому желающему прийти на занятие.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "guitar",
+    "case": "FAQ 1280/0",
+    "source": {
+      "scrollHeight": 313,
+      "text": "Собственная гитара, конечно, желательна для эффективных тренировок дома. На первых занятиях Вы можете заниматься на наших инструментах. Если у Вас уже есть гитара, берите её с собой — педагог поможет Вам ее настроить и научит делать это самостоятельно.А если Вы ещё не приобрели инструмент, не волнуйтесь! Наш преподаватель подскажет, какую гитару выбрать именно для Вас, учитывая ваши цели и бюджет. Без собственной гитары сложно полноценно отрабатывать упражнения и репетировать дома, поэтому со временем её покупка станет необходимой для вашего прогресса.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 313,
+      "text": "Собственная гитара, конечно, желательна для эффективных тренировок дома. На первых занятиях Вы можете заниматься на наших инструментах. Если у Вас уже есть гитара, берите её с собой — педагог поможет Вам ее настроить и научит делать это самостоятельно.А если Вы ещё не приобрели инструмент, не волнуйтесь! Наш преподаватель подскажет, какую гитару выбрать именно для Вас, учитывая ваши цели и бюджет. Без собственной гитары сложно полноценно отрабатывать упражнения и репетировать дома, поэтому со временем её покупка станет необходимой для вашего прогресса.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "guitar",
+    "case": "FAQ 1280/1",
+    "source": {
+      "scrollHeight": 288,
+      "text": "Наши двери открыты для всех, кто хочет научиться играть на гитаре и получать от этого удовольствие! Наши опытные педагоги успешно работают как с детьми, делающими первые шаги в музыке, так и со взрослыми учениками.Мы с удовольствием обучим Вас игре на гитаре с самого нуля, а также поможем совершенствовать навыки музыкантам среднего, продвинутого и опытного уровней. Независимо от Вашего текущего уровня, мы подберём индивидуальную программу обучения, которая позволит Вам с удовольствием осваивать любимые мелодии и песни!",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 288,
+      "text": "Наши двери открыты для всех, кто хочет научиться играть на гитаре и получать от этого удовольствие! Наши опытные педагоги успешно работают как с детьми, делающими первые шаги в музыке, так и со взрослыми учениками.Мы с удовольствием обучим Вас игре на гитаре с самого нуля, а также поможем совершенствовать навыки музыкантам среднего, продвинутого и опытного уровней. Независимо от Вашего текущего уровня, мы подберём индивидуальную программу обучения, которая позволит Вам с удовольствием осваивать любимые мелодии и песни!",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "guitar",
+    "case": "FAQ 1280/2",
+    "source": {
+      "scrollHeight": 412,
+      "text": "Скорость Вашего обучения зависит от многих факторов, но мы можем дать вам ориентир! Первым делом, мы работаем над правильной посадкой и постановкой рук — это занимает от 2 недель до 1.5 месяцев, в зависимости от Вашей подготовки и усердия.Затем мы переходим к освоению простейших аккордов и основ музыкальной теории, что обычно занимает 1−1.5 месяца. Уже через 4−6 месяцев Вы сможете достаточно свободно играть простые песни! Но важно помнить: если Вы регулярно выполняете домашние задания и посещаете студию хотя бы раз в неделю, прогресс будет быстрее.Если дома заниматься не получается, рекомендуем посещать студию минимум 2 раза в неделю для достижения видимых результатов. Главное — регулярность и желание!",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 412,
+      "text": "Скорость Вашего обучения зависит от многих факторов, но мы можем дать вам ориентир! Первым делом, мы работаем над правильной посадкой и постановкой рук — это занимает от 2 недель до 1.5 месяцев, в зависимости от Вашей подготовки и усердия.Затем мы переходим к освоению простейших аккордов и основ музыкальной теории, что обычно занимает 1−1.5 месяца. Уже через 4−6 месяцев Вы сможете достаточно свободно играть простые песни! Но важно помнить: если Вы регулярно выполняете домашние задания и посещаете студию хотя бы раз в неделю, прогресс будет быстрее.Если дома заниматься не получается, рекомендуем посещать студию минимум 2 раза в неделю для достижения видимых результатов. Главное — регулярность и желание!",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "guitar",
+    "case": "FAQ 1280/3",
+    "source": {
+      "scrollHeight": 214,
+      "text": "Да, это возможно! В нашей студии мы предлагаем занятия «дуэт», которые отлично подходят для родителей с детьми, братьев и сестер или двух друзей, желающих вместе осваивать гитару.Длительность одного занятия в формате «дуэт» составляет 1,5 часа. Это весело, интересно и позволяет поддерживать друг друга в процессе обучения!",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 214,
+      "text": "Да, это возможно! В нашей студии мы предлагаем занятия «дуэт», которые отлично подходят для родителей с детьми, братьев и сестер или двух друзей, желающих вместе осваивать гитару.Длительность одного занятия в формате «дуэт» составляет 1,5 часа. Это весело, интересно и позволяет поддерживать друг друга в процессе обучения!",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "piano",
+    "case": "FAQ 1280/0",
+    "source": {
+      "scrollHeight": 313,
+      "text": "Это индивидуально! Зависит от Ваших целей, опыта, частоты занятий. При регулярных занятиях (2−3 раза в неделю по 60 минут) первые результаты (сыграть простые мелодии) можно увидеть уже через 1−3 месяца. Для уверенной игры потребуется от 6 месяцев до 1 года.Не забывайте о самостоятельной практике дома для закрепления материала и развития мышечной памяти.Главное — получать удовольствие от процесса! Не сравнивайте себя с другими, идите своим темпом и радуйтесь каждому успеху. Помните, что музыка требует времени и терпения, а мы в нашей студии поможем сделать ваш путь к мастерству интересным и эффективным!",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 313,
+      "text": "Это индивидуально! Зависит от Ваших целей, опыта, частоты занятий. При регулярных занятиях (2−3 раза в неделю по 60 минут) первые результаты (сыграть простые мелодии) можно увидеть уже через 1−3 месяца. Для уверенной игры потребуется от 6 месяцев до 1 года.Не забывайте о самостоятельной практике дома для закрепления материала и развития мышечной памяти.Главное — получать удовольствие от процесса! Не сравнивайте себя с другими, идите своим темпом и радуйтесь каждому успеху. Помните, что музыка требует времени и терпения, а мы в нашей студии поможем сделать ваш путь к мастерству интересным и эффективным!",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "piano",
+    "case": "FAQ 1280/1",
+    "source": {
+      "scrollHeight": 214,
+      "text": "Для быстрого прогресса в фортепиано важны домашние упражнения, включающие повторение пройденного, технику, разбор нового и немного творчества.Наш педагог по фортепиано поможет подобрать индивидуальный комплекс упражнений, учитывая Ваши особенности и цели, и объяснит, как тренироваться дома.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 214,
+      "text": "Для быстрого прогресса в фортепиано важны домашние упражнения, включающие повторение пройденного, технику, разбор нового и немного творчества.Наш педагог по фортепиано поможет подобрать индивидуальный комплекс упражнений, учитывая Ваши особенности и цели, и объяснит, как тренироваться дома.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "piano",
+    "case": "FAQ 1280/2",
+    "source": {
+      "scrollHeight": 238,
+      "text": "Однозначно, инструмент для домашних занятий необходим. С регулярными занятиями дома по 15−30 минут в день Вы сможете быстрее получить прогресс, развить мышечную память и насладиться полноценным обучением.Наши преподаватели с удовольствием расскажут о различных видах фортепиано и помогут подобрать подходящий инструмент для Ваших домашних занятий!",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 238,
+      "text": "Однозначно, инструмент для домашних занятий необходим. С регулярными занятиями дома по 15−30 минут в день Вы сможете быстрее получить прогресс, развить мышечную память и насладиться полноценным обучением.Наши преподаватели с удовольствием расскажут о различных видах фортепиано и помогут подобрать подходящий инструмент для Ваших домашних занятий!",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 1280/0",
+    "source": {
+      "scrollHeight": 214,
+      "text": "Занятия по вокалу для детей от 3 до 10 лет проходят в малых группах до 7 человек. Индивидуальные занятия рассчитаны для детей от 9-10 лет.Занятия по гитаре для детей от 6-ти лет могут проходить индивидуально или в паре (“дуэт”).Занятия по фортепиано для детей от 6-ти лет проходят индивидуально.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 214,
+      "text": "Занятия по вокалу для детей от 3 до 10 лет проходят в малых группах до 7 человек. Индивидуальные занятия рассчитаны для детей от 9-10 лет.Занятия по гитаре для детей от 6-ти лет могут проходить индивидуально или в паре (“дуэт”).Занятия по фортепиано для детей от 6-ти лет проходят индивидуально.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 1280/1",
+    "source": {
+      "scrollHeight": 149,
+      "text": "Длительность занятий:Занятие по вокалу в группе - 45 мин. Индивидуальное занятие - 55 мин. Занятие “дуэт” - 85 мин.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 149,
+      "text": "Длительность занятий:Занятие по вокалу в группе - 45 мин. Индивидуальное занятие - 55 мин. Занятие “дуэт” - 85 мин.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 1280/2",
+    "source": {
+      "scrollHeight": 164,
+      "text": "В нашу студию приходят дети и подростки с разными уровнями подготовки: среди наших учеников есть те, кто никогда не пел и не играл на инструментах и только мечтает об этом, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 164,
+      "text": "В нашу студию приходят дети и подростки с разными уровнями подготовки: среди наших учеников есть те, кто никогда не пел и не играл на инструментах и только мечтает об этом, а также имеющие средний и продвинутый уровень как профессиональные музыканты, вокалисты и артисты.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 1280/3",
+    "source": {
+      "scrollHeight": 139,
+      "text": "Занятия по вокалу в группе для детей проходят 1 или 2 раза в неделю. Индивидуальные занятия проходят 1,2 или 3 раза в неделю в соответствии с выбранным абонементом и Вашими целями.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 139,
+      "text": "Занятия по вокалу в группе для детей проходят 1 или 2 раза в неделю. Индивидуальные занятия проходят 1,2 или 3 раза в неделю в соответствии с выбранным абонементом и Вашими целями.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 1280/4",
+    "source": {
+      "scrollHeight": 298,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий:4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят от 1 раза в неделю.Абонемент для детских групповых занятий приобретается на 1 календарный месяц, в нём 4 или 8 занятий.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 298,
+      "text": "Самые популярные абонементы на 4, 8 и 12 занятий:4 занятия - на месяц. Занятия проходят 1 раз в неделю.8 занятий - на месяц. Занятия проходят 2 раза в неделю.12 занятий - на 3 месяца. Занятия проходят от 1 раза в неделю.Абонемент для детских групповых занятий приобретается на 1 календарный месяц, в нём 4 или 8 занятий.Актуальную стоимость абонементов можно узнать у наших администраторов.Позвонить прямо сейчас",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 1280/5",
+    "source": {
+      "scrollHeight": 511,
+      "text": "Конечно, мы никого не заставляем участвовать в концертах! Для нас самое главное, чтобы каждый ребёнок и подросток приходил на занятия с удовольствием и желанием развиваться.Учебные и отчётные концерты в нашей студии — это, прежде всего, прекрасная практика для начинающего артиста. Многие наши ученики с нетерпением ждут этих дней, ведь подготовка к выступлению становится для них настоящим праздником: выбор образа, отработка движений под песню, совместные репетиции с друзьями — всё это вдохновляет и мотивирует на дальнейшее развитие.Мы уважаем индивидуальный темп каждого ребёнка. Если Вы с ребёнком решите принять участие в наших концертах, это поможет ему в будущем уверенно выступать в детском саду, школе, на различных конкурсах и площадках — без стресса и с радостью. Но если сейчас Вашему ребёнку нужно время для адаптации и обретения уверенности, мы полностью поддерживаем этот выбор и будем ждать его на сцене тогда, когда он сам будет к этому готов.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 511,
+      "text": "Конечно, мы никого не заставляем участвовать в концертах! Для нас самое главное, чтобы каждый ребёнок и подросток приходил на занятия с удовольствием и желанием развиваться.Учебные и отчётные концерты в нашей студии — это, прежде всего, прекрасная практика для начинающего артиста. Многие наши ученики с нетерпением ждут этих дней, ведь подготовка к выступлению становится для них настоящим праздником: выбор образа, отработка движений под песню, совместные репетиции с друзьями — всё это вдохновляет и мотивирует на дальнейшее развитие.Мы уважаем индивидуальный темп каждого ребёнка. Если Вы с ребёнком решите принять участие в наших концертах, это поможет ему в будущем уверенно выступать в детском саду, школе, на различных конкурсах и площадках — без стресса и с радостью. Но если сейчас Вашему ребёнку нужно время для адаптации и обретения уверенности, мы полностью поддерживаем этот выбор и будем ждать его на сцене тогда, когда он сам будет к этому готов.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 1280/6",
+    "source": {
+      "scrollHeight": 596,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: для групповых занятий - 45 минут, для индивидуальных - 30 минут.Пробное занятие проходит следующим образом:Вы приходите по предварительной записи, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 /45 минут педагог изучает уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить.При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%.Оставьте заявку на пробное занятие, и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 596,
+      "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты) БЕСПЛАТНОЕ! Встреча проводится индивидуально с каждым по предварительной записи. Длительность: для групповых занятий - 45 минут, для индивидуальных - 30 минут.Пробное занятие проходит следующим образом:Вы приходите по предварительной записи, администратор Вас встречает, провожает к вашему педагогу и знакомит вас.В течение 30 /45 минут педагог изучает уровень подготовки, цели и ожидания от занятий, музыкальные предпочтения.Затем преподаватель показывает демо-версию обычного занятия (например, вокальные распевки, упражнения на дыхание, артикуляцию и т.д.). Уже на первом занятии Вы споёте любимую песню!Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите попробовать исполнить.При покупке любого абонемента сразу после пробного занятия Вы получаете скидку 10%.Оставьте заявку на пробное занятие, и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "kids",
+    "case": "FAQ 1280/7",
+    "source": {
+      "scrollHeight": 338,
+      "text": "В мире музыки у каждого ребёнка свой особенный путь: всё зависит от его уникальных способностей, текущего уровня подготовки, регулярности занятий и увлечённости музыкой.Для ваших детей мы подготовили не только индивидуальные занятия с опытным педагогом, но и веселые учебные концерты, яркие отчётные концерты и интересные мастер-классы (участие в них по вашему желанию). Все эти мероприятия помогают Вашему ребёнку развивать артистизм, чувствовать себя увереннее на сцене и регулярность занятий Вашего ребёнка станет залогом его удивительных музыкальных достижений!",
+      "visible": true,
+      "width": 560
+    },
+    "preview": {
+      "scrollHeight": 338,
+      "text": "В мире музыки у каждого ребёнка свой особенный путь: всё зависит от его уникальных способностей, текущего уровня подготовки, регулярности занятий и увлечённости музыкой.Для ваших детей мы подготовили не только индивидуальные занятия с опытным педагогом, но и веселые учебные концерты, яркие отчётные концерты и интересные мастер-классы (участие в них по вашему желанию). Все эти мероприятия помогают Вашему ребёнку развивать артистизм, чувствовать себя увереннее на сцене и регулярность занятий Вашего ребёнка станет залогом его удивительных музыкальных достижений!",
+      "visible": true,
+      "width": 560
+    },
+    "textEqual": true,
+    "widthEqual": true,
+    "heightDelta": 0,
+    "openCount": 1,
+    "textEqualIgnoringWhitespace": true
+  },
+  {
+    "page": "home",
+    "case": "visible CTA 0",
+    "type": "trial",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "visible CTA 1",
+    "type": "trial",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "visible CTA 2",
+    "type": "trial",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "real CTA 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "real CTA 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "real CTA 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "real CTA 5",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "real CTA 6",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "CTA 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "CTA 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "CTA 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "CTA 5",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "CTA 6",
+    "disabled": true,
+    "fields": 15,
+    "forms": 1,
+    "label": "Заказ подарочного сертификата",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "CTA 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "CTA 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "CTA 4",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "CTA 5",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "CTA 6",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "CTA 7",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "CTA 8",
+    "disabled": true,
+    "fields": 15,
+    "forms": 1,
+    "label": "Заказ подарочного сертификата",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "CTA 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "CTA 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "CTA 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "CTA 3",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "CTA 4",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "CTA 5",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "CTA 6",
+    "disabled": true,
+    "fields": 15,
+    "forms": 1,
+    "label": "Заказ подарочного сертификата",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "CTA 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "CTA 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "CTA 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "CTA 3",
+    "method": "keyboard Enter; multiline bounding-box center falls between lines",
+    "forms": 1,
+    "disabled": true,
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "CTA 4",
+    "disabled": true,
+    "forms": 1,
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "CTA 5",
+    "disabled": true,
+    "forms": 1,
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "CTA 6",
+    "disabled": true,
+    "forms": 1,
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "CTA 0",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "CTA 1",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "CTA 2",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "CTA 3",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "CTA 4",
+    "disabled": true,
+    "fields": 5,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "CTA 5",
+    "disabled": true,
+    "fields": 10,
+    "forms": 1,
+    "label": "Запись на пробное занятие",
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "CTA 7",
+    "disabled": true,
+    "fields": 15,
+    "forms": 1,
+    "label": "Заказ подарочного сертификата",
+    "closed": true
+  },
+  {
+    "page": "home",
+    "case": "desktop menu",
+    "expanded": "true",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      }
+    ],
+    "closed": true
+  },
+  {
+    "page": "vocal",
+    "case": "desktop menu",
+    "expanded": "true",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      }
+    ],
+    "closed": true
+  },
+  {
+    "page": "guitar",
+    "case": "desktop menu",
+    "expanded": "true",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      }
+    ],
+    "closed": true
+  },
+  {
+    "page": "piano",
+    "case": "desktop menu",
+    "expanded": "true",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      }
+    ],
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "desktop menu",
+    "expanded": "true",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      }
+    ],
+    "closed": true
+  },
+  {
+    "page": "loyalty",
+    "case": "desktop menu",
+    "expanded": "true",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      }
+    ],
+    "closed": true
+  },
+  {
+    "page": "privacy",
+    "case": "desktop menu",
+    "expanded": "true",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      }
+    ],
+    "closed": true
+  },
+  {
+    "page": "email",
+    "case": "desktop menu",
+    "expanded": "true",
+    "links": [
+      {
+        "href": "./igra-na-gitare-v-odincovo.html",
+        "text": "ИГРА НА ГИТАРЕ"
+      },
+      {
+        "href": "./igra-na-fortepiano-v-odincovo.html",
+        "text": "ИГРА НА ФОРТЕПИАНО"
+      },
+      {
+        "href": "./vokal-v-odincovo.html",
+        "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+      },
+      {
+        "href": "./kids.html",
+        "text": "BE MUSIC Kids"
+      }
+    ],
+    "closed": true
+  },
+  {
+    "page": "kids",
+    "case": "more 1198996651",
+    "display": "block",
+    "h": 391.59375,
+    "hidden": false
+  },
+  {
+    "page": "kids",
+    "case": "more 1198996721",
+    "display": "block",
+    "h": 465,
+    "hidden": false
+  },
+  {
+    "page": "kids",
+    "case": "gallery next/previous",
+    "nextIndex": 1,
+    "previousIndex": 0,
+    "passed": true
+  },
+  {
+    "page": "home",
+    "case": "gallery next previous",
+    "next": {
+      "left": 554
+    },
+    "previous": {
+      "left": 0
+    },
+    "passed": true
+  },
+  {
+    "page": "home",
+    "case": "teacher carousel and more reviews",
+    "nextLeft": 1400,
+    "previousLeft": 1120,
+    "reviewsOpen": true
+  }
+]
