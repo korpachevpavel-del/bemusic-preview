@@ -34,7 +34,7 @@ for name,ids in [('privacy',['rec886479424','rec886479427']),('email',['rec88647
   assert ''.join(source.get_element_by_id(rid).itertext())==''.join(rec.itertext()),rid
  etree.SubElement(page.find('head'),'link',rel='stylesheet',href='./policy-layout-v48.css?v=48-2')
  etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v55.css?v=55-1')
- etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v56.css?v=56-1')
+ etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v56.css?v=56-2')
  (root/(name+'.html')).write_text(html.tostring(page,encoding='unicode',doctype='<!doctype html>'))
  if name=='privacy':
   for link in source.xpath('//head/link[@rel="stylesheet"]'):

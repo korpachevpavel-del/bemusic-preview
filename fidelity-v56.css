@@ -17,3 +17,7 @@
 #bm #rec998996116 [data-elem-id="1746107828686"] > .tn-atom,
 #bm #rec998996116 [data-elem-id="1746108009318"] > .tn-atom,
 #bm #rec998996116 [data-elem-id="1746108020318"] > .tn-atom{background-color:#000}
+
+/* Footer descriptions inherit Tilda light weight; first-column notes remain regular. */
+#bm .foot .footgrid>div:not(:first-child){font-weight:300}
+#bm .foot a{color:#fff;font-weight:inherit}
