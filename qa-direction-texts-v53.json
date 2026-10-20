@@ -1,0 +1,80 @@
+[
+  {
+    "page": "vokal-v-odincovo",
+    "source_texts": [
+      {
+        "index": 0,
+        "equal": true
+      },
+      {
+        "index": 1,
+        "equal": true
+      },
+      {
+        "index": 2,
+        "equal": true
+      },
+      {
+        "index": 3,
+        "equal": true
+      },
+      {
+        "index": 4,
+        "equal": true
+      },
+      {
+        "index": 5,
+        "equal": true
+      },
+      {
+        "index": 6,
+        "equal": true
+      },
+      {
+        "index": 7,
+        "equal": true
+      }
+    ],
+    "record": "rec1130461571"
+  },
+  {
+    "page": "igra-na-gitare-v-odincovo",
+    "source_texts": [
+      {
+        "index": 0,
+        "equal": true
+      },
+      {
+        "index": 1,
+        "equal": true
+      },
+      {
+        "index": 2,
+        "equal": true
+      },
+      {
+        "index": 3,
+        "equal": true
+      }
+    ],
+    "record": "rec998836256"
+  },
+  {
+    "page": "igra-na-fortepiano-v-odincovo",
+    "source_texts": [
+      {
+        "index": 0,
+        "equal": true
+      },
+      {
+        "index": 1,
+        "equal": true
+      },
+      {
+        "index": 2,
+        "equal": true
+      }
+    ],
+    "record": "rec1123692381"
+  }
+]

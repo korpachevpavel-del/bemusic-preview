@@ -1,0 +1,93 @@
+[
+  {
+    "page": "guitar",
+    "own": [
+      {
+        "cls": "t-col t-col_5 ",
+        "pad": "0px",
+        "w": 460
+      },
+      {
+        "cls": "t-col t-col_6 t-prefix_1",
+        "pad": "0px 0px 0px 100px",
+        "w": 560
+      }
+    ],
+    "source": [
+      {
+        "cls": "t-col t-col_5 ",
+        "pad": "0px",
+        "w": 460
+      },
+      {
+        "cls": "t-col t-col_6 t-prefix_1",
+        "pad": "0px 0px 0px 100px",
+        "w": 660
+      }
+    ]
+  },
+  {
+    "page": "piano",
+    "own": [
+      {
+        "cls": "t-col t-col_5 ",
+        "pad": "0px",
+        "w": 460
+      },
+      {
+        "cls": "t-col t-col_6 t-prefix_1",
+        "pad": "0px 0px 0px 100px",
+        "w": 560
+      }
+    ],
+    "source": [
+      {
+        "cls": "t-col t-col_5 ",
+        "pad": "0px",
+        "w": 460
+      },
+      {
+        "cls": "t-col t-col_6 t-prefix_1",
+        "pad": "0px 0px 0px 100px",
+        "w": 660
+      }
+    ]
+  },
+  {
+    "page": "vocal",
+    "own": [
+      {
+        "cls": "t-col t-col_5 ",
+        "pad": "0px",
+        "w": 460
+      },
+      {
+        "cls": "t-col t-col_6 t-prefix_1",
+        "pad": "0px 0px 0px 100px",
+        "w": 560
+      }
+    ],
+    "source": [
+      {
+        "cls": "t-col t-col_5 ",
+        "pad": "0px",
+        "w": 460
+      },
+      {
+        "cls": "t-col t-col_6 t-prefix_1",
+        "pad": "0px 0px 0px 100px",
+        "w": 660
+      }
+    ],
+    "trial": {
+      "own": {
+        "h": 620.328125,
+        "w": 460
+      },
+      "source": {
+        "h": 595.53125,
+        "w": 560
+      }
+    }
+  }
+]

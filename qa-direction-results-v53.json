@@ -1,0 +1,445 @@
+{
+  "date": "2026-10-20",
+  "phase": "completed",
+  "behavior": [
+    {
+      "page": "vocal",
+      "own": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        },
+        {
+          "i": 3,
+          "visible": false
+        },
+        {
+          "i": 4,
+          "visible": false
+        },
+        {
+          "i": 5,
+          "visible": false
+        },
+        {
+          "i": 6,
+          "visible": false
+        },
+        {
+          "i": 7,
+          "visible": false
+        }
+      ],
+      "source": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        },
+        {
+          "i": 3,
+          "visible": false
+        },
+        {
+          "i": 4,
+          "visible": false
+        },
+        {
+          "i": 5,
+          "visible": false
+        },
+        {
+          "i": 6,
+          "visible": false
+        },
+        {
+          "i": 7,
+          "visible": false
+        }
+      ]
+    },
+    {
+      "page": "guitar",
+      "own": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        },
+        {
+          "i": 3,
+          "visible": false
+        }
+      ],
+      "source": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        },
+        {
+          "i": 3,
+          "visible": false
+        }
+      ]
+    },
+    {
+      "page": "piano",
+      "own": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        }
+      ],
+      "source": [
+        {
+          "i": 0,
+          "visible": false
+        },
+        {
+          "i": 1,
+          "visible": true
+        },
+        {
+          "i": 2,
+          "visible": false
+        }
+      ]
+    }
+  ],
+  "limits": [
+    "Cloud Chrome; physical Safari/iPhone not tested."
+  ],
+  "geometry": [
+    {
+      "page": "vocal",
+      "viewport": 320,
+      "source": {
+        "h": 985.6875,
+        "w": 265
+      },
+      "preview": {
+        "h": 985.6875,
+        "w": 265
+      }
+    },
+    {
+      "page": "vocal",
+      "viewport": 390,
+      "source": {
+        "h": 800.1875,
+        "w": 335
+      },
+      "preview": {
+        "h": 800.1875,
+        "w": 335
+      }
+    },
+    {
+      "page": "vocal",
+      "viewport": 480,
+      "source": {
+        "h": 637.875,
+        "w": 425
+      },
+      "preview": {
+        "h": 637.875,
+        "w": 425
+      }
+    },
+    {
+      "page": "vocal",
+      "viewport": 640,
+      "source": {
+        "h": 521.9375,
+        "w": 585
+      },
+      "preview": {
+        "h": 521.9375,
+        "w": 585
+      }
+    },
+    {
+      "page": "vocal",
+      "viewport": 768,
+      "source": {
+        "h": 545.9375,
+        "w": 600
+      },
+      "preview": {
+        "h": 545.9375,
+        "w": 600
+      }
+    },
+    {
+      "page": "vocal",
+      "viewport": 960,
+      "source": {
+        "h": 545.9375,
+        "w": 600
+      },
+      "preview": {
+        "h": 545.9375,
+        "w": 600
+      }
+    },
+    {
+      "page": "vocal",
+      "viewport": 1024,
+      "source": {
+        "h": 620.328125,
+        "w": 460
+      },
+      "preview": {
+        "h": 620.328125,
+        "w": 460
+      }
+    },
+    {
+      "page": "vocal",
+      "viewport": 1280,
+      "source": {
+        "h": 595.53125,
+        "w": 560
+      },
+      "preview": {
+        "h": 595.53125,
+        "w": 560
+      }
+    },
+    {
+      "page": "guitar",
+      "viewport": 320,
+      "source": {
+        "h": 535.125,
+        "w": 265
+      },
+      "preview": {
+        "h": 535.125,
+        "w": 265
+      }
+    },
+    {
+      "page": "guitar",
+      "viewport": 390,
+      "source": {
+        "h": 442.375,
+        "w": 335
+      },
+      "preview": {
+        "h": 442.375,
+        "w": 335
+      }
+    },
+    {
+      "page": "guitar",
+      "viewport": 480,
+      "source": {
+        "h": 372.8125,
+        "w": 425
+      },
+      "preview": {
+        "h": 372.8125,
+        "w": 425
+      }
+    },
+    {
+      "page": "guitar",
+      "viewport": 640,
+      "source": {
+        "h": 256.875,
+        "w": 585
+      },
+      "preview": {
+        "h": 256.875,
+        "w": 585
+      }
+    },
+    {
+      "page": "guitar",
+      "viewport": 768,
+      "source": {
+        "h": 287.96875,
+        "w": 600
+      },
+      "preview": {
+        "h": 287.96875,
+        "w": 600
+      }
+    },
+    {
+      "page": "guitar",
+      "viewport": 960,
+      "source": {
+        "h": 287.96875,
+        "w": 600
+      },
+      "preview": {
+        "h": 287.96875,
+        "w": 600
+      }
+    },
+    {
+      "page": "guitar",
+      "viewport": 1024,
+      "source": {
+        "h": 362.359375,
+        "w": 460
+      },
+      "preview": {
+        "h": 362.359375,
+        "w": 460
+      }
+    },
+    {
+      "page": "guitar",
+      "viewport": 1280,
+      "source": {
+        "h": 312.765625,
+        "w": 560
+      },
+      "preview": {
+        "h": 312.765625,
+        "w": 560
+      }
+    },
+    {
+      "page": "piano",
+      "viewport": 320,
+      "source": {
+        "h": 604.6875,
+        "w": 265
+      },
+      "preview": {
+        "h": 604.6875,
+        "w": 265
+      }
+    },
+    {
+      "page": "piano",
+      "viewport": 390,
+      "source": {
+        "h": 465.5625,
+        "w": 335
+      },
+      "preview": {
+        "h": 465.5625,
+        "w": 335
+      }
+    },
+    {
+      "page": "piano",
+      "viewport": 480,
+      "source": {
+        "h": 396,
+        "w": 425
+      },
+      "preview": {
+        "h": 396,
+        "w": 425
+      }
+    },
+    {
+      "page": "piano",
+      "viewport": 640,
+      "source": {
+        "h": 280.0625,
+        "w": 585
+      },
+      "preview": {
+        "h": 280.0625,
+        "w": 585
+      }
+    },
+    {
+      "page": "piano",
+      "viewport": 768,
+      "source": {
+        "h": 312.765625,
+        "w": 600
+      },
+      "preview": {
+        "h": 312.765625,
+        "w": 600
+      }
+    },
+    {
+      "page": "piano",
+      "viewport": 960,
+      "source": {
+        "h": 312.765625,
+        "w": 600
+      },
+      "preview": {
+        "h": 312.765625,
+        "w": 600
+      }
+    },
+    {
+      "page": "piano",
+      "viewport": 1024,
+      "source": {
+        "h": 387.15625,
+        "w": 460
+      },
+      "preview": {
+        "h": 387.15625,
+        "w": 460
+      }
+    },
+    {
+      "page": "piano",
+      "viewport": 1280,
+      "source": {
+        "h": 312.765625,
+        "w": 560
+      },
+      "preview": {
+        "h": 312.765625,
+        "w": 560
+      }
+    }
+  ],
+  "pages_run": {
+    "number": 160,
+    "status": "Success",
+    "commit": "19fdae1078895a5340ac9b914a0b82c8ee4cc63c"
+  }
+}
