@@ -1,0 +1,658 @@
+[
+  {
+    "page": "home",
+    "width": 390,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 46,
+    "diffs": [
+      {
+        "answer": 0,
+        "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учени",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от В",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": "Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагае",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": ". На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, с",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": "и запишитесь на пробное занятие прямо сейчас!",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": "бесплатное пробное занятие",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 2,
+        "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 2,
+        "text": "Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные кон",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты)",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Встреча проводится",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "по предварительной записи. Длительность:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Пробное занятие проходит следующим образом:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите п",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "индивидуально с каждым",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "30 минут.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакоми",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Затем преподаватель показывает демо-версию обычного занятия (например, вокальные",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Вы споёте любимую песню!",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Уже на первом занятии",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "Самые популярные абонементы на 4, 8 и 12 занятий:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "Актуальную стоимость абонементов можно узнать у наших администраторов.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "4 занятия - на месяц. Занятия проходят 1 раз в неделю.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "8 занятий - на месяц. Занятия проходят 2 раза в неделю.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 5,
+        "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 5,
+        "text": "Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Ва",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут о",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "Всё это не только по вокалу, но и по инструментальному направлению.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это бо",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "BE MUSIC организует:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разны",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "регулярные концерты классов отдельных педагогов;",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "грандиозные отчётные концерты два раза в год;",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "мастер-классы по сценическим движениям, речи, актёрскому мастерству.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "Да, за Вами сохранится занятие, если Вы:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш п",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "Успели отменить занятие за сутки.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "Заболели и предоставляете справку от врача (можно предоставить фотографию справк",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "Попали в форс-мажорные обстоятельства и можете документально это подтвердить.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      }
+    ]
+  },
+  {
+    "page": "home",
+    "width": 1280,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 46,
+    "diffs": [
+      {
+        "answer": 0,
+        "text": "В нашу студию приходят с разными базовыми уровнями подготовки: среди наших учени",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": "Вы можете посещать занятия 1, 2 или 3 раза в неделю. Частота зависит только от В",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": "Чтобы определиться, сколько раз в неделю Вы будете посещать студию, мы предлагае",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": ". На занятии Вы обсудите с педагогом Ваш график, цели и возможности посещения, с",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": "и запишитесь на пробное занятие прямо сейчас!",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 1,
+        "text": "бесплатное пробное занятие",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 2,
+        "text": "Процесс обучения происходит индивидуально: всё зависит от ваших природных данных",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 2,
+        "text": "Для своих учеников мы предлагаем не только занятия с педагогом, но и учебные кон",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Пробное занятие по любому направлению (вокал, музыкальные инструменты)",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Встреча проводится",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "по предварительной записи. Длительность:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Пробное занятие проходит следующим образом:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Специально готовиться не нужно. Вы можете прийти с 1-2 песнями, которые хотите п",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "и мы свяжемся с Вами, чтобы подобрать удобное для Вас время.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "индивидуально с каждым",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "30 минут.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Вы приходите, администратор Вас встречает, провожает к вашему педагогу и знакоми",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "В течение 30 минут педагог с Вами общается: изучает Ваш уровень подготовки, цели",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Затем преподаватель показывает демо-версию обычного занятия (например, вокальные",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Вы споёте любимую песню!",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 3,
+        "text": "Уже на первом занятии",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "Самые популярные абонементы на 4, 8 и 12 занятий:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "Актуальную стоимость абонементов можно узнать у наших администраторов.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "4 занятия - на месяц. Занятия проходят 1 раз в неделю.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "8 занятий - на месяц. Занятия проходят 2 раза в неделю.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 4,
+        "text": "12 занятий - на 3 месяца. Занятия проходят 1 раз в неделю.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 5,
+        "text": "График посещения занятий составляется индивидуально, исходя из Вашего свободного",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 5,
+        "text": "Мы предлагаем индивидуальный подход и уверены, что точно подберём удобное для Ва",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "Да, участие в них добровольное. Но попробовав однажды, обычно ученики не могут о",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "Всё это не только по вокалу, но и по инструментальному направлению.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "Мы всячески поддерживаем творческое развитие учеников. Ведь наша студия - это бо",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "BE MUSIC организует:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "учебные концерты каждый месяц: в них участвуют ученики от всех педагогов с разны",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "регулярные концерты классов отдельных педагогов;",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "грандиозные отчётные концерты два раза в год;",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 6,
+        "text": "мастер-классы по сценическим движениям, речи, актёрскому мастерству.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "Да, за Вами сохранится занятие, если Вы:",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "В других случаях занятие, к сожалению, будет списано с абонемента, так как Ваш п",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "Успели отменить занятие за сутки.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "Заболели и предоставляете справку от врача (можно предоставить фотографию справк",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      },
+      {
+        "answer": 7,
+        "text": "Попали в форс-мажорные обстоятельства и можете документально это подтвердить.",
+        "property": "color",
+        "source": "rgb(0, 0, 0)",
+        "preview": "rgb(30, 30, 30)"
+      }
+    ]
+  },
+  {
+    "page": "vocal",
+    "width": 390,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 46,
+    "diffs": []
+  },
+  {
+    "page": "vocal",
+    "width": 1280,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 46,
+    "diffs": []
+  },
+  {
+    "page": "guitar",
+    "width": 390,
+    "sourcePanels": 4,
+    "previewPanels": 4,
+    "matched": 9,
+    "diffs": []
+  },
+  {
+    "page": "guitar",
+    "width": 1280,
+    "sourcePanels": 4,
+    "previewPanels": 4,
+    "matched": 9,
+    "diffs": []
+  },
+  {
+    "page": "piano",
+    "width": 390,
+    "sourcePanels": 3,
+    "previewPanels": 3,
+    "matched": 7,
+    "diffs": []
+  },
+  {
+    "page": "piano",
+    "width": 1280,
+    "sourcePanels": 3,
+    "previewPanels": 3,
+    "matched": 7,
+    "diffs": []
+  },
+  {
+    "page": "kids",
+    "width": 390,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 35,
+    "diffs": []
+  },
+  {
+    "page": "kids",
+    "width": 1280,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 35,
+    "diffs": []
+  }
+]

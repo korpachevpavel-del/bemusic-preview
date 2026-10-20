@@ -1,0 +1,82 @@
+[
+  {
+    "page": "home",
+    "width": 390,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 46,
+    "diffs": []
+  },
+  {
+    "page": "home",
+    "width": 1280,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 46,
+    "diffs": []
+  },
+  {
+    "page": "vocal",
+    "width": 390,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 46,
+    "diffs": []
+  },
+  {
+    "page": "vocal",
+    "width": 1280,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 46,
+    "diffs": []
+  },
+  {
+    "page": "guitar",
+    "width": 390,
+    "sourcePanels": 4,
+    "previewPanels": 4,
+    "matched": 9,
+    "diffs": []
+  },
+  {
+    "page": "guitar",
+    "width": 1280,
+    "sourcePanels": 4,
+    "previewPanels": 4,
+    "matched": 9,
+    "diffs": []
+  },
+  {
+    "page": "piano",
+    "width": 390,
+    "sourcePanels": 3,
+    "previewPanels": 3,
+    "matched": 7,
+    "diffs": []
+  },
+  {
+    "page": "piano",
+    "width": 1280,
+    "sourcePanels": 3,
+    "previewPanels": 3,
+    "matched": 7,
+    "diffs": []
+  },
+  {
+    "page": "kids",
+    "width": 390,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 35,
+    "diffs": []
+  },
+  {
+    "page": "kids",
+    "width": 1280,
+    "sourcePanels": 8,
+    "previewPanels": 8,
+    "matched": 35,
+    "diffs": []
+  }
+]

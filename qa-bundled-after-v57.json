@@ -1,0 +1,370 @@
+[
+  {
+    "page": "standalone",
+    "width": 320,
+    "sourceCount": 161,
+    "previewCount": 235,
+    "matched": 146,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 1252.515625,
+      "resultButton": null,
+      "scroll": 305,
+      "width": 305
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 1252.515625,
+      "resultButton": null,
+      "scroll": 305,
+      "width": 305
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "standalone",
+    "width": 390,
+    "sourceCount": 161,
+    "previewCount": 235,
+    "matched": 146,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 1225.65625,
+      "resultButton": null,
+      "scroll": 375,
+      "width": 375
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 1225.65625,
+      "resultButton": null,
+      "scroll": 375,
+      "width": 375
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "standalone",
+    "width": 480,
+    "sourceCount": 173,
+    "previewCount": 235,
+    "matched": 146,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 900.0625,
+      "resultButton": null,
+      "scroll": 465,
+      "width": 465
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 900.0625,
+      "resultButton": null,
+      "scroll": 465,
+      "width": 465
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "standalone",
+    "width": 640,
+    "sourceCount": 173,
+    "previewCount": 247,
+    "matched": 158,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 625,
+      "width": 625
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 625,
+      "width": 625
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "standalone",
+    "width": 768,
+    "sourceCount": 180,
+    "previewCount": 245,
+    "matched": 160,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 753,
+      "width": 753
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 753,
+      "width": 753
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "standalone",
+    "width": 960,
+    "sourceCount": 180,
+    "previewCount": 245,
+    "matched": 160,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 945,
+      "width": 945
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 945,
+      "width": 945
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "standalone",
+    "width": 1024,
+    "sourceCount": 186,
+    "previewCount": 245,
+    "matched": 160,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 481.859375,
+      "resultButton": null,
+      "scroll": 1009,
+      "width": 1009
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 481.859375,
+      "resultButton": null,
+      "scroll": 1009,
+      "width": 1009
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "standalone",
+    "width": 1280,
+    "sourceCount": 198,
+    "previewCount": 257,
+    "matched": 172,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 481.859375,
+      "resultButton": null,
+      "scroll": 1265,
+      "width": 1265
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 481.859375,
+      "resultButton": null,
+      "scroll": 1265,
+      "width": 1265
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "vocalstandalone",
+    "width": 320,
+    "sourceCount": 131,
+    "previewCount": 160,
+    "matched": 133,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 1252.515625,
+      "resultButton": null,
+      "scroll": 305,
+      "width": 305
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 1252.515625,
+      "resultButton": null,
+      "scroll": 305,
+      "width": 305
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "vocalstandalone",
+    "width": 390,
+    "sourceCount": 131,
+    "previewCount": 160,
+    "matched": 133,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 1225.65625,
+      "resultButton": null,
+      "scroll": 375,
+      "width": 375
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 1225.65625,
+      "resultButton": null,
+      "scroll": 375,
+      "width": 375
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "vocalstandalone",
+    "width": 480,
+    "sourceCount": 131,
+    "previewCount": 160,
+    "matched": 133,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 900.0625,
+      "resultButton": null,
+      "scroll": 465,
+      "width": 465
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 900.0625,
+      "resultButton": null,
+      "scroll": 465,
+      "width": 465
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "vocalstandalone",
+    "width": 640,
+    "sourceCount": 131,
+    "previewCount": 160,
+    "matched": 133,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 625,
+      "width": 625
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 625,
+      "width": 625
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "vocalstandalone",
+    "width": 768,
+    "sourceCount": 135,
+    "previewCount": 156,
+    "matched": 133,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 753,
+      "width": 753
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 753,
+      "width": 753
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "vocalstandalone",
+    "width": 960,
+    "sourceCount": 135,
+    "previewCount": 156,
+    "matched": 133,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 945,
+      "width": 945
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 818.71875,
+      "resultButton": null,
+      "scroll": 945,
+      "width": 945
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "vocalstandalone",
+    "width": 1024,
+    "sourceCount": 141,
+    "previewCount": 156,
+    "matched": 133,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 481.859375,
+      "resultButton": null,
+      "scroll": 1009,
+      "width": 1009
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 481.859375,
+      "resultButton": null,
+      "scroll": 1009,
+      "width": 1009
+    },
+    "footerDelta": 0
+  },
+  {
+    "page": "vocalstandalone",
+    "width": 1280,
+    "sourceCount": 141,
+    "previewCount": 156,
+    "matched": 133,
+    "diffs": [],
+    "sourceLayout": {
+      "fonts": "loaded",
+      "footer": 481.859375,
+      "resultButton": null,
+      "scroll": 1265,
+      "width": 1265
+    },
+    "previewLayout": {
+      "fonts": "loaded",
+      "footer": 481.859375,
+      "resultButton": null,
+      "scroll": 1265,
+      "width": 1265
+    },
+    "footerDelta": 0
+  }
+]

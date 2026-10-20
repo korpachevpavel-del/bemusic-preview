@@ -1,0 +1,31 @@
+{
+  "commit": "88579a0f19f9914c6c0f8922768f10eace0a4a61",
+  "files": {
+    "BEMUSIC_RELEASE_v57.zip": {
+      "bytes": 23949679,
+      "sha256": "8e63d100f2977008318e84916086f75dc990a9c0537b2424fac68653443be864"
+    },
+    "BEMUSIC_STANDALONE.html": {
+      "bytes": 10659741,
+      "sha256": "c8d7d9a34036c97aa9f7f0c60ebdb9de4f1ba7c57721d259af14eb4284e00b09"
+    },
+    "VOCAL_STANDALONE.html": {
+      "bytes": 6984775,
+      "sha256": "18cffe81de43a3fe281ee48f2afc5c9cb4cb80b0e8d428704ee2d2768174a4fe"
+    },
+    "BEMUSIC_AUDIT.md": {
+      "bytes": 61502,
+      "sha256": "c60984b490a2a3c40073dcc0cb601e9c48d51dca20a5fd4940e2a418200b37da"
+    },
+    "build_bemusic_release.py": {
+      "bytes": 8458,
+      "sha256": "fe41c1f998c5690122bc8db32a8b2283848df32767e250304f95503f56dff8d4"
+    },
+    "fidelity-v57.css": {
+      "bytes": 721,
+      "sha256": "d1bb2da0f28c69d0d8b425a8cf677f2b9dd6befb3fda67a4deaa0e403f2f823b"
+    }
+  },
+  "manifestHashes": 162,
+  "activeFilesMatchArchive": 160
+}

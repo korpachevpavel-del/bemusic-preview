@@ -1,0 +1,130 @@
+[
+  {
+    "width": 390,
+    "path": "self",
+    "steps": [
+      {
+        "question": "Я ПОДБИРАЮ СТУДИЮ",
+        "step": "0"
+      },
+      {
+        "question": "КАКОЕ НАПРАВЛЕНИЕ ДЛЯ ВАС НАИБОЛЕЕ ИНТЕРЕСНО",
+        "step": "1"
+      },
+      {
+        "question": "ЕСТЬ ЛИ У ВАС ОПЫТ?",
+        "step": "2"
+      },
+      {
+        "question": "КАКОЙ ИЗ ЭТИХ ПУНКТОВ О ВАС?",
+        "step": "3"
+      },
+      {
+        "question": "СКОЛЬКО ВРЕМЕНИ ВЫ ГОТОВЫ ПОСВЯТИТЬ ЗАНЯТИЯМ?",
+        "step": "4"
+      }
+    ],
+    "final": {
+      "fields": 4,
+      "step": "5",
+      "submitDisabled": true
+    },
+    "submitted": false
+  },
+  {
+    "width": 390,
+    "path": "child",
+    "steps": [
+      {
+        "question": "Я ПОДБИРАЮ СТУДИЮ",
+        "step": "0"
+      },
+      {
+        "question": "КАКОЕ НАПРАВЛЕНИЕ ДЛЯ ВАС НАИБОЛЕЕ ИНТЕРЕСНО",
+        "step": "1"
+      },
+      {
+        "question": "ЕСТЬ ЛИ У ВАС ОПЫТ?",
+        "step": "2"
+      },
+      {
+        "question": "КАКОЙ ИЗ ЭТИХ ПУНКТОВ О ВАС?",
+        "step": "3"
+      },
+      {
+        "question": "СКОЛЬКО ВРЕМЕНИ ВЫ ГОТОВЫ ПОСВЯТИТЬ ЗАНЯТИЯМ?",
+        "step": "4"
+      }
+    ],
+    "final": {
+      "fields": 4,
+      "step": "5",
+      "submitDisabled": true
+    },
+    "submitted": false
+  },
+  {
+    "width": 1280,
+    "path": "self",
+    "steps": [
+      {
+        "question": "Я ПОДБИРАЮ СТУДИЮ",
+        "step": "0"
+      },
+      {
+        "question": "КАКОЕ НАПРАВЛЕНИЕ ДЛЯ ВАС НАИБОЛЕЕ ИНТЕРЕСНО",
+        "step": "1"
+      },
+      {
+        "question": "ЕСТЬ ЛИ У ВАС ОПЫТ?",
+        "step": "2"
+      },
+      {
+        "question": "КАКОЙ ИЗ ЭТИХ ПУНКТОВ О ВАС?",
+        "step": "3"
+      },
+      {
+        "question": "СКОЛЬКО ВРЕМЕНИ ВЫ ГОТОВЫ ПОСВЯТИТЬ ЗАНЯТИЯМ?",
+        "step": "4"
+      }
+    ],
+    "final": {
+      "fields": 4,
+      "step": "5",
+      "submitDisabled": true
+    },
+    "submitted": false
+  },
+  {
+    "width": 1280,
+    "path": "child",
+    "steps": [
+      {
+        "question": "Я ПОДБИРАЮ СТУДИЮ",
+        "step": "0"
+      },
+      {
+        "question": "КАКОЕ НАПРАВЛЕНИЕ ДЛЯ ВАС НАИБОЛЕЕ ИНТЕРЕСНО",
+        "step": "1"
+      },
+      {
+        "question": "ЕСТЬ ЛИ У ВАС ОПЫТ?",
+        "step": "2"
+      },
+      {
+        "question": "КАКОЙ ИЗ ЭТИХ ПУНКТОВ О ВАС?",
+        "step": "3"
+      },
+      {
+        "question": "СКОЛЬКО ВРЕМЕНИ ВЫ ГОТОВЫ ПОСВЯТИТЬ ЗАНЯТИЯМ?",
+        "step": "4"
+      }
+    ],
+    "final": {
+      "fields": 4,
+      "step": "5",
+      "submitDisabled": true
+    },
+    "submitted": false
+  }
+]
