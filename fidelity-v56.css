@@ -1,0 +1,19 @@
+/* Confirmed paint differences; no geometry changes. */
+#bm [data-design-element="1734521532850"]>.paint{border-radius:25px}
+#bm #rec1130437581 [data-elem-id="1746107828686"] > .tn-atom,
+#bm #rec1130437581 [data-elem-id="1746108009318"] > .tn-atom,
+#bm #rec1130437581 [data-elem-id="1746108020318"] > .tn-atom,
+#bm #rec1130496191 [data-elem-id="1746108009318"] > .tn-atom,
+#bm #rec1130496191 [data-elem-id="1746108020318"] > .tn-atom,
+#bm #rec1198996686 [data-elem-id="1746107828686"] > .tn-atom,
+#bm #rec1198996686 [data-elem-id="1746108009318"] > .tn-atom,
+#bm #rec1198996686 [data-elem-id="1746108020318"] > .tn-atom,
+#bm #rec1198996691 [data-elem-id="1746107828686"] > .tn-atom,
+#bm #rec1198996691 [data-elem-id="1746108009318"] > .tn-atom,
+#bm #rec1198996691 [data-elem-id="1746108020318"] > .tn-atom,
+#bm #rec1198996696 [data-elem-id="1746107828686"] > .tn-atom,
+#bm #rec1198996696 [data-elem-id="1746108009318"] > .tn-atom,
+#bm #rec1198996696 [data-elem-id="1746108020318"] > .tn-atom,
+#bm #rec998996116 [data-elem-id="1746107828686"] > .tn-atom,
+#bm #rec998996116 [data-elem-id="1746108009318"] > .tn-atom,
+#bm #rec998996116 [data-elem-id="1746108020318"] > .tn-atom{background-color:#000}
