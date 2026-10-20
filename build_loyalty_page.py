@@ -36,5 +36,6 @@ for d in bm.xpath('.//details'):d.attrib.pop('open',None)
 for e in bm.xpath('.//*[@style]'):
  if e.get('class')=='directions-menu':e.attrib.pop('style',None)
 for name in ['loyalty-page-v47.js?v=47-1','menu-v33.js?v=4']:etree.SubElement(body,'script',src='./'+name)
+etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v55.css?v=55-1')
 (root/'programma-loyalnosti-be-music.html').write_text(html.tostring(page,encoding='unicode',doctype='<!doctype html>'))
 print('Built source-equivalent empty loyalty page')

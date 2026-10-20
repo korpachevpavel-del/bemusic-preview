@@ -1,0 +1,12 @@
+/* Confirmed differences from the comprehensive eight-page audit. */
+@media(min-width:961px){
+#bm #rec1130437541 .t-col,#bm #rec999060921 .t-col,#bm #rec1123692396 .t-col{box-sizing:content-box}
+}
+@media(min-width:961px) and (max-width:1199px){
+#bm .footgrid{width:940px;max-width:none;column-gap:20px}
+#bm #s886675201 [data-design-element="1736246311797"],#bm #s886675219 [data-design-element="1736246311797"]{left:calc(50% - 840px)}
+}
+@media(max-width:479px){
+#bm #s886675195 [data-design-element="1736246311797"]{top:80px}
+}
+#bm.kids-page .t400__submit{font-size:15px}
