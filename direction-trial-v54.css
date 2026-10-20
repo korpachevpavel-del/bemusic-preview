@@ -2,3 +2,6 @@
 @media(min-width:961px){
 #bm #rec1130437531 .t550__col,#bm #rec999055506 .t550__col,#bm #rec1123692386 .t550__col{box-sizing:content-box}
 }
+
+/* Source circles keep their 2px border outside the 44px content box at every width. */
+#bm #rec1130437531 .t550__circle,#bm #rec999055506 .t550__circle,#bm #rec1123692386 .t550__circle{box-sizing:content-box}
