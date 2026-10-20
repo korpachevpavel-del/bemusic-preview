@@ -164,7 +164,7 @@ etree.SubElement(head,'link',rel='stylesheet',href='./kids-interactions-v52.css?
 etree.SubElement(body,'script',src='./kids-popup-v49.js?v=49-5')
 etree.SubElement(body,'script',src='./kids-teacher-forms-v50.js?v=50-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v55.css?v=55-1')
-etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v56.css?v=56-2')
+etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v56.css?v=56-3')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
 (ROOT/'kids.html').write_text(result)
 print(json.dumps({'assets':len(set(assets.values())),'zero_scenes':len(zero),'zero_elements':sum(len(r.xpath('.//*[@data-elem-id]')) for r in zero),'missing':sorted(missing),'html_bytes':len(result.encode())},ensure_ascii=False))

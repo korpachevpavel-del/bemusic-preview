@@ -140,7 +140,7 @@ css.append('''#bm .desktop-header nav>a{color:#1f1f1f}#bm .t396 .tn-atom{font-fa
 etree.SubElement(head,'link',rel='stylesheet',href='./direction-faq-v53.css?v=53-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./direction-trial-v54.css?v=54-2')
 etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v55.css?v=55-1')
-etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v56.css?v=56-2')
+etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v56.css?v=56-3')
 result=html.tostring(page,encoding='unicode',doctype='<!doctype html>')
 (ROOT/'vokal-v-odincovo.html').write_text(result)
 print(json.dumps({'assets':len(set(assets.values())),'zero_scenes':len(zero),'zero_elements':sum(len(r.xpath('.//*[@data-elem-id]')) for r in zero),'missing':sorted(missing),'html_bytes':len(result.encode())},ensure_ascii=False))
