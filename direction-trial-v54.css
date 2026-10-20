@@ -1,0 +1,4 @@
+/* Preserve the source prefix outside the desktop trial-step content width. */
+@media(min-width:961px){
+#bm #rec1130437531 .t550__col,#bm #rec999055506 .t550__col,#bm #rec1123692386 .t550__col{box-sizing:content-box}
+}
