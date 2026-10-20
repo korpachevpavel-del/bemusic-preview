@@ -1,0 +1,17 @@
+[
+  {
+    "page": "vokal-v-odincovo.html",
+    "steps": 3,
+    "text_equal": true
+  },
+  {
+    "page": "igra-na-gitare-v-odincovo.html",
+    "steps": 3,
+    "text_equal": true
+  },
+  {
+    "page": "igra-na-fortepiano-v-odincovo.html",
+    "steps": 3,
+    "text_equal": true
+  }
+]
