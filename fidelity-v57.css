@@ -1,0 +1,15 @@
+/* Native components: properties compared against the original at eight widths. */
+#bm .teacher-card h3,#bm .teacher-card p{color:#000}
+#bm .contact-native-text,#bm .contact-native-text a{color:#000}
+#bm .foot .footgrid>div>strong{font-weight:700;letter-spacing:1px}
+#bm .reviewbox p{font-weight:300}
+#bm .faq-section summary,#bm .faq-section .answer{color:#000}
+#bm .faq-section .faq-layout>div:first-child>p{color:#000;font-weight:600}
+#bm .quiz{color:#000}
+#bm .quiz h2{color:#1f1f1f}
+@media(min-width:641px){
+#bm .quiz h2{line-height:52px}
+#bm .quiz h3{line-height:1.23}
+#bm .quiz .image-choices label span{line-height:1.1}
+#bm.kids-page #rec1198996711 .t400__submit{font-size:16px}
+}
