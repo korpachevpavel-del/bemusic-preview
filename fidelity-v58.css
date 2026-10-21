@@ -16,3 +16,5 @@
 }
 @media(min-width:480px) and (max-width:639px){#bm .mobile-header nav>.directions-menu{left:calc(var(--bm-menu-center,50vw) + 2px - 200px)}}
 @media(min-width:640px) and (max-width:640px){#bm .mobile-header nav>.directions-menu{top:223px}}
+
+#bm .teacher-dialog h3 strong{font-weight:700}

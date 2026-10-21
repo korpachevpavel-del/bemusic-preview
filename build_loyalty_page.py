@@ -39,6 +39,6 @@ for name in ['loyalty-page-v47.js?v=47-1','menu-v33.js?v=4']:etree.SubElement(bo
 etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v55.css?v=55-1')
 etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v56.css?v=56-3')
 etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v57.css?v=57-2')
-etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v58.css?v=58-1')
+etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v58.css?v=58-2')
 (root/'programma-loyalnosti-be-music.html').write_text(html.tostring(page,encoding='unicode',doctype='<!doctype html>'))
 print('Built source-equivalent empty loyalty page')
