@@ -1,0 +1,18 @@
+/* Original directions tooltip: measured open states, desktop and mobile. */
+#bm .directions-menu{box-shadow:0 0 7px rgba(0,0,0,.2)}
+#bm .directions-menu::before{display:block;top:-6.5px;left:calc(50% - 6.5px);width:13px;height:13px}
+@media(min-width:641px){
+#bm .desktop-header .directions-menu{padding:18px 20px;transform:translateX(-32.5px)}
+#bm .desktop-header nav .directions-menu a{padding:0;margin:0;color:#222;line-height:1.35}
+#bm .desktop-header nav .directions-menu a+a{margin-top:12px}
+#bm .desktop-header nav .directions-menu a:hover,#bm .desktop-header nav .directions-menu a:focus-visible{color:#074ebc}
+}
+@media(min-width:641px) and (max-width:959px){#bm .desktop-header .directions-menu{top:53px}}
+@media(min-width:960px) and (max-width:1199px){#bm .desktop-header .directions-menu{top:75px}}
+@media(max-width:640px){
+#bm .mobile-header nav>.directions-menu{width:min(400px,calc(100vw - 20px));left:calc(var(--bm-menu-center,50vw) - min(200px,calc(50vw - 10px)));box-shadow:0 0 7px rgba(0,0,0,.2);text-align:center}
+#bm .mobile-header nav>.directions-menu a{text-align:center}
+#bm .mobile-header .directions-menu::before{display:block;background:#074ebc}
+}
+@media(min-width:480px) and (max-width:639px){#bm .mobile-header nav>.directions-menu{left:calc(var(--bm-menu-center,50vw) + 2px - 200px)}}
+@media(min-width:640px) and (max-width:640px){#bm .mobile-header nav>.directions-menu{top:223px}}
