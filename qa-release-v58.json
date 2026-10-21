@@ -1,0 +1,68 @@
+{
+  "pages": [
+    {
+      "file": "index.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    },
+    {
+      "file": "vokal-v-odincovo.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    },
+    {
+      "file": "igra-na-gitare-v-odincovo.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    },
+    {
+      "file": "igra-na-fortepiano-v-odincovo.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    },
+    {
+      "file": "kids.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    },
+    {
+      "file": "programma-loyalnosti-be-music.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    },
+    {
+      "file": "privacy.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    },
+    {
+      "file": "email.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    },
+    {
+      "file": "BEMUSIC_STANDALONE.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    },
+    {
+      "file": "VOCAL_STANDALONE.html",
+      "missingFiles": [],
+      "duplicateIds": [],
+      "phoneMismatches": []
+    }
+  ],
+  "manifestHashes": 163,
+  "zipEntries": 164,
+  "archiveBytes": 23951151,
+  "archiveSha256": "e32e8a393a09eb55b6945f14585f4e1635e263c0dfbb54c86d4d9253ea00d3ec"
+}
