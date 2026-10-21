@@ -36,7 +36,7 @@ for name,ids in [('privacy',['rec886479424','rec886479427']),('email',['rec88647
  etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v55.css?v=55-1')
  etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v56.css?v=56-3')
  etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v57.css?v=57-2')
- etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v58.css?v=58-2')
+ etree.SubElement(head,'link',rel='stylesheet',href='./fidelity-v58.css?v=58-4')
  (root/(name+'.html')).write_text(html.tostring(page,encoding='unicode',doctype='<!doctype html>'))
  if name=='privacy':
   for link in source.xpath('//head/link[@rel="stylesheet"]'):
