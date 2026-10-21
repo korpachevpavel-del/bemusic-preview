@@ -19,3 +19,5 @@
 #bm .teacher-dialog .teacher-uptitle{letter-spacing:2.5px}
 
 @media(min-width:641px) and (max-width:960px){#bm .teacher-dialog [data-dialog]{padding:30px}}
+
+#bm dialog.teacher-dialog.teacher-scroll[open]{overflow-y:scroll}
