@@ -1,0 +1,129 @@
+{
+  "release": "v58",
+  "publicCommit": "eb0aa1d96092a26c55e6f8ed75d071cacc907137",
+  "pagesWorkflow": {
+    "number": 191,
+    "url": "https://github.com/korpachevpavel-del/bemusic-preview/actions/runs/39589337811",
+    "status": "Success",
+    "duration": "2m 46s"
+  },
+  "menus": {
+    "cases": 80,
+    "items": 320,
+    "originalBaselineCases": 64,
+    "widths": [
+      320,
+      390,
+      480,
+      640,
+      768,
+      960,
+      1024,
+      1280
+    ],
+    "maxGeometryDeltaPx": 0.5,
+    "unexpectedStyleDifferences": 0,
+    "method": "Final preview states compared with previously observed original geometry; all eight frozen source reference files verified unchanged. Normal and hover colors use original CSS rules; text-transform uppercase confirmed in original inline styles. Aborted/closed/transient measurements excluded."
+  },
+  "biographies": {
+    "openCases": 140,
+    "pairedOriginalCases": 116,
+    "acceptedMissingOriginalTargetCases": 24,
+    "matchedDirectTextFragments": 1404,
+    "styleDifferences": 0,
+    "lostDialogClassCases": 0,
+    "widths": [
+      390,
+      1280
+    ]
+  },
+  "dialogTransitions": {
+    "bioToFormCases": 32,
+    "classFailures": 0,
+    "enabledSubmitCases": 0,
+    "filledPersonalInputs": 0,
+    "finalCleanupObserved": {
+      "page": "vocalstandalone",
+      "width": 1280,
+      "dialogOpen": false,
+      "dialogClass": "",
+      "bodyOverflow": "",
+      "htmlOverflow": "",
+      "focusedBio": "0"
+    }
+  },
+  "releaseValidation": {
+    "pages": [
+      {
+        "file": "index.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      },
+      {
+        "file": "vokal-v-odincovo.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      },
+      {
+        "file": "igra-na-gitare-v-odincovo.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      },
+      {
+        "file": "igra-na-fortepiano-v-odincovo.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      },
+      {
+        "file": "kids.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      },
+      {
+        "file": "programma-loyalnosti-be-music.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      },
+      {
+        "file": "privacy.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      },
+      {
+        "file": "email.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      },
+      {
+        "file": "BEMUSIC_STANDALONE.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      },
+      {
+        "file": "VOCAL_STANDALONE.html",
+        "missingFiles": [],
+        "duplicateIds": [],
+        "phoneMismatches": []
+      }
+    ],
+    "manifestHashes": 163,
+    "zipEntries": 164,
+    "archiveBytes": 23951151,
+    "archiveSha256": "e32e8a393a09eb55b6945f14585f4e1635e263c0dfbb54c86d4d9253ea00d3ec"
+  },
+  "limits": [
+    "Cloud Chrome; physical Safari/iPhone not tested.",
+    "Not a complete pixel or animation-frame identity claim.",
+    "Missing original biography targets retained as accepted working preview fallbacks.",
+    "Production unchanged; forms remain disabled."
+  ]
+}

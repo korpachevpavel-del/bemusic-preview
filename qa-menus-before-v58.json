@@ -1,0 +1,2725 @@
+[
+  {
+    "page": "home",
+    "width": 1280,
+    "source": {
+      "anchors": [
+        {
+          "parent": {
+            "h": 19,
+            "w": 135,
+            "x": 267.5,
+            "y": 25.5
+          },
+          "rect": {
+            "h": 19,
+            "w": 135,
+            "x": 267.5,
+            "y": 25.5
+          }
+        }
+      ],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 255,
+                "y": 88
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 37.78125,
+                "w": 160,
+                "x": 255,
+                "y": 118.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 255,
+                "y": 168.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 255,
+                "y": 199.5625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 166.453125,
+            "w": 200,
+            "x": 235,
+            "y": 70
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 1265
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 279.5,
+                "y": 85
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 279.5,
+                "y": 120.59375
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 279.5,
+                "y": 156.1875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 279.5,
+                "y": 191.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 172.375,
+            "w": 200,
+            "x": 267.5,
+            "y": 70
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.133) 0px 8px 25px 0px",
+            "color": "rgb(30, 30, 30)",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "16.5px",
+            "margin": "0px",
+            "padding": "15px 12px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 1265
+    }
+  },
+  {
+    "page": "home",
+    "width": 768,
+    "source": {
+      "anchors": [
+        {
+          "parent": {
+            "h": 19,
+            "w": 135,
+            "x": 242.5,
+            "y": 8.5
+          },
+          "rect": {
+            "h": 19,
+            "w": 135,
+            "x": 242.5,
+            "y": 8.5
+          }
+        }
+      ],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 230,
+                "y": 71
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 37.78125,
+                "w": 160,
+                "x": 230,
+                "y": 101.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 230,
+                "y": 151.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 230,
+                "y": 182.5625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 166.453125,
+            "w": 200,
+            "x": 210,
+            "y": 53
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 753
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 254.5,
+                "y": 145
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 254.5,
+                "y": 180.59375
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 254.5,
+                "y": 216.1875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 254.5,
+                "y": 251.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 172.375,
+            "w": 200,
+            "x": 242.5,
+            "y": 130
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.133) 0px 8px 25px 0px",
+            "color": "rgb(30, 30, 30)",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "13.2px",
+            "margin": "0px",
+            "padding": "15px 12px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 753
+    }
+  },
+  {
+    "page": "home",
+    "width": 960,
+    "source": {
+      "anchors": [
+        {
+          "parent": {
+            "h": 19,
+            "w": 135,
+            "x": 197.5,
+            "y": 30.5
+          },
+          "rect": {
+            "h": 19,
+            "w": 135,
+            "x": 197.5,
+            "y": 30.5
+          }
+        }
+      ],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 185,
+                "y": 93
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 37.78125,
+                "w": 160,
+                "x": 185,
+                "y": 123.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 185,
+                "y": 173.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 185,
+                "y": 204.5625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 166.453125,
+            "w": 200,
+            "x": 165,
+            "y": 75
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 945
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 209.5,
+                "y": 105
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 209.5,
+                "y": 140.59375
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 209.5,
+                "y": 176.1875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 209.5,
+                "y": 211.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 172.375,
+            "w": 200,
+            "x": 197.5,
+            "y": 90
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.133) 0px 8px 25px 0px",
+            "color": "rgb(30, 30, 30)",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "13.2px",
+            "margin": "0px",
+            "padding": "15px 12px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 945
+    }
+  },
+  {
+    "page": "home",
+    "width": 1024,
+    "source": {
+      "anchors": [
+        {
+          "parent": {
+            "h": 19,
+            "w": 135,
+            "x": 229.5,
+            "y": 30.5
+          },
+          "rect": {
+            "h": 19,
+            "w": 135,
+            "x": 229.5,
+            "y": 30.5
+          }
+        }
+      ],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 217,
+                "y": 93
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 37.78125,
+                "w": 160,
+                "x": 217,
+                "y": 123.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 217,
+                "y": 173.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 217,
+                "y": 204.5625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 166.453125,
+            "w": 200,
+            "x": 197,
+            "y": 75
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 1009
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 241.5,
+                "y": 105
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 241.5,
+                "y": 140.59375
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 241.5,
+                "y": 176.1875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 241.5,
+                "y": 211.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 172.375,
+            "w": 200,
+            "x": 229.5,
+            "y": 90
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.133) 0px 8px 25px 0px",
+            "color": "rgb(30, 30, 30)",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "13.2px",
+            "margin": "0px",
+            "padding": "15px 12px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 1009
+    }
+  },
+  {
+    "page": "loyalty",
+    "width": 768,
+    "source": {
+      "anchors": [
+        {
+          "parent": {
+            "h": 19,
+            "w": 135,
+            "x": 242.5,
+            "y": 8.5
+          },
+          "rect": {
+            "h": 19,
+            "w": 135,
+            "x": 242.5,
+            "y": 8.5
+          }
+        }
+      ],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 230,
+                "y": 71
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 37.78125,
+                "w": 160,
+                "x": 230,
+                "y": 101.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 230,
+                "y": 151.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 230,
+                "y": 182.5625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 166.453125,
+            "w": 200,
+            "x": 210,
+            "y": 53
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 753
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 254.5,
+                "y": 145
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 254.5,
+                "y": 180.59375
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 254.5,
+                "y": 216.1875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 254.5,
+                "y": 251.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(30, 30, 30)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 172.375,
+            "w": 200,
+            "x": 242.5,
+            "y": 130
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.133) 0px 8px 25px 0px",
+            "color": "rgb(30, 30, 30)",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "13.2px",
+            "margin": "0px",
+            "padding": "15px 12px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 753
+    }
+  },
+  {
+    "page": "privacy",
+    "width": 1280,
+    "source": {
+      "anchors": [
+        {
+          "parent": {
+            "h": 19,
+            "w": 135,
+            "x": 267.5,
+            "y": 25.5
+          },
+          "rect": {
+            "h": 19,
+            "w": 135,
+            "x": 267.5,
+            "y": 25.5
+          }
+        }
+      ],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 255,
+                "y": 88
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 37.78125,
+                "w": 160,
+                "x": 255,
+                "y": 118.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 255,
+                "y": 168.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 255,
+                "y": 199.5625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 166.453125,
+            "w": 200,
+            "x": 235,
+            "y": 70
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 1265
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 279.5,
+                "y": 85
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(7, 78, 188)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 279.5,
+                "y": 120.59375
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(7, 78, 188)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 279.5,
+                "y": 156.1875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(7, 78, 188)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 279.5,
+                "y": 191.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(7, 78, 188)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 172.375,
+            "w": 200,
+            "x": 267.5,
+            "y": 70
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.133) 0px 8px 25px 0px",
+            "color": "rgb(30, 30, 30)",
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "16.5px",
+            "margin": "0px",
+            "padding": "15px 12px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 1265
+    }
+  },
+  {
+    "page": "email",
+    "width": 960,
+    "source": {
+      "anchors": [
+        {
+          "parent": {
+            "h": 19,
+            "w": 135,
+            "x": 197.5,
+            "y": 30.5
+          },
+          "rect": {
+            "h": 19,
+            "w": 135,
+            "x": 197.5,
+            "y": 30.5
+          }
+        }
+      ],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 185,
+                "y": 93
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 37.78125,
+                "w": 160,
+                "x": 185,
+                "y": 123.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 185,
+                "y": 173.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 160,
+                "x": 185,
+                "y": 204.5625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(34, 34, 34)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 166.453125,
+            "w": 200,
+            "x": 165,
+            "y": 75
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 945
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 209.5,
+                "y": 105
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(7, 78, 188)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 209.5,
+                "y": 140.59375
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(7, 78, 188)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 209.5,
+                "y": 176.1875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(7, 78, 188)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 35.59375,
+                "w": 176,
+                "x": 209.5,
+                "y": 211.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(7, 78, 188)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "19.6px",
+                "margin": "0px",
+                "padding": "8px 0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 172.375,
+            "w": 200,
+            "x": 197.5,
+            "y": 90
+          },
+          "style": {
+            "background": "rgb(255, 255, 255)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.133) 0px 8px 25px 0px",
+            "color": "rgb(30, 30, 30)",
+            "fontSize": "12px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "13.2px",
+            "margin": "0px",
+            "padding": "15px 12px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 945
+    }
+  },
+  {
+    "page": "home",
+    "width": 320,
+    "source": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 260,
+                "x": 22,
+                "y": 323
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 260,
+                "x": 22,
+                "y": 353.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 260,
+                "x": 22,
+                "y": 384.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 260,
+                "x": 22,
+                "y": 415.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 147.5625,
+            "w": 300,
+            "x": 2,
+            "y": 305
+          },
+          "style": {
+            "background": "rgb(7, 78, 188)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 320
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 30,
+                "y": 320.25604248046875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 30,
+                "y": 351.16229248046875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 30,
+                "y": 382.0685424804687
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 30,
+                "y": 412.9747924804687
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 147.625,
+            "w": 300,
+            "x": 10,
+            "y": 302.25604248046875
+          },
+          "style": {
+            "background": "rgb(7, 78, 188)",
+            "borderRadius": "15px",
+            "boxShadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "18px 20px",
+            "textAlign": "left"
+          }
+        }
+      ],
+      "width": 320
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "source": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 330,
+                "x": 22,
+                "y": 323
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 330,
+                "x": 22,
+                "y": 353.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 330,
+                "x": 22,
+                "y": 384.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 330,
+                "x": 22,
+                "y": 415.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 147.5625,
+            "w": 370,
+            "x": 2,
+            "y": 305
+          },
+          "style": {
+            "background": "rgb(7, 78, 188)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 390
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 65,
+                "y": 309.06170654296875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 65,
+                "y": 339.96795654296875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 65,
+                "y": 370.8742065429687
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 65,
+                "y": 401.7804565429687
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 147.625,
+            "w": 300,
+            "x": 45,
+            "y": 291.06170654296875
+          },
+          "style": {
+            "background": "rgb(7, 78, 188)",
+            "borderRadius": "15px",
+            "boxShadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "18px 20px",
+            "textAlign": "left"
+          }
+        }
+      ],
+      "width": 390
+    }
+  },
+  {
+    "page": "home",
+    "width": 480,
+    "source": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 360,
+                "x": 54,
+                "y": 315
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 360,
+                "x": 54,
+                "y": 345.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 360,
+                "x": 54,
+                "y": 376.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 360,
+                "x": 54,
+                "y": 407.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 147.5625,
+            "w": 400,
+            "x": 34,
+            "y": 297
+          },
+          "style": {
+            "background": "rgb(7, 78, 188)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 480
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 110,
+                "y": 282.5505676269531
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 110,
+                "y": 313.4568176269531
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 110,
+                "y": 344.3630676269531
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 110,
+                "y": 375.2693176269531
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 147.625,
+            "w": 300,
+            "x": 90,
+            "y": 264.5505676269531
+          },
+          "style": {
+            "background": "rgb(7, 78, 188)",
+            "borderRadius": "15px",
+            "boxShadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "18px 20px",
+            "textAlign": "left"
+          }
+        }
+      ],
+      "width": 480
+    }
+  },
+  {
+    "page": "home",
+    "width": 640,
+    "source": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 360,
+                "x": 132,
+                "y": 326
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 360,
+                "x": 132,
+                "y": 356.890625
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 360,
+                "x": 132,
+                "y": 387.78125
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.890625,
+                "w": 360,
+                "x": 132,
+                "y": 418.671875
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "center"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 147.5625,
+            "w": 400,
+            "x": 112,
+            "y": 308
+          },
+          "style": {
+            "background": "rgb(7, 78, 188)",
+            "borderRadius": "15px",
+            "boxShadow": "rgba(0, 0, 0, 0.2) 0px 0px 7px 0px",
+            "color": "rgb(0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "textAlign": "center"
+          }
+        }
+      ],
+      "width": 640
+    },
+    "own": {
+      "anchors": [],
+      "menus": [
+        {
+          "links": [
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 190,
+                "y": 318.1812438964844
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ИГРА НА ГИТАРЕ"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 190,
+                "y": 349.0874938964844
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ИГРА НА ФОРТЕПИАНО"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 190,
+                "y": 379.9937438964844
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "ЗАНЯТИЯ ПО ВОКАЛУ"
+            },
+            {
+              "rect": {
+                "h": 18.90625,
+                "w": 260,
+                "x": 190,
+                "y": 410.8999938964844
+              },
+              "style": {
+                "background": "rgba(0, 0, 0, 0)",
+                "borderRadius": "0px",
+                "boxShadow": "none",
+                "color": "rgb(255, 255, 255)",
+                "fontSize": "14px",
+                "fontWeight": "400",
+                "letterSpacing": "normal",
+                "lineHeight": "18.9px",
+                "margin": "0px",
+                "padding": "0px",
+                "textAlign": "left"
+              },
+              "text": "BE MUSIC Kids"
+            }
+          ],
+          "rect": {
+            "h": 147.625,
+            "w": 300,
+            "x": 170,
+            "y": 300.1812438964844
+          },
+          "style": {
+            "background": "rgb(7, 78, 188)",
+            "borderRadius": "15px",
+            "boxShadow": "none",
+            "color": "rgb(255, 255, 255)",
+            "fontSize": "13px",
+            "fontWeight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "normal",
+            "margin": "0px",
+            "padding": "18px 20px",
+            "textAlign": "left"
+          }
+        }
+      ],
+      "width": 640
+    }
+  }
+]

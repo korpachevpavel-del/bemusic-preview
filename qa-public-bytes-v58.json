@@ -1,0 +1,72 @@
+{
+  "commit": "eb0aa1d96092a26c55e6f8ed75d071cacc907137",
+  "unchangedSourceReferences": [
+    {
+      "file": "qa-reference.html",
+      "sha256": "2d83c9ae8c51bbeec5cfdb137fa228c9b7ed3c42a34ac7f1ddb4fd1f94912ccc",
+      "unchanged": true
+    },
+    {
+      "file": "qa-vocal-reference.html",
+      "sha256": "e83edffe894e151d0ec6238e41866125c1ee5ec04918d69d784104963d8bda14",
+      "unchanged": true
+    },
+    {
+      "file": "qa-guitar-reference.html",
+      "sha256": "11d6eaf8a7224a064fabb25e51bc115f557b566c4f3ce8e535a3354c7483ef38",
+      "unchanged": true
+    },
+    {
+      "file": "qa-piano-reference.html",
+      "sha256": "bba98b017311154fe486f68e85361cf2c853891d3402e28e526042ffb4d9d99c",
+      "unchanged": true
+    },
+    {
+      "file": "qa-kids-reference.html",
+      "sha256": "cd0b71add7be510d8b0c3f7ebc085e5cecd38380d903553510d2927fa7be9fff",
+      "unchanged": true
+    },
+    {
+      "file": "qa-loyalty-reference.html",
+      "sha256": "e7de7aa57f357edbfe56fd1b127c9805e4f149a05bdbba0e78510cd220d3cdd6",
+      "unchanged": true
+    },
+    {
+      "file": "qa-privacy-reference.html",
+      "sha256": "5bd23512ac25fc51a5c269c3fb3ebb4f86e38707fc3980b4613ce090a8261ea0",
+      "unchanged": true
+    },
+    {
+      "file": "qa-email-reference.html",
+      "sha256": "233ac02ae624538dcf04fc601425acb61faa37c627ba0baf5544a1291f6009ff",
+      "unchanged": true
+    }
+  ],
+  "activeArchiveFilesEqual": 161,
+  "files": {
+    "BEMUSIC_RELEASE_v58.zip": {
+      "bytes": 23951151,
+      "sha256": "e32e8a393a09eb55b6945f14585f4e1635e263c0dfbb54c86d4d9253ea00d3ec"
+    },
+    "BEMUSIC_STANDALONE.html": {
+      "bytes": 10661345,
+      "sha256": "42980831c930bd6fb49d419a185aae7a9136c963149e1aad5336d38df61f476a"
+    },
+    "VOCAL_STANDALONE.html": {
+      "bytes": 6986379,
+      "sha256": "d3cc10f0907be2998dc6ad49400e66a7dc6db159c1154f9fa01f9683734e5e0b"
+    },
+    "BEMUSIC_AUDIT.md": {
+      "bytes": 63975,
+      "sha256": "c871601f4ee48d461b627037515e6623939ba11960e94815cc6f1a9e08ba7193"
+    },
+    "build_bemusic_release.py": {
+      "bytes": 8458,
+      "sha256": "0b6e64eaeed65e88717f56dc579895e8c866525d65c1c34729dea0654402cbec"
+    },
+    "fidelity-v58.css": {
+      "bytes": 1526,
+      "sha256": "11c77f6a84ce19da401a315a805646db2a02b8a4fa400015d1f893008cd6b1ac"
+    }
+  }
+}

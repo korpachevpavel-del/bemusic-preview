@@ -1,0 +1,2273 @@
+[
+  {
+    "page": "home",
+    "width": 390,
+    "index": 0,
+    "status": "source popup available",
+    "source": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Николай Мультюков"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Государственное музыкальное училище эстрадного и джазового искусства РАМ им. Гнесиных"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Владимирский государственный университет"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "«Estill Voice Training» 1, 2 levels (США)"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Дополнительные курсы EVT (\"Belting day\", \"Distortion tour\")"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Международная сертификация EFP - «Estill Voice Training» (США)"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Магистр исполнительского мастерства в области музыкально-театрального искусства"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Член федерации педагогов вокального искусства РФ;"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Член сообщества Estill Voice Trainer (США);"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Член мировой ассоциации голоса «DIVA & IATS» (США);"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Автор научных статей в области педагогики;"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Лауреат всероссийских и международных конкурсов;"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Ученики - лауреаты и дипломанты всероссийских и международных конкурсов, участники музыкальных телешоу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 10 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "0px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Николай Мультюков"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Государственное музыкальное училище эстрадного и джазового искусства РАМ им. Гнесиных"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Владимирский государственный университет"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "«Estill Voice Training» 1, 2 levels (США)"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Дополнительные курсы EVT (\"Belting day\", \"Distortion tour\")"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Международная сертификация EFP - «Estill Voice Training» (США)"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Магистр исполнительского мастерства в области музыкально-театрального искусства"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Член федерации педагогов вокального искусства РФ;"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Член сообщества Estill Voice Trainer (США);"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Член мировой ассоциации голоса «DIVA & IATS» (США);"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Автор научных статей в области педагогики;"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Лауреат всероссийских и международных конкурсов;"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Ученики - лауреаты и дипломанты всероссийских и международных конкурсов, участники музыкальных телешоу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 10 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 16,
+      "differences": []
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "index": 1,
+    "status": "source popup available",
+    "source": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "АНТОН ОРЛОВ"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Институт Современного Искусства, Эстрадно-джазовое пение."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Московский Городской Педагогический Университет, Эстрадно-джазовое пение."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Участник проекта «Песни» (1 сезон) на ТНТ."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Полуфиналист проекта «Молодые ветра» на НАШЕм Радио."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Певец и автор песен."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт работы педагогом более 7 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "0px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "АНТОН ОРЛОВ"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Институт Современного Искусства, Эстрадно-джазовое пение."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Московский Городской Педагогический Университет, Эстрадно-джазовое пение."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Участник проекта «Песни» (1 сезон) на ТНТ."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Полуфиналист проекта «Молодые ветра» на НАШЕм Радио."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Певец и автор песен."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт работы педагогом более 7 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 9,
+      "differences": []
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "index": 2,
+    "status": "source popup available",
+    "source": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу для взрослых и детей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Катерина Илич"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Композитор, продюсер"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "МПГУ музыкальный факультет 2006 г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Школа телевидения \"Останкино\" 2016 г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Школа телевидения \"Hello TV\" Волгоград 2015 г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Школа продюсирования Лос-Анджелес \"Начало\" Спец курс онлайн 2020г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Соавтор и создатель светского мюзикла \"Иллюзия Любви\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Более 15 лет опыта работы в Российском шоу- бизнесе, продюсировании концертов."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Коуч по открытию и развития голоса."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Победитель Международного музыкального конкурса \" Музыка без границ\" Гранд- При 2004г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Победитель Международного фестиваля \"Таланты\" Болгария 2003 г."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Победитель конкурса Миссис красоты и таланта Сочи 2021 г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания 7 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "48px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Наставник по вокалу для взрослых и детей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "900",
+        "letterSpacing": "normal",
+        "lineHeight": "35.2px",
+        "text": "Катерина Илич"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Композитор, продюсер"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "МПГУ музыкальный факультет 2006 г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Школа телевидения \"Останкино\" 2016 г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Школа телевидения \"Hello TV\" Волгоград 2015 г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Школа продюсирования Лос-Анджелес \"Начало\" Спец курс онлайн 2020г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Соавтор и создатель светского мюзикла \"Иллюзия Любви\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Более 15 лет опыта работы в Российском шоу- бизнесе, продюсировании концертов."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Коуч по открытию и развития голоса."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Победитель Международного музыкального конкурса \" Музыка без границ\" Гранд- При 2004г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Победитель Международного фестиваля \"Таланты\" Болгария 2003 г."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Победитель конкурса Миссис красоты и таланта Сочи 2021 г"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Опыт преподавания 7 лет"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 15,
+      "differences": [
+        {
+          "text": "Наставник по вокалу для взрослых и детей",
+          "diffs": [
+            {
+              "prop": "fontSize",
+              "source": "18px",
+              "own": "16px"
+            },
+            {
+              "prop": "fontWeight",
+              "source": "600",
+              "own": "400"
+            },
+            {
+              "prop": "lineHeight",
+              "source": "normal",
+              "own": "25.6px"
+            },
+            {
+              "prop": "letterSpacing",
+              "source": "2.5px",
+              "own": "normal"
+            }
+          ]
+        },
+        {
+          "text": "Катерина Илич",
+          "diffs": [
+            {
+              "prop": "fontWeight",
+              "source": "700",
+              "own": "900"
+            },
+            {
+              "prop": "lineHeight",
+              "source": "25.74px",
+              "own": "35.2px"
+            }
+          ]
+        },
+        {
+          "text": "Композитор, продюсер",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "МПГУ музыкальный факультет 2006 г",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Школа телевидения \"Останкино\" 2016 г",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Школа телевидения \"Hello TV\" Волгоград 2015 г",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Школа продюсирования Лос-Анджелес \"Начало\" Спец курс онлайн 2020г",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Соавтор и создатель светского мюзикла \"Иллюзия Любви\"",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Более 15 лет опыта работы в Российском шоу- бизнесе, продюсировании концертов.",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Коуч по открытию и развития голоса.",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Победитель Международного музыкального конкурса \" Музыка без границ\" Гранд- При 2004г",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Победитель Международного фестиваля \"Таланты\" Болгария 2003 г.",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Победитель конкурса Миссис красоты и таланта Сочи 2021 г",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Опыт преподавания 7 лет",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "ЗАПИСАТЬСЯ НА УРОК",
+          "diffs": [
+            {
+              "prop": "fontSize",
+              "source": "15px",
+              "own": "16px"
+            },
+            {
+              "prop": "color",
+              "source": "rgb(255, 255, 255)",
+              "own": "rgb(0, 0, 0)"
+            },
+            {
+              "prop": "lineHeight",
+              "source": "21px",
+              "own": "25.6px"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "index": 3,
+    "status": "source popup available",
+    "source": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Светлана Бадалян"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "ДМШИ - 7 лет по классу фортепиано"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Образование- высшее. Санкт Петербургский государственный университет культуры искусств, факультет музыкального искусства эстрады, специальность: концертный певец, солист ансамбля, преподаватель"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Участие и победа в межрегиональных и международных фестивалях и конкурсах сольно и в составе народного самодеятельного коллектива"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Член жюри фестиваля искусств « Шаг на сцену» Санкт-Петербург"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Сертификаты о повышении квалификации в Школе здорового голоса Российской общественной академии голоса Л.Б Рудина"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Свидетельство о прохождении курса «Целостность движения и звучания музыканта» Сафаровой И.Э. (преподаватель психотерапевтической методики системной и телесно- ориентированной терапии)"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Проходила обучение в школе biophonics"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 10 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "0px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Светлана Бадалян"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "ДМШИ - 7 лет по классу фортепиано"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Образование- высшее. Санкт Петербургский государственный университет культуры искусств, факультет музыкального искусства эстрады, специальность: концертный певец, солист ансамбля, преподаватель"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Участие и победа в межрегиональных и международных фестивалях и конкурсах сольно и в составе народного самодеятельного коллектива"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Член жюри фестиваля искусств « Шаг на сцену» Санкт-Петербург"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Сертификаты о повышении квалификации в Школе здорового голоса Российской общественной академии голоса Л.Б Рудина"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Свидетельство о прохождении курса «Целостность движения и звучания музыканта» Сафаровой И.Э. (преподаватель психотерапевтической методики системной и телесно- ориентированной терапии)"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Проходила обучение в школе biophonics"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 10 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 11,
+      "differences": []
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "index": 4,
+    "status": "source popup available",
+    "source": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу для взрослых и детей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Мария Епифанова"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "8 лет ДМШ №1 г. Челябинска по классу домра"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Институт Современного Искусства, Москва. Музыкальное искусство эстрады"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Прошла обучение на семинаре - практикуме «МОЙ ГОЛОС. Технологии развития и охраны голоса»"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Сертификат об участии в профессионально ориентированном образовательном мероприятии «Школа здорового голоса» автор Л.Б. Рудин"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Имеет множество свидетельств о прохождении мастер-классов в рамках фестивалей АРТ-СОСТАВ"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Лауреат премии Губернатора Челябинской области за высокие заслуги в творческой деятельности"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Обладатель Гран-при и лауреат различных вокальных конкурсов и фестивалей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Выступала на одной сцене с артистами эстрады: Александр Олешко, трибьют группы ABBA, Виктория Дайнеко, ВИА Ариэль и тд."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 5 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "0px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу для взрослых и детей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Мария Епифанова"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "8 лет ДМШ №1 г. Челябинска по классу домра"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Институт Современного Искусства, Москва. Музыкальное искусство эстрады"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Прошла обучение на семинаре - практикуме «МОЙ ГОЛОС. Технологии развития и охраны голоса»"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Сертификат об участии в профессионально ориентированном образовательном мероприятии «Школа здорового голоса» автор Л.Б. Рудин"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Имеет множество свидетельств о прохождении мастер-классов в рамках фестивалей АРТ-СОСТАВ"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Лауреат премии Губернатора Челябинской области за высокие заслуги в творческой деятельности"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Обладатель Гран-при и лауреат различных вокальных конкурсов и фестивалей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Выступала на одной сцене с артистами эстрады: Александр Олешко, трибьют группы ABBA, Виктория Дайнеко, ВИА Ариэль и тд."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 5 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 12,
+      "differences": []
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "index": 5,
+    "status": "source popup available",
+    "source": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Артём Акчурин"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Высшее образование: Институт Современного Искусства, отделение эстрадно-джазового пения"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Курсы повышения квалификации в \"Академии современной музыки\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Участник кавер-бэндов"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Лауреат московских и всероссийских вокальных конкурсов и фестивалей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 3 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "48px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "900",
+        "letterSpacing": "normal",
+        "lineHeight": "35.2px",
+        "text": "Артём Акчурин"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Высшее образование: Институт Современного Искусства, отделение эстрадно-джазового пения"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Курсы повышения квалификации в \"Академии современной музыки\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Участник кавер-бэндов"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Лауреат московских и всероссийских вокальных конкурсов и фестивалей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "Опыт преподавания более 3 лет"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "25.6px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 8,
+      "differences": [
+        {
+          "text": "Наставник по вокалу",
+          "diffs": [
+            {
+              "prop": "fontSize",
+              "source": "18px",
+              "own": "16px"
+            },
+            {
+              "prop": "fontWeight",
+              "source": "600",
+              "own": "400"
+            },
+            {
+              "prop": "lineHeight",
+              "source": "normal",
+              "own": "25.6px"
+            },
+            {
+              "prop": "letterSpacing",
+              "source": "2.5px",
+              "own": "normal"
+            }
+          ]
+        },
+        {
+          "text": "Артём Акчурин",
+          "diffs": [
+            {
+              "prop": "fontWeight",
+              "source": "700",
+              "own": "900"
+            },
+            {
+              "prop": "lineHeight",
+              "source": "25.74px",
+              "own": "35.2px"
+            }
+          ]
+        },
+        {
+          "text": "Высшее образование: Институт Современного Искусства, отделение эстрадно-джазового пения",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Курсы повышения квалификации в \"Академии современной музыки\"",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Участник кавер-бэндов",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Лауреат московских и всероссийских вокальных конкурсов и фестивалей",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "Опыт преподавания более 3 лет",
+          "diffs": [
+            {
+              "prop": "lineHeight",
+              "source": "23.2px",
+              "own": "25.6px"
+            }
+          ]
+        },
+        {
+          "text": "ЗАПИСАТЬСЯ НА УРОК",
+          "diffs": [
+            {
+              "prop": "fontSize",
+              "source": "15px",
+              "own": "16px"
+            },
+            {
+              "prop": "color",
+              "source": "rgb(255, 255, 255)",
+              "own": "rgb(0, 0, 0)"
+            },
+            {
+              "prop": "lineHeight",
+              "source": "21px",
+              "own": "25.6px"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "index": 6,
+    "status": "source popup available",
+    "source": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Дарья Дубовицкая"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Институт Современного Искусства, Эстрадно-джазовое пение."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Саратовское Областное Училище Искусств, Эстрадно-джазовое пение"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Участница проекта «Голос» (1 сезон) на Первом канале"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Участница проекта «Я вижу твой голос» на канале Россия 1"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Певица и автор песен"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Работала певицей в г. Нью-Йорке, работала в сотрудничестве с американским продюсером и диджеем Тоддом Терри"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 11 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "0px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по вокалу"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Дарья Дубовицкая"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Институт Современного Искусства, Эстрадно-джазовое пение."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Саратовское Областное Училище Искусств, Эстрадно-джазовое пение"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Участница проекта «Голос» (1 сезон) на Первом канале"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Участница проекта «Я вижу твой голос» на канале Россия 1"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Певица и автор песен"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Работала певицей в г. Нью-Йорке, работала в сотрудничестве с американским продюсером и диджеем Тоддом Терри"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 11 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 10,
+      "differences": []
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "index": 7,
+    "status": "source popup available",
+    "source": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по игре на фортепиано для взрослых и детей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Анна Майкоглуян"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "ОГОУ СПО «РГУИ» 2005г. Кафедра специального фортепиано. Квалификация - преподаватель игры на фортепиано, артист ансамбля, концертмейстер."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "ГОУ ВПО РГЭУ «РИНХ» 2010г."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Лауреат международного конкурса «Будущее планеты» 2003г."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Приз зрительских симпатий международного конкурса «Надежды Европы» 2004 г."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "С 2003 г. по 2010 г. Артист Ростовского Государственного Музыкального театра."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Автор курса быстрого освоения инструмента."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Ученики взрослые и дети, дипломанты и лауреаты различных музыкальных конкурсов."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания 20 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "0px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по игре на фортепиано для взрослых и детей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Анна Майкоглуян"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "ОГОУ СПО «РГУИ» 2005г. Кафедра специального фортепиано. Квалификация - преподаватель игры на фортепиано, артист ансамбля, концертмейстер."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "ГОУ ВПО РГЭУ «РИНХ» 2010г."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Лауреат международного конкурса «Будущее планеты» 2003г."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Приз зрительских симпатий международного конкурса «Надежды Европы» 2004 г."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "С 2003 г. по 2010 г. Артист Ростовского Государственного Музыкального театра."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Автор курса быстрого освоения инструмента."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Ученики взрослые и дети, дипломанты и лауреаты различных музыкальных конкурсов."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания 20 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 11,
+      "differences": []
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "index": 8,
+    "status": "Original card points to absent #popup:teacher9; corrected preview biography preserved",
+    "source": [],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "0px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по игре на фортепиано для взрослых и детей"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Мария Деева"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "УО «Гродненский государственный музыкальный колледж» 2021 г. Специализация - инструментальное исполнительство (фортепиано). Квалификация - учитель по классу фортепиано, артист оркестра, ансамбля, концертмейстер."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "УО «Белорусский государственный педагогический университет имени М. Танка»; Факультет эстетического образования (заочная форма)"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Лауреат VI Фестиваля пианистов имени сестер Франкевич 2019 год. (Польша)Лауреат II степени Республиканского открытого конкурса концертмейстерского мастерства им. В. С. Савина. (Беларусь)"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Знания в области музыкальной психологии"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания более 3,5 лет"
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 0,
+      "differences": []
+    }
+  },
+  {
+    "page": "home",
+    "width": 390,
+    "index": 9,
+    "status": "source popup available",
+    "source": [
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по игре на гитаре для детей и взрослых"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Елена Боченкова"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Образование: Большевяземская детская школа искусств, специальность гитара 8 лет, предпрофессиональный класс/ Сольный артист, артист ансамбля"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Институт Современного искусства, специальность: эстрадно-джазовое пение."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Владение классической гитарой, электрогитарой, басс гитарой"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Ритм гитара в ансамбле на протяжении 4х лет"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Обладательница лауреатов и дипломов различных инструментальных конкурсов и концертов:"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Межзональный открытый фестиваль-конкурс \"Звёзды Краснознаменска\" лауреат 1 степени."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Диплом лауреата 3 степени Московского областного конкурса \"Играют выпускники\" в номинации \"Исполнение сольной программы\" \"Гитара\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Диплом лауреата 3 степени Московского областного открытого фестиваля - конкурса \"Солнечный круг\" в номинации \"Гитара. Соло\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Межзональный фестиваль-конкурс \"Зажги свою звезду\". Специальный приз \"Лучший ансамбль\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Межзональный фестиваль-конкурс \"Зажги свою звезду\". Номинация \"Эстрадные инструментальные ансамбли\" - эстрадный ансамбль \"Джем\" - лауреат 1 степени"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания 2 года."
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "own": [
+      {
+        "color": "rgb(7, 78, 188)",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "0px",
+        "text": "×"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "letterSpacing": "2.5px",
+        "lineHeight": "normal",
+        "text": "Наставник по игре на гитаре для детей и взрослых"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "22px",
+        "fontWeight": "700",
+        "letterSpacing": "normal",
+        "lineHeight": "25.74px",
+        "text": "Елена Боченкова"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Образование: Большевяземская детская школа искусств, специальность гитара 8 лет, предпрофессиональный класс/ Сольный артист, артист ансамбля"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Институт Современного искусства, специальность: эстрадно-джазовое пение."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Владение классической гитарой, электрогитарой, басс гитарой"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Ритм гитара в ансамбле на протяжении 4х лет"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Обладательница лауреатов и дипломов различных инструментальных конкурсов и концертов:"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Межзональный открытый фестиваль-конкурс \"Звёзды Краснознаменска\" лауреат 1 степени."
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Диплом лауреата 3 степени Московского областного конкурса \"Играют выпускники\" в номинации \"Исполнение сольной программы\" \"Гитара\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Диплом лауреата 3 степени Московского областного открытого фестиваля - конкурса \"Солнечный круг\" в номинации \"Гитара. Соло\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Межзональный фестиваль-конкурс \"Зажги свою звезду\". Специальный приз \"Лучший ансамбль\""
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "-Межзональный фестиваль-конкурс \"Зажги свою звезду\". Номинация \"Эстрадные инструментальные ансамбли\" - эстрадный ансамбль \"Джем\" - лауреат 1 степени"
+      },
+      {
+        "color": "rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "23.2px",
+        "text": "Опыт преподавания 2 года."
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "21px",
+        "text": "ЗАПИСАТЬСЯ НА УРОК"
+      }
+    ],
+    "comparison": {
+      "matched": 14,
+      "differences": []
+    }
+  }
+]
