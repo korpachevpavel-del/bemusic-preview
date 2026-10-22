@@ -1,0 +1,4306 @@
+[
+  {
+    "page": "guitar",
+    "width": 320,
+    "index": 6,
+    "source": {
+      "action": {
+        "clientHeight": 71,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "normal",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 192.46875
+      },
+      "button": {
+        "clientHeight": 71,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "21px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 162,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 162.3125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 162,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение.СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 262.03125
+          },
+          "text": "СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 301,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 301.4375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 301,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканалеУчастницапроекта«Явижутвойголос»наканалеРоссия1ПевицаиавторпесенРаботалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканале"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 457.53125
+          },
+          "text": "Участницапроекта«Явижутвойголос»наканалеРоссия1"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 527.09375
+          },
+          "text": "Певицаиавторпесен"
+        },
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 550.28125
+          },
+          "text": "Работалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "normal",
+        "scrollHeight": 941,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 320,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 51,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 51.46875,
+        "lineHeight": "21.06px",
+        "scrollHeight": 52,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 133
+      },
+      "titleText": "Дарья Дубовицкая",
+      "uptitle": {
+        "clientHeight": 42,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 42,
+        "lineHeight": "normal",
+        "scrollHeight": 42,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 811,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 810.96875,
+        "lineHeight": "normal",
+        "scrollHeight": 811,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 265,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "preview": {
+      "action": {
+        "clientHeight": 71,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "25.6px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 192.46875
+      },
+      "button": {
+        "clientHeight": 71,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "21px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 162,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 162.3125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 162,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение.СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 262.03125
+          },
+          "text": "СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 301,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 301.4375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 301,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканалеУчастницапроекта«Явижутвойголос»наканалеРоссия1ПевицаиавторпесенРаботалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканале"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 457.53125
+          },
+          "text": "Участницапроекта«Явижутвойголос»наканалеРоссия1"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 527.09375
+          },
+          "text": "Певицаиавторпесен"
+        },
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 550.28125
+          },
+          "text": "Работалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "25.6px",
+        "scrollHeight": 941,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 320,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 51,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 51.46875,
+        "lineHeight": "21.06px",
+        "scrollHeight": 52,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 133
+      },
+      "titleText": "Дарья Дубовицкая",
+      "uptitle": {
+        "clientHeight": 42,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 42,
+        "lineHeight": "normal",
+        "scrollHeight": 42,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 811,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 810.96875,
+        "lineHeight": "25.6px",
+        "scrollHeight": 811,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 265,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "diffs": []
+  },
+  {
+    "page": "guitar",
+    "width": 390,
+    "index": 7,
+    "source": {
+      "action": {
+        "clientHeight": 50,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "normal",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 780.234375
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 187.734375
+      },
+      "button": {
+        "clientHeight": 50,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "21px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 263.71875,
+        "x": 55.640625,
+        "y": 780.234375
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер.ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 116,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 115.9375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 116,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 303.671875
+          },
+          "text": "ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 348,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 347.8125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 348,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г.Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г.С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра.Авторкурсабыстрогоосвоенияинструмента.Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 429.609375
+          },
+          "text": "Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 499.171875
+          },
+          "text": "С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра."
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 568.734375
+          },
+          "text": "Авторкурсабыстрогоосвоенияинструмента."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 615.109375
+          },
+          "text": "Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "normal",
+        "scrollHeight": 915,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 390,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 26,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 25.734375,
+        "lineHeight": "21.06px",
+        "scrollHeight": 26,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 154
+      },
+      "titleText": "Анна Майкоглуян",
+      "uptitle": {
+        "clientHeight": 63,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 63,
+        "lineHeight": "normal",
+        "scrollHeight": 63,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 785,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 785.234375,
+        "lineHeight": "normal",
+        "scrollHeight": 785,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 335,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "preview": {
+      "action": {
+        "clientHeight": 50,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "25.6px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 780.234375
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 187.734375
+      },
+      "button": {
+        "clientHeight": 50,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "21px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 263.71875,
+        "x": 55.640625,
+        "y": 780.234375
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер.ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 116,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 115.9375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 116,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 303.671875
+          },
+          "text": "ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 348,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 347.8125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 348,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г.Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г.С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра.Авторкурсабыстрогоосвоенияинструмента.Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 429.609375
+          },
+          "text": "Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 499.171875
+          },
+          "text": "С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра."
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 568.734375
+          },
+          "text": "Авторкурсабыстрогоосвоенияинструмента."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 615.109375
+          },
+          "text": "Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "25.6px",
+        "scrollHeight": 915,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 390,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 26,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 25.734375,
+        "lineHeight": "21.06px",
+        "scrollHeight": 26,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 154
+      },
+      "titleText": "Анна Майкоглуян",
+      "uptitle": {
+        "clientHeight": 63,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 63,
+        "lineHeight": "normal",
+        "scrollHeight": 63,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 785,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 785.234375,
+        "lineHeight": "25.6px",
+        "scrollHeight": 785,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 335,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "diffs": []
+  },
+  {
+    "page": "piano",
+    "width": 320,
+    "index": 6,
+    "source": {
+      "action": {
+        "clientHeight": 71,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "normal",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 192.46875
+      },
+      "button": {
+        "clientHeight": 71,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "21px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 162,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 162.3125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 162,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение.СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 262.03125
+          },
+          "text": "СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 301,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 301.4375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 301,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканалеУчастницапроекта«Явижутвойголос»наканалеРоссия1ПевицаиавторпесенРаботалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканале"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 457.53125
+          },
+          "text": "Участницапроекта«Явижутвойголос»наканалеРоссия1"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 527.09375
+          },
+          "text": "Певицаиавторпесен"
+        },
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 550.28125
+          },
+          "text": "Работалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "normal",
+        "scrollHeight": 941,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 320,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 51,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 51.46875,
+        "lineHeight": "21.06px",
+        "scrollHeight": 52,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 133
+      },
+      "titleText": "Дарья Дубовицкая",
+      "uptitle": {
+        "clientHeight": 42,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 42,
+        "lineHeight": "normal",
+        "scrollHeight": 42,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 811,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 810.96875,
+        "lineHeight": "normal",
+        "scrollHeight": 811,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 265,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "preview": {
+      "action": {
+        "clientHeight": 71,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "25.6px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 192.46875
+      },
+      "button": {
+        "clientHeight": 71,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "21px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 162,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 162.3125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 162,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение.СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 262.03125
+          },
+          "text": "СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 301,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 301.4375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 301,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканалеУчастницапроекта«Явижутвойголос»наканалеРоссия1ПевицаиавторпесенРаботалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканале"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 457.53125
+          },
+          "text": "Участницапроекта«Явижутвойголос»наканалеРоссия1"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 527.09375
+          },
+          "text": "Певицаиавторпесен"
+        },
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 550.28125
+          },
+          "text": "Работалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "25.6px",
+        "scrollHeight": 941,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 320,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 51,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 51.46875,
+        "lineHeight": "21.06px",
+        "scrollHeight": 52,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 133
+      },
+      "titleText": "Дарья Дубовицкая",
+      "uptitle": {
+        "clientHeight": 42,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 42,
+        "lineHeight": "normal",
+        "scrollHeight": 42,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 811,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 810.96875,
+        "lineHeight": "25.6px",
+        "scrollHeight": 811,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 265,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "diffs": []
+  },
+  {
+    "page": "piano",
+    "width": 390,
+    "index": 7,
+    "source": {
+      "action": {
+        "clientHeight": 50,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "normal",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 780.234375
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 187.734375
+      },
+      "button": {
+        "clientHeight": 50,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "21px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 263.71875,
+        "x": 55.640625,
+        "y": 780.234375
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер.ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 116,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 115.9375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 116,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 303.671875
+          },
+          "text": "ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 348,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 347.8125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 348,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г.Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г.С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра.Авторкурсабыстрогоосвоенияинструмента.Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 429.609375
+          },
+          "text": "Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 499.171875
+          },
+          "text": "С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра."
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 568.734375
+          },
+          "text": "Авторкурсабыстрогоосвоенияинструмента."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 615.109375
+          },
+          "text": "Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "normal",
+        "scrollHeight": 915,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 390,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 26,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 25.734375,
+        "lineHeight": "21.06px",
+        "scrollHeight": 26,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 154
+      },
+      "titleText": "Анна Майкоглуян",
+      "uptitle": {
+        "clientHeight": 63,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 63,
+        "lineHeight": "normal",
+        "scrollHeight": 63,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 785,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 785.234375,
+        "lineHeight": "normal",
+        "scrollHeight": 785,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 335,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "preview": {
+      "action": {
+        "clientHeight": 50,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "25.6px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 780.234375
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 187.734375
+      },
+      "button": {
+        "clientHeight": 50,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "21px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 263.71875,
+        "x": 55.640625,
+        "y": 780.234375
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер.ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 116,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 115.9375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 116,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 303.671875
+          },
+          "text": "ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 348,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 347.8125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 348,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г.Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г.С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра.Авторкурсабыстрогоосвоенияинструмента.Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 429.609375
+          },
+          "text": "Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 499.171875
+          },
+          "text": "С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра."
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 568.734375
+          },
+          "text": "Авторкурсабыстрогоосвоенияинструмента."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 615.109375
+          },
+          "text": "Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "25.6px",
+        "scrollHeight": 915,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 390,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 26,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 25.734375,
+        "lineHeight": "21.06px",
+        "scrollHeight": 26,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 154
+      },
+      "titleText": "Анна Майкоглуян",
+      "uptitle": {
+        "clientHeight": 63,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 63,
+        "lineHeight": "normal",
+        "scrollHeight": 63,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 785,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 785.234375,
+        "lineHeight": "25.6px",
+        "scrollHeight": 785,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 335,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "diffs": []
+  },
+  {
+    "page": "kids",
+    "width": 320,
+    "index": 6,
+    "source": {
+      "action": {
+        "clientHeight": 71,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "normal",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 192.46875
+      },
+      "button": {
+        "clientHeight": 71,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "21px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 162,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 162.3125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 162,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение.СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 262.03125
+          },
+          "text": "СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 301,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 301.4375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 301,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканалеУчастницапроекта«Явижутвойголос»наканалеРоссия1ПевицаиавторпесенРаботалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканале"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 457.53125
+          },
+          "text": "Участницапроекта«Явижутвойголос»наканалеРоссия1"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 527.09375
+          },
+          "text": "Певицаиавторпесен"
+        },
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 550.28125
+          },
+          "text": "Работалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "normal",
+        "scrollHeight": 941,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 320,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 51,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 51.46875,
+        "lineHeight": "21.06px",
+        "scrollHeight": 52,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 133
+      },
+      "titleText": "Дарья Дубовицкая",
+      "uptitle": {
+        "clientHeight": 42,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 42,
+        "lineHeight": "normal",
+        "scrollHeight": 42,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 811,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 810.96875,
+        "lineHeight": "normal",
+        "scrollHeight": 811,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 265,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "preview": {
+      "action": {
+        "clientHeight": 71,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "25.6px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 192.46875
+      },
+      "button": {
+        "clientHeight": 71,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "21px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 162,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 162.3125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 162,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение.СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 262.03125
+          },
+          "text": "СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 301,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 301.4375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 301,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканалеУчастницапроекта«Явижутвойголос»наканалеРоссия1ПевицаиавторпесенРаботалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканале"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 457.53125
+          },
+          "text": "Участницапроекта«Явижутвойголос»наканалеРоссия1"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 527.09375
+          },
+          "text": "Певицаиавторпесен"
+        },
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 550.28125
+          },
+          "text": "Работалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "25.6px",
+        "scrollHeight": 941,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 320,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 51,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 51.46875,
+        "lineHeight": "21.06px",
+        "scrollHeight": 52,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 133
+      },
+      "titleText": "Дарья Дубовицкая",
+      "uptitle": {
+        "clientHeight": 42,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 42,
+        "lineHeight": "normal",
+        "scrollHeight": 42,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 811,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 810.96875,
+        "lineHeight": "25.6px",
+        "scrollHeight": 811,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 265,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "diffs": []
+  },
+  {
+    "page": "kids",
+    "width": 390,
+    "index": 7,
+    "source": {
+      "action": {
+        "clientHeight": 50,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "normal",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 780.234375
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 187.734375
+      },
+      "button": {
+        "clientHeight": 50,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "21px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 263.71875,
+        "x": 55.640625,
+        "y": 780.234375
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер.ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 116,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 115.9375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 116,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 303.671875
+          },
+          "text": "ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 348,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 347.8125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 348,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г.Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г.С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра.Авторкурсабыстрогоосвоенияинструмента.Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 429.609375
+          },
+          "text": "Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 499.171875
+          },
+          "text": "С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра."
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 568.734375
+          },
+          "text": "Авторкурсабыстрогоосвоенияинструмента."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 615.109375
+          },
+          "text": "Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "normal",
+        "scrollHeight": 915,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 390,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 26,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 25.734375,
+        "lineHeight": "21.06px",
+        "scrollHeight": 26,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 154
+      },
+      "titleText": "Анна Майкоглуян",
+      "uptitle": {
+        "clientHeight": 63,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 63,
+        "lineHeight": "normal",
+        "scrollHeight": 63,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 785,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 785.234375,
+        "lineHeight": "normal",
+        "scrollHeight": 785,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 335,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "preview": {
+      "action": {
+        "clientHeight": 50,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "25.6px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 780.234375
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 187.734375
+      },
+      "button": {
+        "clientHeight": 50,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "21px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 263.71875,
+        "x": 55.640625,
+        "y": 780.234375
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер.ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 116,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 115.9375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 116,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 303.671875
+          },
+          "text": "ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 348,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 347.8125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 348,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г.Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г.С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра.Авторкурсабыстрогоосвоенияинструмента.Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 429.609375
+          },
+          "text": "Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 499.171875
+          },
+          "text": "С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра."
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 568.734375
+          },
+          "text": "Авторкурсабыстрогоосвоенияинструмента."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 615.109375
+          },
+          "text": "Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "25.6px",
+        "scrollHeight": 915,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 390,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 26,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 25.734375,
+        "lineHeight": "21.06px",
+        "scrollHeight": 26,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 154
+      },
+      "titleText": "Анна Майкоглуян",
+      "uptitle": {
+        "clientHeight": 63,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 63,
+        "lineHeight": "normal",
+        "scrollHeight": 63,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 785,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 785.234375,
+        "lineHeight": "25.6px",
+        "scrollHeight": 785,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 335,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "diffs": []
+  },
+  {
+    "page": "standalone",
+    "width": 320,
+    "index": 6,
+    "source": {
+      "action": {
+        "clientHeight": 71,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "normal",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 192.46875
+      },
+      "button": {
+        "clientHeight": 71,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "21px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 162,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 162.3125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 162,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение.СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 262.03125
+          },
+          "text": "СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 301,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 301.4375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 301,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканалеУчастницапроекта«Явижутвойголос»наканалеРоссия1ПевицаиавторпесенРаботалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканале"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 457.53125
+          },
+          "text": "Участницапроекта«Явижутвойголос»наканалеРоссия1"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 527.09375
+          },
+          "text": "Певицаиавторпесен"
+        },
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 550.28125
+          },
+          "text": "Работалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "normal",
+        "scrollHeight": 941,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 320,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 51,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 51.46875,
+        "lineHeight": "21.06px",
+        "scrollHeight": 52,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 133
+      },
+      "titleText": "Дарья Дубовицкая",
+      "uptitle": {
+        "clientHeight": 42,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 42,
+        "lineHeight": "normal",
+        "scrollHeight": 42,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 811,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 810.96875,
+        "lineHeight": "normal",
+        "scrollHeight": 811,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 265,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "preview": {
+      "action": {
+        "clientHeight": 71,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "25.6px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 192.46875
+      },
+      "button": {
+        "clientHeight": 71,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 71,
+        "lineHeight": "21px",
+        "scrollHeight": 71,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 784.96875
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 162,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 162.3125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 162,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение.СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 192.46875
+          },
+          "text": "ИнститутСовременногоИскусства,Эстрадно-джазовоепение."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 262.03125
+          },
+          "text": "СаратовскоеОбластноеУчилищеИскусств,Эстрадно-джазовоепение"
+        },
+        {
+          "rect": {
+            "clientHeight": 301,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 301.4375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 301,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканалеУчастницапроекта«Явижутвойголос»наканалеРоссия1ПевицаиавторпесенРаботалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 387.96875
+          },
+          "text": "Участницапроекта«Голос»(1сезон)наПервомканале"
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 457.53125
+          },
+          "text": "Участницапроекта«Явижутвойголос»наканалеРоссия1"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 527.09375
+          },
+          "text": "Певицаиавторпесен"
+        },
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 550.28125
+          },
+          "text": "Работалапевицейвг.Нью-Йорке,работалавсотрудничествесамериканскимпродюсеромидиджеемТоддомТерри"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 225,
+            "x": 40,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 205,
+            "x": 60,
+            "y": 722.59375
+          },
+          "text": "Опытпреподаванияболее11лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "25.6px",
+        "scrollHeight": 941,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 320,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 51,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 51.46875,
+        "lineHeight": "21.06px",
+        "scrollHeight": 52,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 133
+      },
+      "titleText": "Дарья Дубовицкая",
+      "uptitle": {
+        "clientHeight": 42,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 42,
+        "lineHeight": "normal",
+        "scrollHeight": 42,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 225,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 811,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 810.96875,
+        "lineHeight": "25.6px",
+        "scrollHeight": 811,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 265,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "diffs": []
+  },
+  {
+    "page": "standalone",
+    "width": 390,
+    "index": 7,
+    "source": {
+      "action": {
+        "clientHeight": 50,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "normal",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 780.234375
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 187.734375
+      },
+      "button": {
+        "clientHeight": 50,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "21px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 263.71875,
+        "x": 55.640625,
+        "y": 780.234375
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер.ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 116,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 115.9375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 116,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 303.671875
+          },
+          "text": "ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 348,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 347.8125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 348,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г.Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г.С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра.Авторкурсабыстрогоосвоенияинструмента.Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 429.609375
+          },
+          "text": "Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 499.171875
+          },
+          "text": "С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра."
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 568.734375
+          },
+          "text": "Авторкурсабыстрогоосвоенияинструмента."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 615.109375
+          },
+          "text": "Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "normal",
+        "scrollHeight": 915,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 390,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 26,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 25.734375,
+        "lineHeight": "21.06px",
+        "scrollHeight": 26,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 154
+      },
+      "titleText": "Анна Майкоглуян",
+      "uptitle": {
+        "clientHeight": 63,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 63,
+        "lineHeight": "normal",
+        "scrollHeight": 63,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 785,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 785.234375,
+        "lineHeight": "normal",
+        "scrollHeight": 785,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 335,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "preview": {
+      "action": {
+        "clientHeight": 50,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "25.6px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 780.234375
+      },
+      "bio": {
+        "clientHeight": 577,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 576.5,
+        "lineHeight": "23.2px",
+        "scrollHeight": 577,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 187.734375
+      },
+      "button": {
+        "clientHeight": 50,
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "h": 50,
+        "lineHeight": "21px",
+        "scrollHeight": 50,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 263.71875,
+        "x": 55.640625,
+        "y": 780.234375
+      },
+      "images": 0,
+      "lists": [
+        {
+          "rect": {
+            "clientHeight": 139,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 139.125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 139,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер.ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 116,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 115.9375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 116,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 187.734375
+          },
+          "text": "ОГОУСПО«РГУИ»2005г.Кафедраспециальногофортепиано.Квалификация-преподавательигрынафортепиано,артистансамбля,концертмейстер."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 303.671875
+          },
+          "text": "ГОУВПОРГЭУ«РИНХ»2010г."
+        },
+        {
+          "rect": {
+            "clientHeight": 348,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 347.8125,
+            "lineHeight": "23.2px",
+            "scrollHeight": 348,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г.Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г.С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра.Авторкурсабыстрогоосвоенияинструмента.Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 360.046875
+          },
+          "text": "Лауреатмеждународногоконкурса«Будущеепланеты»2003г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 429.609375
+          },
+          "text": "Приззрительскихсимпатиймеждународногоконкурса«НадеждыЕвропы»2004г."
+        },
+        {
+          "rect": {
+            "clientHeight": 70,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 69.5625,
+            "lineHeight": "23.2px",
+            "scrollHeight": 70,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 499.171875
+          },
+          "text": "С2003г.по2010г.АртистРостовскогоГосударственногоМузыкальноготеатра."
+        },
+        {
+          "rect": {
+            "clientHeight": 46,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 46.375,
+            "lineHeight": "23.2px",
+            "scrollHeight": 46,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 568.734375
+          },
+          "text": "Авторкурсабыстрогоосвоенияинструмента."
+        },
+        {
+          "rect": {
+            "clientHeight": 93,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 92.75,
+            "lineHeight": "23.2px",
+            "scrollHeight": 93,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 615.109375
+          },
+          "text": "Ученикивзрослыеидети,дипломантыилауреатыразличныхмузыкальныхконкурсов."
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 295,
+            "x": 40,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        },
+        {
+          "rect": {
+            "clientHeight": 23,
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "h": 23.1875,
+            "lineHeight": "23.2px",
+            "scrollHeight": 23,
+            "scrollTop": 0,
+            "transform": "none",
+            "w": 275,
+            "x": 60,
+            "y": 741.046875
+          },
+          "text": "Опытпреподавания20лет"
+        }
+      ],
+      "open": true,
+      "outer": {
+        "clientHeight": 900,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 900,
+        "lineHeight": "25.6px",
+        "scrollHeight": 915,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 390,
+        "x": 0,
+        "y": 0
+      },
+      "title": {
+        "clientHeight": 26,
+        "fontSize": "18px",
+        "fontWeight": "700",
+        "h": 25.734375,
+        "lineHeight": "21.06px",
+        "scrollHeight": 26,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 154
+      },
+      "titleText": "Анна Майкоглуян",
+      "uptitle": {
+        "clientHeight": 63,
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "h": 63,
+        "lineHeight": "normal",
+        "scrollHeight": 63,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 295,
+        "x": 40,
+        "y": 85
+      },
+      "wrapper": {
+        "clientHeight": 785,
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "h": 785.234375,
+        "lineHeight": "25.6px",
+        "scrollHeight": 785,
+        "scrollTop": 0,
+        "transform": "none",
+        "w": 335,
+        "x": 20,
+        "y": 65
+      }
+    },
+    "diffs": []
+  }
+]
