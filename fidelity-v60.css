@@ -1,0 +1,6 @@
+/* Preserve source centering for short forms and static placement after overflow. */
+@media(min-width:561px){
+#bm dialog.order-dialog[open]{display:flex;flex-direction:column}
+#bm dialog.order-dialog[open] [data-dialog]{flex:none;margin:auto}
+#bm dialog.order-dialog.order-static[open] [data-dialog]{margin:0 auto}
+}
