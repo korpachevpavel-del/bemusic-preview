@@ -29,3 +29,13 @@
 #bm .quiz .quiz-options h3{margin-bottom:25px}
 #bm .quiz .quiz-final h3{margin:0}
 }
+/* The fourth question uses the same outlined choices as the fifth. */
+#bm .quiz[data-quiz-step="3"] .quiz-choices label{display:flex;align-items:center;min-height:60px;border:2px solid #074ebc;border-radius:15px;padding:10px 15px;background:#fff}
+#bm .quiz[data-quiz-step="3"] .quiz-choices label span,#bm .quiz .quiz-hours label span{align-items:center}
+@media(min-width:641px){
+#bm .quiz .quiz-choices.quiz-hours label{padding:10px 15px}
+#bm .quiz .quiz-subtitle{margin:-15px 0 20px}
+}
+@media(min-width:641px) and (max-width:960px){
+#bm .quiz [data-quiz-area],#bm .quiz[data-quiz-step="5"] [data-quiz-area]{flex:1 0 auto;min-height:auto}
+}
