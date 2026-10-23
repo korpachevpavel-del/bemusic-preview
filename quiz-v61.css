@@ -84,3 +84,4 @@
 }
 #bm .quiz .quiz-next{display:flex;align-items:center;justify-content:center;gap:.3em}
 #bm .quiz .quiz-next svg{width:18px;height:18px;flex:none}
+#bm .quiz .quiz-choices:not(.image-choices) label{color:#1f1f1f}
