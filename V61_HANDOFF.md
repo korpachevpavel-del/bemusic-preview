@@ -22,3 +22,6 @@ GitHubreadconnectorworks/write403исторически; browseruploadразре
 
 ## v61-3 проверена; v61-4 scroll cleanup
 Runtime25045fc, Pages208Success2m30s39947497646. Все48core6×8совпалипоизмеряемойгеометрии,включаяconsentlabels. 8backпроверок:7PASS,1024сохранилarea.scrollTop24pxпослефиналаиобрезалверх. Новыйv61-4сбрасываетarea.scrollTop=0послерендеракаждогошага. CSSнеизменён. qa-v61-3-comparison.jsonсодержит48corePASS+8backс1диагностическимрасхождением. qa-v61-functional.jsonпроверяетdisabledsubmit/blankfields/сохранениеответов. Нужнопроверитьv61-4back/resize/coreиупаковатьфинал.
+
+v61-4 runtime3cf4e06, Pages20939948448692. v61-5добавляетодинаковыйSVGarrow18gap.3emнаmobile/desktop,вместомобильнойUnicodeстрелки. Нужнофинальнотестироватьv61-5. ИсправлениеscrollTopвключено.
+Важнопроотчёт: CUAзамыканиеsaveсохранилостарыймассивпослеrows=[];файлстарогопроходасодержал104строки(48v61-2+48v61-3+8back). Влокальномqa-v61-3-comparison.jsonоставленыТОЛЬКО48v61-3+8back,56строк. Core424rectanglesmaxdelta0. Старыйreaderнечиталconsents; новыйqa-v61-measure.mjsихдобавляет. ДляфиналасоздатьНОВУЮsaveфункциювтомжевызове,чтоновыемассив/modulehandle;непытатьсясброситьмассивснаружистарогозамыкания. Проверятьlen иметкиотчётапередupload.
