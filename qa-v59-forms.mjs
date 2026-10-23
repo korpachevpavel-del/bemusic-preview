@@ -15,7 +15,7 @@ export function compareForms(a,b){
  if(a.outer.h!==b.outer.h||a.outer.scroll!==b.outer.scroll)d.push(['scroll',a.outer,b.outer]);return d;
 }
 export function formAudit({pool,rows,fs,path,write}){return{
- async open(type){for(const p of pool){await p.own.locator('.mobile-menu-note').waitFor({state:'attached'});const trigger=p.src.locator(type==='gift'?'a[href="#popup:order21"]':'a[href^="#popup:order"]').filter({visible:true}).first();p.formHook=await trigger.getAttribute('href');await trigger.click();await p.own.locator('[data-order="'+type+'"]').filter({visible:true}).first().click();await p.tab.getAXState({emit:false});
+ async open(type){for(const p of pool){await p.own.locator('.mobile-menu-note').waitFor({state:'attached'});const trigger=p.src.locator(type==='gift'?'a[href="#popup:order21"]':type==='intake'?'a[href="#popup:order7"]':'a[href^="#popup:order"]').filter({visible:true}).first();p.formHook=await trigger.getAttribute('href');await trigger.click();await p.own.locator(type==='intake'?'[data-kids-intake]':'[data-order="'+type+'"]').filter({visible:true}).first().click();await p.tab.getAXState({emit:false});
  const actual=await p.own.locator('dialog').evaluate(n=>({open:n.open,gift:n.classList.contains('gift-dialog')}));
  if(!actual.open||actual.gift!==(type==='gift'))throw Error('Preview form not open with expected type: '+p.page+' '+p.width);
  }},

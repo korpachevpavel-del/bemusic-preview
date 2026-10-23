@@ -1,0 +1,28 @@
+[
+  {
+    "width": 320,
+    "state": {
+      "classes": "teacher-scroll teacher-static order-dialog order-static",
+      "disabled": true,
+      "fields": [
+        "",
+        "",
+        ""
+      ],
+      "open": true
+    }
+  },
+  {
+    "width": 640,
+    "state": {
+      "classes": "order-dialog",
+      "disabled": true,
+      "fields": [
+        "",
+        "",
+        ""
+      ],
+      "open": true
+    }
+  }
+]

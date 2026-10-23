@@ -1,0 +1,26 @@
+[
+  {
+    "page": "kids",
+    "width": 320,
+    "state": {
+      "bodyOverflow": "",
+      "classes": "",
+      "focusBio": "6",
+      "focusTag": "BUTTON",
+      "htmlOverflow": "",
+      "open": false
+    }
+  },
+  {
+    "page": "kids",
+    "width": 640,
+    "state": {
+      "bodyOverflow": "",
+      "classes": "",
+      "focusBio": "7",
+      "focusTag": "BUTTON",
+      "htmlOverflow": "",
+      "open": false
+    }
+  }
+]

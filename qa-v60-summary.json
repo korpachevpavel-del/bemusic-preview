@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-23",
+  "runtime": "v60-3",
+  "runtimeCommit": "3ff9a7e",
+  "pagesRun": 203,
+  "pairedCases": 30,
+  "rectangles": 410,
+  "maxRectangleDeltaPx": 0,
+  "differencesOver1Px": 0,
+  "styleDifferences": [],
+  "scope": "Focused final regression across all seven form-bearing pages, initial/reopen/resize, long gift, kids intake and biography-to-form. Earlier initial-open matrix has 64 preserved cases; full 120 observed previously but raw remainder lost in environment outage.",
+  "sourceCustomFieldLimitation": "In current frozen source, own-answer checkbox activates the input class but computed display remains none; visible custom-input geometry is not claimed as equal. Independent preview retains functional entry.",
+  "submissionDisabled": true
+}

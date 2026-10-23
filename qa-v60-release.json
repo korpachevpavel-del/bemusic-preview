@@ -1,0 +1,10 @@
+{
+  "archive": "BEMUSIC_RELEASE_v60.zip",
+  "bytes": 23954089,
+  "sha256": "cb613e696ce3d9204880a395717b4500f30dea9fc91dea73bba79785401024cb",
+  "activeSourceFiles": 162,
+  "manifestFiles": 164,
+  "zipEntries": 165,
+  "allHashesVerified": true,
+  "standalonesMatch": true
+}
