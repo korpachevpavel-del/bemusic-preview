@@ -1,6 +1,8 @@
-/* Preserve source centering for short forms and static placement after overflow. */
+/* Match source mode chosen on open; resizing preserves that mode. */
 @media(min-width:561px){
-#bm dialog.order-dialog[open]{display:flex;flex-direction:column}
-#bm dialog.order-dialog[open] [data-dialog]{flex:none;margin:auto}
-#bm dialog.order-dialog.order-static[open] [data-dialog]{margin:0 auto}
+#bm dialog.order-dialog[open]{display:block}
+#bm dialog.order-dialog:not(.order-static)[open]{padding:0}
+#bm dialog.order-dialog[open] [data-dialog]{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);margin:0}
+#bm dialog.order-dialog.order-static[open] [data-dialog]{position:relative;left:auto;top:auto;transform:none;margin:0 auto}
 }
+#bm #dialog .order-form .order-choice .order-own-input{line-height:1}
