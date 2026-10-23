@@ -75,7 +75,7 @@
 #bm .quiz .quiz-choices.image-choices label{padding-top:0}
 #bm .quiz .image-choices{padding-top:7px}
 }
-@media(min-width:441px) and (max-width:640px){#bm .quiz .quiz-choices{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(min-width:480px) and (max-width:640px){#bm .quiz .quiz-choices{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:640px){
 #bm .quiz .quiz-bottom,#bm .quiz[data-quiz-step="5"] .quiz-bottom{display:contents}
 #bm .quiz .quiz-options{order:0}
@@ -85,3 +85,5 @@
 #bm .quiz .quiz-next{display:flex;align-items:center;justify-content:center;gap:.3em}
 #bm .quiz .quiz-next svg{width:18px;height:18px;flex:none}
 #bm .quiz .quiz-choices:not(.image-choices) label{color:#1f1f1f}
+@media(min-width:641px){#bm .quiz .quiz-footer-buttons{min-width:max-content}}
+#bm .quiz .quiz-consent{color:#1f1f1f}
