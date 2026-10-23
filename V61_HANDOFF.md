@@ -13,3 +13,9 @@ Source area displayflex column; optionsflex1, padding45px45px55px; footersticky 
 Source mobile firststep высота совпадает после view; offscreenневалиден из-заstickyclone. Изменения пока scopedmin641 кроме кнопочногоmarkup ипробелавtitle. Проверитьчтоmobileнеизменился.
 
 GitHubreadconnectorworks/write403исторически; browseruploadразрешён. ПослеcommitждиPagesSuccess, затемпроверьверсию и всеcases. СохраняйJSONвgit,средаможетсброситься.
+
+## v61-3 перед финальной сверкой
+91ba53b v61-2 опубликована. Выполнен полный диагностический проход6×8=48, qa-v61-2-diagnostic.json. НЕ PASS: выявлены mobile2cols>440, sourcewrappermin720+8border, sourcefooterотдельнаяstickyпанель107.390625+promptpaddingbottom35, sourcefixeddesktopgap.3em, gap25уquestions>=961, footermax45%>=960, descriptionfont12до1200, finalcontactgap20до960.
+Подготовленаv61-3: mobilelayoutпереведёнсмагическихminheightquiz-layout-v24наflexflow; CSSminheight0!importantперекрываетстарыйinlineрасчёт. options30px20px25px, questionprogressabsolute; mobileimagepadding7перенесёнвконтейнер, откудаубранpaddinglabel. Answerinputиtextspanтеперьпрямыедетиlabel(какsource),plainрадиоиндикаторmargin-top−.4px. Sourceкнопочныйstep3совпадаетспятым.
+Важно: вsourceHTMLsubmitтекстОТПРАВИТЬЗАЯВКУ, ноruntimeменяетнаОТПРАВИТЬ. v61-2ошибочноподставлялаЗАЯВКУ,вv61-3этоубрано. Sourcebuttonnexttext56.046875+icon18+gap4.8+padding60=138.84375.
+Всяматрицадолжнабытьповторенанаv61-3. Потомназад/resize,packagev61/standalone,аудит. Sourceбрaузерoriginalfrozenможетнеавтоперейтиповторнымкликомнаужевыбранныйradio: тогдажмиNext,нещелкайвыбранныйповторно.
