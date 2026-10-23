@@ -1,0 +1,1078 @@
+[
+  {
+    "width": 320,
+    "source": {
+      "headerChildren": [
+        {
+          "cls": "t-img t-quiz__quiz-description-icon t-quiz__square",
+          "tag": "IMG",
+          "text": ""
+        },
+        {
+          "cls": "t-quiz__quiz-description-title",
+          "tag": "DIV",
+          "text": "ПОЛУЧИ ПРОБНОЕ ЗАНЯТИЕ БЕСПЛАТНО"
+        }
+      ],
+      "height": 943.59375,
+      "parts": [
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 763.59375,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 305,
+            "x": 0,
+            "y": 0
+          },
+          "selector": ".t-quiz__quiz"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 424,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "30px 20px",
+            "w": 297,
+            "x": 4,
+            "y": 4
+          },
+          "selector": ".t-quiz__header"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 364,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 231.296875,
+            "x": 60,
+            "y": 34
+          },
+          "selector": ".t-quiz__quiz-description-title"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 26,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 26,
+            "x": 24,
+            "y": 203
+          },
+          "selector": ".t-quiz__quiz-description-icon"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 331.59375,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 297,
+            "x": 4,
+            "y": 428
+          },
+          "selector": ".t-quiz__content-wrapper"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 253.21875,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "30px 20px 25px",
+            "w": 297,
+            "x": 4,
+            "y": 428
+          },
+          "selector": ".t-step-form__step_active"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "18px",
+            "h": 22.125,
+            "line": "22.14px",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 257,
+            "x": 24,
+            "y": 458
+          },
+          "selector": ".t-input-title"
+        },
+        {
+          "rect": null,
+          "selector": ".t-quiz__btn-next"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 78.375,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px 20px 35px",
+            "w": 297,
+            "x": 4,
+            "y": 681.21875
+          },
+          "selector": ".t-quiz__footer"
+        }
+      ]
+    },
+    "preview": {
+      "headerChildren": [
+        {
+          "cls": "",
+          "tag": "BR",
+          "text": ""
+        },
+        {
+          "cls": "",
+          "tag": "SPAN",
+          "text": "БЕСПЛАТНО"
+        }
+      ],
+      "height": 1050.984375,
+      "parts": [
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 870.984375,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 305,
+            "x": 0,
+            "y": 0
+          },
+          "selector": ".quiz"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "46px",
+            "h": 424,
+            "line": "52px",
+            "margin": "0px",
+            "padding": "30px 17px 30px 56px",
+            "w": 297,
+            "x": 4,
+            "y": 4
+          },
+          "selector": ".quiz>h2"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "46px",
+            "h": 110,
+            "line": "52px",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 205.359375,
+            "x": 60,
+            "y": 291
+          },
+          "selector": ".quiz>h2 span"
+        },
+        {
+          "rect": null,
+          "selector": ".quiz>h2 img"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 438.984375,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 297,
+            "x": 4,
+            "y": 428
+          },
+          "selector": ".quiz>div"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 248.21875,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "25px 20px",
+            "w": 297,
+            "x": 4,
+            "y": 433
+          },
+          "selector": ".quiz-options"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "18px",
+            "h": 22.125,
+            "line": "22.14px",
+            "margin": "0px 0px 20px",
+            "padding": "0px",
+            "w": 257,
+            "x": 24,
+            "y": 458
+          },
+          "selector": ".quiz-options h3"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 52.390625,
+            "line": "22.4px",
+            "margin": "0px 0px 0px 60px",
+            "padding": "15px 30px",
+            "w": 197,
+            "x": 84,
+            "y": 705.21875
+          },
+          "selector": ".quiz-footer-buttons button:last-child"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "12px",
+            "h": 125.765625,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 257,
+            "x": 24,
+            "y": 705.21875
+          },
+          "selector": ".quiz-bottom"
+        }
+      ]
+    }
+  },
+  {
+    "width": 640,
+    "source": {
+      "headerChildren": [
+        {
+          "cls": "t-img t-quiz__quiz-description-icon t-quiz__square",
+          "tag": "IMG",
+          "text": ""
+        },
+        {
+          "cls": "t-quiz__quiz-description-title",
+          "tag": "DIV",
+          "text": "ПОЛУЧИ ПРОБНОЕ ЗАНЯТИЕ БЕСПЛАТНО"
+        }
+      ],
+      "height": 998,
+      "parts": [
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 728,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 625,
+            "x": 0,
+            "y": 0
+          },
+          "selector": ".t-quiz__quiz"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 216,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "30px 20px",
+            "w": 617,
+            "x": 4,
+            "y": 4
+          },
+          "selector": ".t-quiz__header"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 156,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 541,
+            "x": 60,
+            "y": 34
+          },
+          "selector": ".t-quiz__quiz-description-title"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 26,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 26,
+            "x": 24,
+            "y": 99
+          },
+          "selector": ".t-quiz__quiz-description-icon"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 504,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 617,
+            "x": 4,
+            "y": 220
+          },
+          "selector": ".t-quiz__content-wrapper"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 418.140625,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "30px 20px 25px",
+            "w": 617,
+            "x": 4,
+            "y": 220
+          },
+          "selector": ".t-step-form__step_active"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "22px",
+            "h": 27.046875,
+            "line": "27.06px",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 577,
+            "x": 24,
+            "y": 250
+          },
+          "selector": ".t-input-title"
+        },
+        {
+          "rect": null,
+          "selector": ".t-quiz__btn-next"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 56.6875,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px 20px 35px",
+            "w": 617,
+            "x": 4,
+            "y": 667.3125
+          },
+          "selector": ".t-quiz__footer"
+        }
+      ]
+    },
+    "preview": {
+      "headerChildren": [
+        {
+          "cls": "",
+          "tag": "BR",
+          "text": ""
+        },
+        {
+          "cls": "",
+          "tag": "SPAN",
+          "text": "БЕСПЛАТНО"
+        }
+      ],
+      "height": 1076.21875,
+      "parts": [
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 806.21875,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 625,
+            "x": 0,
+            "y": 0
+          },
+          "selector": ".quiz"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "46px",
+            "h": 216,
+            "line": "52px",
+            "margin": "0px",
+            "padding": "30px 17px 30px 56px",
+            "w": 617,
+            "x": 4,
+            "y": 4
+          },
+          "selector": ".quiz>h2"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "46px",
+            "h": 58,
+            "line": "52px",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 307.015625,
+            "x": 60,
+            "y": 135
+          },
+          "selector": ".quiz>h2 span"
+        },
+        {
+          "rect": null,
+          "selector": ".quiz>h2 img"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 582.21875,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 617,
+            "x": 4,
+            "y": 220
+          },
+          "selector": ".quiz>div"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 418.140625,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "30px 20px 25px",
+            "w": 617,
+            "x": 4,
+            "y": 225
+          },
+          "selector": ".quiz-options"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "22px",
+            "h": 27.046875,
+            "line": "27.06px",
+            "margin": "0px 0px 20px",
+            "padding": "0px",
+            "w": 577,
+            "x": 24,
+            "y": 255
+          },
+          "selector": ".quiz-options h3"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 52.390625,
+            "line": "22.4px",
+            "margin": "0px 0px 0px 60px",
+            "padding": "15px 30px",
+            "w": 517,
+            "x": 84,
+            "y": 662.140625
+          },
+          "selector": ".quiz-footer-buttons button:last-child"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "12px",
+            "h": 104.078125,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 577,
+            "x": 24,
+            "y": 662.140625
+          },
+          "selector": ".quiz-bottom"
+        }
+      ]
+    }
+  },
+  {
+    "width": 768,
+    "source": {
+      "headerChildren": [
+        {
+          "cls": "t-img t-quiz__quiz-description-icon t-quiz__square",
+          "tag": "IMG",
+          "text": ""
+        },
+        {
+          "cls": "t-quiz__quiz-description-title",
+          "tag": "DIV",
+          "text": "ПОЛУЧИ ПРОБНОЕ ЗАНЯТИЕ БЕСПЛАТНО"
+        }
+      ],
+      "height": 959.03125,
+      "parts": [
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 689.03125,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 600,
+            "x": 0,
+            "y": 0
+          },
+          "selector": ".t-quiz__quiz"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 268,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "30px 45px",
+            "w": 592,
+            "x": 4,
+            "y": 4
+          },
+          "selector": ".t-quiz__header"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 208,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 466,
+            "x": 85,
+            "y": 34
+          },
+          "selector": ".t-quiz__quiz-description-title"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 26,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 26,
+            "x": 49,
+            "y": 125
+          },
+          "selector": ".t-quiz__quiz-description-icon"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 413.03125,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 592,
+            "x": 4,
+            "y": 272
+          },
+          "selector": ".t-quiz__content-wrapper"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 295.640625,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "45px 45px 55px",
+            "w": 592,
+            "x": 4,
+            "y": 272
+          },
+          "selector": ".t-step-form__step_active"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "22px",
+            "h": 27.046875,
+            "line": "27.06px",
+            "margin": "0px",
+            "padding": "0px 10px 0px 0px",
+            "w": 502,
+            "x": 49,
+            "y": 317
+          },
+          "selector": ".t-input-title"
+        },
+        {
+          "rect": null,
+          "selector": ".t-quiz__btn-next"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 97.390625,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px 45px 45px",
+            "w": 592,
+            "x": 4,
+            "y": 587.640625
+          },
+          "selector": ".t-quiz__footer"
+        }
+      ]
+    },
+    "preview": {
+      "headerChildren": [
+        {
+          "cls": "",
+          "tag": "BR",
+          "text": ""
+        },
+        {
+          "cls": "",
+          "tag": "SPAN",
+          "text": "БЕСПЛАТНО"
+        }
+      ],
+      "height": 878,
+      "parts": [
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 608,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 713,
+            "x": 0,
+            "y": 0
+          },
+          "selector": ".quiz"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "46px",
+            "h": 164,
+            "line": "52px",
+            "margin": "0px",
+            "padding": "30px 40px 25px 80px",
+            "w": 705,
+            "x": 4,
+            "y": 4
+          },
+          "selector": ".quiz>h2"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "46px",
+            "h": 58,
+            "line": "52px",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 307.015625,
+            "x": 84,
+            "y": 135
+          },
+          "selector": ".quiz>h2 span"
+        },
+        {
+          "rect": null,
+          "selector": ".quiz>h2 img"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 330.046875,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 705,
+            "x": 4,
+            "y": 168
+          },
+          "selector": ".quiz>div"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 330.046875,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "40px 44px",
+            "w": 705,
+            "x": 4,
+            "y": 168
+          },
+          "selector": ".quiz-options"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "22px",
+            "h": 27.046875,
+            "line": "27.06px",
+            "margin": "0px 0px 22px",
+            "padding": "0px",
+            "w": 617,
+            "x": 48,
+            "y": 208
+          },
+          "selector": ".quiz-options h3"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "14px",
+            "h": 49.59375,
+            "line": "19.6px",
+            "margin": "0px",
+            "padding": "15px 28px",
+            "w": 140,
+            "x": 524,
+            "y": 509.40625
+          },
+          "selector": ".quiz-footer-buttons button:last-child"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "12px",
+            "h": 49.59375,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 615,
+            "x": 49,
+            "y": 509.40625
+          },
+          "selector": ".quiz-bottom"
+        }
+      ]
+    }
+  },
+  {
+    "width": 960,
+    "source": {
+      "headerChildren": [
+        {
+          "cls": "t-img t-quiz__quiz-description-icon t-quiz__square",
+          "tag": "IMG",
+          "text": ""
+        },
+        {
+          "cls": "t-quiz__quiz-description-title",
+          "tag": "DIV",
+          "text": "ПОЛУЧИ ПРОБНОЕ ЗАНЯТИЕ БЕСПЛАТНО"
+        }
+      ],
+      "height": 959.03125,
+      "parts": [
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 689.03125,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 600,
+            "x": 0,
+            "y": 0
+          },
+          "selector": ".t-quiz__quiz"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 268,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "30px 45px",
+            "w": 592,
+            "x": 4,
+            "y": 4
+          },
+          "selector": ".t-quiz__header"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 208,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 466,
+            "x": 85,
+            "y": 34
+          },
+          "selector": ".t-quiz__quiz-description-title"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 26,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 26,
+            "x": 49,
+            "y": 125
+          },
+          "selector": ".t-quiz__quiz-description-icon"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 413.03125,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 592,
+            "x": 4,
+            "y": 272
+          },
+          "selector": ".t-quiz__content-wrapper"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 295.640625,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "45px 45px 55px",
+            "w": 592,
+            "x": 4,
+            "y": 272
+          },
+          "selector": ".t-step-form__step_active"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "22px",
+            "h": 27.046875,
+            "line": "27.06px",
+            "margin": "0px",
+            "padding": "0px 10px 0px 0px",
+            "w": 502,
+            "x": 49,
+            "y": 317
+          },
+          "selector": ".t-input-title"
+        },
+        {
+          "rect": null,
+          "selector": ".t-quiz__btn-next"
+        },
+        {
+          "rect": {
+            "box": "content-box",
+            "font": "16px",
+            "h": 97.390625,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px 45px 45px",
+            "w": 592,
+            "x": 4,
+            "y": 587.640625
+          },
+          "selector": ".t-quiz__footer"
+        }
+      ]
+    },
+    "preview": {
+      "headerChildren": [
+        {
+          "cls": "",
+          "tag": "BR",
+          "text": ""
+        },
+        {
+          "cls": "",
+          "tag": "SPAN",
+          "text": "БЕСПЛАТНО"
+        }
+      ],
+      "height": 878,
+      "parts": [
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 608,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 905,
+            "x": 0,
+            "y": 0
+          },
+          "selector": ".quiz"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "46px",
+            "h": 164,
+            "line": "52px",
+            "margin": "0px",
+            "padding": "30px 40px 25px 80px",
+            "w": 897,
+            "x": 4,
+            "y": 4
+          },
+          "selector": ".quiz>h2"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "46px",
+            "h": 58,
+            "line": "52px",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 307.015625,
+            "x": 84,
+            "y": 83
+          },
+          "selector": ".quiz>h2 span"
+        },
+        {
+          "rect": null,
+          "selector": ".quiz>h2 img"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 330.046875,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 897,
+            "x": 4,
+            "y": 168
+          },
+          "selector": ".quiz>div"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "16px",
+            "h": 330.046875,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "40px 44px",
+            "w": 897,
+            "x": 4,
+            "y": 168
+          },
+          "selector": ".quiz-options"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "22px",
+            "h": 27.046875,
+            "line": "27.06px",
+            "margin": "0px 0px 22px",
+            "padding": "0px",
+            "w": 809,
+            "x": 48,
+            "y": 208
+          },
+          "selector": ".quiz-options h3"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "14px",
+            "h": 49.59375,
+            "line": "19.6px",
+            "margin": "0px",
+            "padding": "15px 28px",
+            "w": 140,
+            "x": 716,
+            "y": 509.40625
+          },
+          "selector": ".quiz-footer-buttons button:last-child"
+        },
+        {
+          "rect": {
+            "box": "border-box",
+            "font": "12px",
+            "h": 49.59375,
+            "line": "normal",
+            "margin": "0px",
+            "padding": "0px",
+            "w": 807,
+            "x": 49,
+            "y": 509.40625
+          },
+          "selector": ".quiz-bottom"
+        }
+      ]
+    }
+  }
+]
