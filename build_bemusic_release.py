@@ -3,7 +3,7 @@ import re, base64, mimetypes, hashlib, json, shutil, zipfile
 
 root = Path(__file__).resolve().parent
 src = root / 'github-preview' if (root / 'github-preview').is_dir() else root
-out = root / 'bemusic-release-v60'
+out = root / 'bemusic-release-v61'
 out.mkdir(exist_ok=True)
 html = (src / 'index.html').read_text()
 css = re.findall(r'<link[^>]+href="([^" ]+\.css(?:\?[^" ]*)?)"[^>]*>', html)
@@ -80,11 +80,11 @@ assert not re.search(r'(?:static|js|fonts)\.tildacdn\.',vocal_standalone)
 (out/'VOCAL_STANDALONE.html').write_text(vocal_standalone)
 
 shutil.copyfile(root / 'BEMUSIC_AUDIT.md', out / 'BEMUSIC_AUDIT.md')
-(out / 'README.md').write_text('''# BE MUSIC — автономный комплект v60\n\nОткройте index.html в браузере. Политики privacy.html и email.html лежат рядом. Автономные просмотры BEMUSIC_STANDALONE.html и VOCAL_STANDALONE.html опубликованы отдельно; в ZIP не включены, чтобы не дублировать встроенные ресурсы.\n\nДля редактирования используйте index.html и его отдельные файлы. Комплект содержит только активные зависимости, без старых редакций и исходного Tilda runtime.\n\nИнтернет нужен для встроенных видео VK, карты Яндекса и внешних ссылок. Страница вокала перенесена в vokal-v-odincovo.html, её отдельный автономный просмотр — VOCAL_STANDALONE.html. Страница гитары перенесена в igra-na-gitare-v-odincovo.html. Страница фортепиано перенесена в igra-na-fortepiano-v-odincovo.html. Детская страница перенесена в kids.html. Страница программы лояльности перенесена в programma-loyalnosti-be-music.html; исходная страница содержит только шапку и футер, условия не добавлялись. Тексты документов сохранены из оригинала без редакции. VK и Яндекс подключаются из официальных внешних сервисов; загрузка зависит от сети и видимости блока. Отправка заявок отключена. Это не полная офлайн-копия внешних сервисов или внутренних страниц.\n\nПроверено в облачном Chrome. Проверка на физическом iPhone/Safari не проводилась. Полная попиксельная идентичность не заявляется. Подробнее — BEMUSIC_AUDIT.md.\n''')
+(out / 'README.md').write_text('''# BE MUSIC — автономный комплект v61\n\nОткройте index.html в браузере. Политики privacy.html и email.html лежат рядом. Автономные просмотры BEMUSIC_STANDALONE.html и VOCAL_STANDALONE.html опубликованы отдельно; в ZIP не включены, чтобы не дублировать встроенные ресурсы.\n\nДля редактирования используйте index.html и его отдельные файлы. Комплект содержит только активные зависимости, без старых редакций и исходного Tilda runtime.\n\nИнтернет нужен для встроенных видео VK, карты Яндекса и внешних ссылок. Страница вокала перенесена в vokal-v-odincovo.html, её отдельный автономный просмотр — VOCAL_STANDALONE.html. Страница гитары перенесена в igra-na-gitare-v-odincovo.html. Страница фортепиано перенесена в igra-na-fortepiano-v-odincovo.html. Детская страница перенесена в kids.html. Страница программы лояльности перенесена в programma-loyalnosti-be-music.html; исходная страница содержит только шапку и футер, условия не добавлялись. Тексты документов сохранены из оригинала без редакции. VK и Яндекс подключаются из официальных внешних сервисов; загрузка зависит от сети и видимости блока. Отправка заявок отключена. Это не полная офлайн-копия внешних сервисов или внутренних страниц.\n\nПроверено в облачном Chrome. Проверка на физическом iPhone/Safari не проводилась. Полная попиксельная идентичность не заявляется. Подробнее — BEMUSIC_AUDIT.md.\n''')
 package_names = sorted(set(files + ['BEMUSIC_AUDIT.md', 'README.md']))
 manifest = {name: {'bytes': (out/name).stat().st_size, 'sha256': hashlib.sha256((out/name).read_bytes()).hexdigest()} for name in package_names}
 (out / 'MANIFEST.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2))
-archive = root / 'BEMUSIC_RELEASE_v60.zip'
+archive = root / 'BEMUSIC_RELEASE_v61.zip'
 archive_temp = archive.with_suffix('.zip.building')
 with zipfile.ZipFile(archive_temp, 'w', zipfile.ZIP_DEFLATED) as z:
     for name in sorted(package_names + ['MANIFEST.json']):

@@ -1,0 +1,14 @@
+{
+  "archive_bytes": 23957415,
+  "archive_sha256": "784cf844bc48fd985c10dd9e970828d99b1afe958ca2f8e516a6b2f337ddcad1",
+  "manifest_hashes": 166,
+  "zip_entries": 167,
+  "crc": "passed",
+  "all_manifest_hashes": "passed",
+  "active_sources_match": "passed",
+  "local_html_dependency_closure": "passed",
+  "standalone_matches_existing_runtime": "passed",
+  "production_changed": false,
+  "published": false,
+  "publication_blocker": "GitHub connector403; browser upload auto-review denied origin authority"
+}
