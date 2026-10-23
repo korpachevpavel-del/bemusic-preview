@@ -1,0 +1,31 @@
+/* Match the original fixed-height desktop quiz; mobile rules stay in v24. */
+@media(min-width:641px){
+#bm .quiz-section .wrap{width:100%;max-width:none;padding:0}
+#bm .quiz{width:600px;max-width:calc(100% - 40px);height:auto;min-height:658px;display:flex;flex-direction:column}
+#bm .quiz h2{flex:none;height:auto;min-height:0;padding:30px 45px 30px 81px;font-size:46px;line-height:52px;overflow-wrap:break-word}
+#bm .quiz h2 br{display:none}
+#bm .quiz [data-quiz-area],#bm .quiz[data-quiz-step="5"] [data-quiz-area]{position:relative;display:flex;flex-direction:column;flex:1;min-height:0;height:auto;overflow:auto}
+#bm .quiz .quiz-progress{position:absolute;top:0;left:0;right:0}
+#bm .quiz .quiz-options,#bm .quiz[data-quiz-step="5"] .quiz-options{flex:1 0 auto;padding:45px 45px 55px}
+#bm .quiz .quiz-options h3{padding-right:10px;margin:0 0 20px;font-size:22px;line-height:1.23}
+#bm .quiz .quiz-choices{grid-template-columns:repeat(2,minmax(0,1fr));gap:15px}
+#bm .quiz .quiz-choices:not(.image-choices) label{padding-top:.4px;line-height:1.2}
+#bm .quiz .image-choices{grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;padding-top:7px}
+#bm .quiz .image-choices label{position:relative;font-size:16px;line-height:1.1}
+#bm .quiz .image-choices img{display:block;box-sizing:content-box;width:100%;height:auto;aspect-ratio:1;border:1px solid rgba(0,0,0,.1);border-radius:15px;margin:0 0 10px}
+#bm .quiz .image-choices input{position:absolute;opacity:0;width:1px;height:1px}
+#bm .quiz .quiz-bottom,#bm .quiz[data-quiz-step="5"] .quiz-bottom{position:sticky;bottom:0;left:auto;right:auto;flex:none;margin:0;padding:20px 45px 45px;background:linear-gradient(to bottom,transparent,#fff 20px);gap:40px}
+#bm .quiz .quiz-next{width:auto;min-width:130px;font-size:16px;line-height:1.4;font-weight:400;padding:15px 30px;display:flex;align-items:center;justify-content:center;gap:10px;white-space:nowrap}
+#bm .quiz .quiz-next svg{width:18px;height:18px;flex:none}
+#bm .quiz[data-quiz-step="0"] .quiz-footer-buttons:before{content:"";display:block;flex:0 0 52px;height:52.390625px}
+#bm .quiz .quiz-final h3{margin:0;padding-bottom:15px}
+#bm .quiz .quiz-subtitle{margin:-15px 0 20px}
+}
+@media(min-width:961px){
+#bm .quiz{width:780px;height:608px;min-height:608px}
+}
+@media(min-width:1201px){
+#bm .quiz{width:960px}
+#bm .quiz .quiz-options h3{margin-bottom:25px}
+#bm .quiz .quiz-final h3{margin:0}
+}
