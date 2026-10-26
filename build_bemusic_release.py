@@ -3,7 +3,7 @@ import re, base64, mimetypes, hashlib, json, shutil, zipfile
 
 root = Path(__file__).resolve().parent
 src = root / 'github-preview' if (root / 'github-preview').is_dir() else root
-out = root / 'bemusic-release-v61'
+out = root / 'bemusic-release-v62'
 out.mkdir(exist_ok=True)
 html = (src / 'index.html').read_text()
 css = re.findall(r'<link[^>]+href="([^" ]+\.css(?:\?[^" ]*)?)"[^>]*>', html)
@@ -84,7 +84,7 @@ shutil.copyfile(root / 'BEMUSIC_AUDIT.md', out / 'BEMUSIC_AUDIT.md')
 package_names = sorted(set(files + ['BEMUSIC_AUDIT.md', 'README.md']))
 manifest = {name: {'bytes': (out/name).stat().st_size, 'sha256': hashlib.sha256((out/name).read_bytes()).hexdigest()} for name in package_names}
 (out / 'MANIFEST.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2))
-archive = root / 'BEMUSIC_RELEASE_v61.zip'
+archive = root / 'BEMUSIC_RELEASE_v62.zip'
 archive_temp = archive.with_suffix('.zip.building')
 with zipfile.ZipFile(archive_temp, 'w', zipfile.ZIP_DEFLATED) as z:
     for name in sorted(package_names + ['MANIFEST.json']):
