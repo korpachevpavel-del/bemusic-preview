@@ -1,0 +1,26 @@
+{
+  "commit": "91298a9d67f96c1b9fea5f874a73ff7322846035",
+  "files_match": {
+    "direction-teachers-v62.css": true,
+    "vokal-v-odincovo.html": true,
+    "igra-na-gitare-v-odincovo.html": true,
+    "igra-na-fortepiano-v-odincovo.html": true,
+    "kids.html": true,
+    "build_vocal_page.py": true,
+    "build_guitar_page.py": true,
+    "build_piano_page.py": true,
+    "build_kids_page.py": true,
+    "build_bemusic_release.py": true,
+    "VOCAL_STANDALONE.html": true,
+    "BEMUSIC_RELEASE_v62.zip": true,
+    "BEMUSIC_AUDIT.md": true,
+    "V61_HANDOFF.md": true,
+    "V62_HANDOFF.md": true,
+    "qa-v62-before.json": true
+  },
+  "archive_crc_error": null,
+  "archive_entries": 168,
+  "sha256": "ea42d151d25899a7675f877af642b12113bf2c99b47d4024656adc911c8b8cd9",
+  "manifest_hashes": 167,
+  "manifest_errors": []
+}
